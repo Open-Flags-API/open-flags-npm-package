@@ -1,11 +1,16 @@
 {
   "name": "open-flags-npm-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "A package containing SVG files of regional flags",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": ["svg", "icons"],
+  "author": "RAD Labz",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.14.11",
+    "typescript": "^5.5.3"
+  }
 }
