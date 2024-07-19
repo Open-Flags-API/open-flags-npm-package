@@ -5,4 +5,7 @@ class WorkingDemo {
     }
 }
 
+const demo = new WorkingDemo();
+console.log(demo.greet('John Doe'))
+
 export default WorkingDemo;
