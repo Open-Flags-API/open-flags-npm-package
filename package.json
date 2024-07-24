@@ -1,6 +1,6 @@
 {
   "name": "open-flags",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A package for resolving flag SVGs",
   "main": "dist/open-flags.umd.js",
   "module": "dist/open-flags.es.js",
