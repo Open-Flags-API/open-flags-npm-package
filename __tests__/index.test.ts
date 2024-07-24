@@ -2,7 +2,7 @@ import { getFlagSvg } from '../src/index';
 
 describe('getFlagSvg function', () => {
   test('should return correct SVG for a given flag', () => {
-    const svg = getFlagSvg('usa', 'colorado');
+    const svg = getFlagSvg('usa', 'california');
     console.log(svg);
     expect(svg).toContain('<svg');
   });

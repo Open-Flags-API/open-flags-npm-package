@@ -11,6 +11,6 @@
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true
   },
-  "include": ["src", "flags", "__tests__", "declaration.d.ts"],
+  "include": ["src", "flags", "__tests__", "scripts", "declaration.d.ts"],
   "exclude": ["node_modules"]
 }
