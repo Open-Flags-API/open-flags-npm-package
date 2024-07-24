@@ -2,12 +2,11 @@
   "name": "open-flags",
   "version": "0.0.1",
   "description": "A package containing SVG files of regional flags categorized by regions and countries",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/open-flags.umd.js",
+  "module": "dist/open-flags.es.js",
   "scripts": {
-    "build:cjs": "tsc",
-    "build:esm": "tsc --p tsconfig.esm.json",
-    "build": "npm run build:cjs && npm run build:esm",
+    "build": "vite build && npm run copy-assets",
+    "copy-assets": "copyfiles -u 1 'node_modules/open-flags/dist/assets/**/*' 'public/assets'",
     "start": "tsc && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "tsc -w"
@@ -29,7 +28,14 @@
     "@vitejs/plugin-vue": "^5.1.0",
     "@vitejs/plugin-vue-jsx": "^4.0.0",
     "path-browserify": "^1.0.1",
+    "rollup-plugin-copy": "^3.5.0",
     "typescript": "^5.5.3",
     "vite": "^5.3.4"
+  },
+  "devDependencies": {
+    "@types/path-browserify": "^1.0.2",
+    "copyfiles": "^2.4.1",
+    "vite-plugin-dts": "^4.0.0-beta.1",
+    "vite-plugin-svg": "^0.7.0"
   }
 }

@@ -1,13 +1,22 @@
-import * as path from 'path';
-import * as fs from 'fs';
+const hamburg = require('!!raw-loader!../assets/flags/germany/hamburg.svg');
 
-const getSvgPath = (region: string, country: string): string => {
-    const filePath = path.join(__dirname, '..', 'assets', region, `${country}.svg`);
-    if (fs.existsSync(filePath)) {
-        return filePath;
-    } else {
-        throw new Error(`SVG for ${country} in ${region} not found`);
-    }
+const svgMap: { [key: string]: string } = {
+  'germany/hamburg': hamburg,
 };
 
-export { getSvgPath };
+const getSvgContent = (region: string, country: string): string => {
+  const key = `${region}/${country}`;
+  const svgContent = svgMap[key];
+  if (!svgContent) {
+    throw new Error(`SVG for ${country} in ${region} not found`);
+  }
+  return svgContent;
+};
+
+const listCountriesInRegion = (region: string): string[] => {
+  return Object.keys(svgMap)
+    .filter(key => key.startsWith(region))
+    .map(key => key.split('/')[1]);
+};
+
+export { getSvgContent, listCountriesInRegion };

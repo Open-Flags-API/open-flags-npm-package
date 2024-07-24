@@ -1,13 +1,9 @@
-import * as path from 'path';
-import * as fs from 'fs';
+import path from 'path-browserify';
 
 const listCountriesInRegion = (region: string): string[] => {
-    const regionPath = path.join(__dirname, '..', 'assets', region);
-    if (fs.existsSync(regionPath)) {
-      return fs.readdirSync(regionPath).map(file => path.basename(file, '.svg'));
-    } else {
-      throw new Error(`Region ${region} not found`);
-    }
-  };
-  
-  export { listCountriesInRegion };
+  // Mock function since fs operations aren't available in the browser
+  // This should ideally fetch a pre-generated list or similar
+  return ['honk', 'bonk', 'donk'];
+};
+
+export { listCountriesInRegion };
