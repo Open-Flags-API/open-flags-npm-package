@@ -5,21 +5,30 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsc",
+    "build:cjs": "tsc",
+    "build:esm": "tsc --p tsconfig.esm.json",
+    "build": "npm run build:cjs && npm run build:esm",
     "start": "tsc && node dist/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc -w"
   },
   "keywords": [
     "svg",
-    "icons"
+    "countries",
+    "regions",
+    "assets"
   ],
   "author": "RAD Labz",
   "files": [
     "assets",
-    "dist"
+    "dist",
+    "esm"
   ],
   "dependencies": {
     "@types/node": "^20.14.11",
-    "typescript": "^5.5.3"
+    "@vitejs/plugin-vue": "^5.1.0",
+    "@vitejs/plugin-vue-jsx": "^4.0.0",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.4"
   }
 }
