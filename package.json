@@ -1,6 +1,6 @@
 {
   "name": "open-flags",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A package for resolving flag SVGs",
   "main": "dist/open-flags.umd.js",
   "module": "dist/open-flags.es.js",
@@ -20,7 +20,7 @@
     "images"
   ],
   "author": "shyaboi",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "bugs": {
     "url": "https://github.com/shyaboi/openflagsapi/issues"
   },
