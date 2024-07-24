@@ -1,22 +1,11 @@
-const hamburg = require('!!raw-loader!../assets/flags/germany/hamburg.svg');
+// src/index.ts
+import { flags } from '../flags';
 
-const svgMap: { [key: string]: string } = {
-  'germany/hamburg': hamburg,
-};
-
-const getSvgContent = (region: string, country: string): string => {
-  const key = `${region}/${country}`;
-  const svgContent = svgMap[key];
-  if (!svgContent) {
-    throw new Error(`SVG for ${country} in ${region} not found`);
+export function getFlagSvg(country: string, region: string): string {
+  const key = `${country}-${region}`;
+  const svg = flags[key];
+  if (!svg) {
+    throw new Error(`SVG not found for ${country}-${region}`);
   }
-  return svgContent;
-};
-
-const listCountriesInRegion = (region: string): string[] => {
-  return Object.keys(svgMap)
-    .filter(key => key.startsWith(region))
-    .map(key => key.split('/')[1]);
-};
-
-export { getSvgContent, listCountriesInRegion };
+  return svg;
+}

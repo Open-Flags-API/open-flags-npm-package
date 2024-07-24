@@ -1,14 +1,16 @@
 {
   "compilerOptions": {
-    "target": "ES6",
-    "module": "ESNext",
-    "declaration": true,
-    "declarationDir": "./dist/types",
-    "outDir": "./dist",
+    "target": "esnext",
+    "module": "esnext",
     "strict": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "outDir": "./dist",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true
   },
-  "include": ["src/**/*"]
+  "include": ["src", "flags", "__tests__", "declaration.d.ts"],
+  "exclude": ["node_modules"]
 }
