@@ -1,0 +1,8 @@
+# open-flags-npm-package
+
+A package containing SVG files of regional flags categorized by regions and countries
+
+## Installation
+
+```bash
+npm install open-flags

@@ -1,11 +1,13 @@
+import * as path from 'path';
+import * as fs from 'fs';
 
-class WorkingDemo {
-    greet(name: string) {
-        return `Hello, ${name}! Welcome to my package.`;
-    }
-}
+const getSvgPath = (region: string, country: string): string => {
+  const filePath = path.join(__dirname, '..', 'assets', region, `${country}.svg`);
+  if (fs.existsSync(filePath)) {
+    return filePath;
+  } else {
+    throw new Error(`SVG for ${country} in ${region} not found`);
+  }
+};
 
-const demo = new WorkingDemo();
-console.log(demo.greet('John Doe'))
-
-export default WorkingDemo;
+export { getSvgPath };

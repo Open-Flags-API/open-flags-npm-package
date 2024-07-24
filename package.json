@@ -1,15 +1,23 @@
 {
-  "name": "open-flags-npm-package",
-  "version": "1.0.0",
-  "description": "A package containing SVG files of regional flags",
-  "main": "index.js",
+  "name": "open-flags",
+  "version": "0.0.1",
+  "description": "A package containing SVG files of regional flags categorized by regions and countries",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "tsc && node dist/index.js"
+    "build": "tsc",
+    "start": "tsc && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["svg", "icons"],
+  "keywords": [
+    "svg",
+    "icons"
+  ],
   "author": "RAD Labz",
-  "license": "ISC",
+  "files": [
+    "assets",
+    "dist"
+  ],
   "dependencies": {
     "@types/node": "^20.14.11",
     "typescript": "^5.5.3"
