@@ -258,16 +258,17 @@ yarn add open-flags
 ```
 
 
-API
-getFlagSvg(country: string, region: string): string
+## API
+
+#### getFlagSvg(country: string, region: string): string
 Returns the SVG content for the specified country and region.
 
-getAllFlags(): string[]
+#### getAllFlags(): string[]
 Returns an array of all available flags in the format country/region.
 
-getFlagsByCountry(country: string): string[]
+#### getFlagsByCountry(country: string): string[]
 Returns an array of flags for the specified country.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
 
