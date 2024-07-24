@@ -14,6 +14,7 @@ function walkDir(dir: string, callback: (filePath: string) => void) {
 
 const imports: string[] = [];
 const exportsArr: string[] = [];
+const flagList: string[] = [];
 
 walkDir(flagsDir, (filePath: string) => {
   if (filePath.endsWith('.svg')) {
@@ -22,6 +23,7 @@ walkDir(flagsDir, (filePath: string) => {
     const originalPath = relativePath.replace(/'/g, "\\'");
     imports.push(`import ${sanitizedImportName} from './${originalPath}';`);
     exportsArr.push(`  "${relativePath.replace('.svg', '').replace(/'/g, "\\'")}": ${sanitizedImportName},`);
+    flagList.push(`"${relativePath.replace('.svg', '').replace(/'/g, "\\'")}"`);
   }
 });
 
@@ -30,6 +32,10 @@ const fileContent = `${imports.join('\n')}
 export const flags: Record<string, string> = {
 ${exportsArr.join('\n')}
 };
+
+export const flagList: string[] = [
+${flagList.join(',\n')}
+];
 `;
 
 fs.writeFileSync(outputFilePath, fileContent);
