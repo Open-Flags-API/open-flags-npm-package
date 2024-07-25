@@ -54,8 +54,7 @@ const FlagList: React.FC = () => {
           return (
             <div key={flag}>
               <h2>{flag}</h2>
-              <div dangerouslySetInnerHTML={{ __html: svgContent }} />
-            </div>
+              <img src={svgContent} alt='flag' />
           );
         })}
       </div>
