@@ -16,7 +16,7 @@ yarn add open-flags
 ```
 
 ## Documentation
-vist https://docs.openflags.net/implementations/npm/ for more documentation
+vist [Open Flags Docs](https://docs.openflags.net/implementations/npm/) for more documentation
 # Usage
 
 ## React
