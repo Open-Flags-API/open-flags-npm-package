@@ -1,0 +1,1394 @@
+{
+  "BRAZIL-ACRE": {
+    "country": "brazil",
+    "subdivision": "acre"
+  },
+  "BRAZIL-ALAGOAS": {
+    "country": "brazil",
+    "subdivision": "alagoas"
+  },
+  "BRAZIL-AMAPÁ": {
+    "country": "brazil",
+    "subdivision": "amapá"
+  },
+  "BRAZIL-AMAZONAS": {
+    "country": "brazil",
+    "subdivision": "amazonas"
+  },
+  "BRAZIL-BAHIA": {
+    "country": "brazil",
+    "subdivision": "bahia"
+  },
+  "BRAZIL-BRAZIL": {
+    "country": "brazil",
+    "subdivision": "brazil"
+  },
+  "BRAZIL-CEARÁ": {
+    "country": "brazil",
+    "subdivision": "ceará"
+  },
+  "BRAZIL-DISTRITO-FEDERAL": {
+    "country": "brazil",
+    "subdivision": "distrito-federal"
+  },
+  "BRAZIL-ESPÍRITO-SANTO": {
+    "country": "brazil",
+    "subdivision": "espírito-santo"
+  },
+  "BRAZIL-ESTADO-RIO-DE-JANEIRO": {
+    "country": "brazil",
+    "subdivision": "estado-rio-de-janeiro"
+  },
+  "BRAZIL-GOIÁS": {
+    "country": "brazil",
+    "subdivision": "goiás"
+  },
+  "BRAZIL-MARANHÃO": {
+    "country": "brazil",
+    "subdivision": "maranhão"
+  },
+  "BRAZIL-MATO-GROSSO-DO-SUL": {
+    "country": "brazil",
+    "subdivision": "mato-grosso-do-sul"
+  },
+  "BRAZIL-MATO-GROSSO": {
+    "country": "brazil",
+    "subdivision": "mato-grosso"
+  },
+  "BRAZIL-MINAS-GERAIS": {
+    "country": "brazil",
+    "subdivision": "minas-gerais"
+  },
+  "BRAZIL-PARANÁ": {
+    "country": "brazil",
+    "subdivision": "paraná"
+  },
+  "BRAZIL-PARAÍBA": {
+    "country": "brazil",
+    "subdivision": "paraíba"
+  },
+  "BRAZIL-PARÁ": {
+    "country": "brazil",
+    "subdivision": "pará"
+  },
+  "BRAZIL-PERNAMBUCO": {
+    "country": "brazil",
+    "subdivision": "pernambuco"
+  },
+  "BRAZIL-PIAUÍ": {
+    "country": "brazil",
+    "subdivision": "piauí"
+  },
+  "BRAZIL-RIO-GRANDE-DO-NORTE": {
+    "country": "brazil",
+    "subdivision": "rio-grande-do-norte"
+  },
+  "BRAZIL-RIO-GRANDE-DO-SUL": {
+    "country": "brazil",
+    "subdivision": "rio-grande-do-sul"
+  },
+  "BRAZIL-RONDÔNIA": {
+    "country": "brazil",
+    "subdivision": "rondônia"
+  },
+  "BRAZIL-RORAIMA": {
+    "country": "brazil",
+    "subdivision": "roraima"
+  },
+  "BRAZIL-SANTA-CATARINA": {
+    "country": "brazil",
+    "subdivision": "santa-catarina"
+  },
+  "BRAZIL-SERGIPE": {
+    "country": "brazil",
+    "subdivision": "sergipe"
+  },
+  "BRAZIL-SÃO-PAULO": {
+    "country": "brazil",
+    "subdivision": "são-paulo"
+  },
+  "BRAZIL-TOCANTINS": {
+    "country": "brazil",
+    "subdivision": "tocantins"
+  },
+  "CANADA-ALBERTA": {
+    "country": "canada",
+    "subdivision": "alberta"
+  },
+  "CANADA-BRITISH-COLUMBIA": {
+    "country": "canada",
+    "subdivision": "british-columbia"
+  },
+  "CANADA-CANADA": {
+    "country": "canada",
+    "subdivision": "canada"
+  },
+  "CANADA-GOVERNOR-GENERAL-OF-CANADA": {
+    "country": "canada",
+    "subdivision": "governor-general-of-canada"
+  },
+  "CANADA-MANITOBA": {
+    "country": "canada",
+    "subdivision": "manitoba"
+  },
+  "CANADA-NEW-BRUNSWICK": {
+    "country": "canada",
+    "subdivision": "new-brunswick"
+  },
+  "CANADA-NEWFOUNDLAND-AND-LABRADOR": {
+    "country": "canada",
+    "subdivision": "newfoundland-and-labrador"
+  },
+  "CANADA-NORTHWEST-TERRITORIES": {
+    "country": "canada",
+    "subdivision": "northwest-territories"
+  },
+  "CANADA-NOVA-SCOTIA": {
+    "country": "canada",
+    "subdivision": "nova-scotia"
+  },
+  "CANADA-NUNAVUT": {
+    "country": "canada",
+    "subdivision": "nunavut"
+  },
+  "CANADA-ONTARIO": {
+    "country": "canada",
+    "subdivision": "ontario"
+  },
+  "CANADA-PRINCE-EDWARD-ISLAND": {
+    "country": "canada",
+    "subdivision": "prince-edward-island"
+  },
+  "CANADA-QUEBEC": {
+    "country": "canada",
+    "subdivision": "quebec"
+  },
+  "CANADA-ROYAL-STANDARD-MEMBERS-CANADIAN-ROYAL-FAMILY": {
+    "country": "canada",
+    "subdivision": "royal-standard-members-canadian-royal-family"
+  },
+  "CANADA-SASKATCHEWAN": {
+    "country": "canada",
+    "subdivision": "saskatchewan"
+  },
+  "CANADA-YUKON": {
+    "country": "canada",
+    "subdivision": "yukon"
+  },
+  "ENGLAND-BEDFORDSHIRE": {
+    "country": "england",
+    "subdivision": "bedfordshire"
+  },
+  "ENGLAND-BERKSHIRE": {
+    "country": "england",
+    "subdivision": "berkshire"
+  },
+  "ENGLAND-BIRMINGHAM": {
+    "country": "england",
+    "subdivision": "birmingham"
+  },
+  "ENGLAND-BLACK-COUNTRY": {
+    "country": "england",
+    "subdivision": "black-country"
+  },
+  "ENGLAND-BUCKINGHAMSHIRE": {
+    "country": "england",
+    "subdivision": "buckinghamshire"
+  },
+  "ENGLAND-CAMBRIDGESHIRE": {
+    "country": "england",
+    "subdivision": "cambridgeshire"
+  },
+  "ENGLAND-CHESHIRE": {
+    "country": "england",
+    "subdivision": "cheshire"
+  },
+  "ENGLAND-CITY-OF-LONDON": {
+    "country": "england",
+    "subdivision": "city-of-london"
+  },
+  "ENGLAND-CORNWALL": {
+    "country": "england",
+    "subdivision": "cornwall"
+  },
+  "ENGLAND-CUMBERLAND": {
+    "country": "england",
+    "subdivision": "cumberland"
+  },
+  "ENGLAND-CUMBRIA": {
+    "country": "england",
+    "subdivision": "cumbria"
+  },
+  "ENGLAND-DACORUM": {
+    "country": "england",
+    "subdivision": "dacorum"
+  },
+  "ENGLAND-DERBYSHIRE": {
+    "country": "england",
+    "subdivision": "derbyshire"
+  },
+  "ENGLAND-DEVON": {
+    "country": "england",
+    "subdivision": "devon"
+  },
+  "ENGLAND-DURHAM": {
+    "country": "england",
+    "subdivision": "durham"
+  },
+  "ENGLAND-EAST-ANGLIA": {
+    "country": "england",
+    "subdivision": "east-anglia"
+  },
+  "ENGLAND-EAST-SUSSEX": {
+    "country": "england",
+    "subdivision": "east-sussex"
+  },
+  "ENGLAND-ENGLAND": {
+    "country": "england",
+    "subdivision": "england"
+  },
+  "ENGLAND-ESSEX": {
+    "country": "england",
+    "subdivision": "essex"
+  },
+  "ENGLAND-GREATER-LONDON": {
+    "country": "england",
+    "subdivision": "greater-london"
+  },
+  "ENGLAND-GREATER-MANCHESTER": {
+    "country": "england",
+    "subdivision": "greater-manchester"
+  },
+  "ENGLAND-HAMPSHIRE": {
+    "country": "england",
+    "subdivision": "hampshire"
+  },
+  "ENGLAND-HEREFORDSHIRE": {
+    "country": "england",
+    "subdivision": "herefordshire"
+  },
+  "ENGLAND-HERTFORDSHIRE": {
+    "country": "england",
+    "subdivision": "hertfordshire"
+  },
+  "ENGLAND-HUNTINGDONSHIRE": {
+    "country": "england",
+    "subdivision": "huntingdonshire"
+  },
+  "ENGLAND-ISLE-OF-WIGHT": {
+    "country": "england",
+    "subdivision": "isle-of-wight"
+  },
+  "ENGLAND-KENT": {
+    "country": "england",
+    "subdivision": "kent"
+  },
+  "ENGLAND-LANCASHIRE": {
+    "country": "england",
+    "subdivision": "lancashire"
+  },
+  "ENGLAND-LEICESTERSHIRE": {
+    "country": "england",
+    "subdivision": "leicestershire"
+  },
+  "ENGLAND-LINCOLN": {
+    "country": "england",
+    "subdivision": "lincoln"
+  },
+  "ENGLAND-LINCOLNSHIRE": {
+    "country": "england",
+    "subdivision": "lincolnshire"
+  },
+  "ENGLAND-MERCIA": {
+    "country": "england",
+    "subdivision": "mercia"
+  },
+  "ENGLAND-MERSEYSIDE": {
+    "country": "england",
+    "subdivision": "merseyside"
+  },
+  "ENGLAND-MIDDLESEX": {
+    "country": "england",
+    "subdivision": "middlesex"
+  },
+  "ENGLAND-NORFOLK": {
+    "country": "england",
+    "subdivision": "norfolk"
+  },
+  "ENGLAND-NORTHAMPTONSHIRE": {
+    "country": "england",
+    "subdivision": "northamptonshire"
+  },
+  "ENGLAND-NORTHUMBERLAND": {
+    "country": "england",
+    "subdivision": "northumberland"
+  },
+  "ENGLAND-NOTTINGHAMSHIRE": {
+    "country": "england",
+    "subdivision": "nottinghamshire"
+  },
+  "ENGLAND-OXFORDSHIRE": {
+    "country": "england",
+    "subdivision": "oxfordshire"
+  },
+  "ENGLAND-PORTSMOUTH": {
+    "country": "england",
+    "subdivision": "portsmouth"
+  },
+  "ENGLAND-PURBECK": {
+    "country": "england",
+    "subdivision": "purbeck"
+  },
+  "ENGLAND-ROYAL-STANDARD": {
+    "country": "england",
+    "subdivision": "royal-standard"
+  },
+  "ENGLAND-RUTLAND": {
+    "country": "england",
+    "subdivision": "rutland"
+  },
+  "ENGLAND-SAINT-ALBAN'S-CROSS": {
+    "country": "england",
+    "subdivision": "saint-alban's-cross"
+  },
+  "ENGLAND-SAINT-WITE'S-CROSS": {
+    "country": "england",
+    "subdivision": "saint-wite's-cross"
+  },
+  "ENGLAND-SCILLONIANCROSS": {
+    "country": "england",
+    "subdivision": "scilloniancross"
+  },
+  "ENGLAND-SEVERN-CROSS": {
+    "country": "england",
+    "subdivision": "severn-cross"
+  },
+  "ENGLAND-SHROPSHIRE": {
+    "country": "england",
+    "subdivision": "shropshire"
+  },
+  "ENGLAND-SOMERSET": {
+    "country": "england",
+    "subdivision": "somerset"
+  },
+  "ENGLAND-SOUTH-YORKSHIRE": {
+    "country": "england",
+    "subdivision": "south-yorkshire"
+  },
+  "ENGLAND-STAFFORDSHIRE": {
+    "country": "england",
+    "subdivision": "staffordshire"
+  },
+  "ENGLAND-SUFFOLK": {
+    "country": "england",
+    "subdivision": "suffolk"
+  },
+  "ENGLAND-SURREY": {
+    "country": "england",
+    "subdivision": "surrey"
+  },
+  "ENGLAND-SUSSEX": {
+    "country": "england",
+    "subdivision": "sussex"
+  },
+  "ENGLAND-TYNE-&-WEAR": {
+    "country": "england",
+    "subdivision": "tyne-&-Wear"
+  },
+  "ENGLAND-WARWICKSHIRE": {
+    "country": "england",
+    "subdivision": "warwickshire"
+  },
+  "ENGLAND-WESSEX": {
+    "country": "england",
+    "subdivision": "wessex"
+  },
+  "ENGLAND-WEST-MIDLANDS-COUNTY": {
+    "country": "england",
+    "subdivision": "west-midlands-county"
+  },
+  "ENGLAND-WESTMORLAND": {
+    "country": "england",
+    "subdivision": "westmorland"
+  },
+  "ENGLAND-WILTSHIRE": {
+    "country": "england",
+    "subdivision": "wiltshire"
+  },
+  "ENGLAND-WORCESTERSHIRE": {
+    "country": "england",
+    "subdivision": "worcestershire"
+  },
+  "ENGLAND-YORK": {
+    "country": "england",
+    "subdivision": "york"
+  },
+  "ENGLAND-YORKSHIRE": {
+    "country": "england",
+    "subdivision": "yorkshire"
+  },
+  "GERMANY-BADEN-WÜRTTEMBERG": {
+    "country": "germany",
+    "subdivision": "baden-württemberg"
+  },
+  "GERMANY-BAVARIA": {
+    "country": "germany",
+    "subdivision": "bavaria"
+  },
+  "GERMANY-BAYERN": {
+    "country": "germany",
+    "subdivision": "bayern"
+  },
+  "GERMANY-BERLIN": {
+    "country": "germany",
+    "subdivision": "berlin"
+  },
+  "GERMANY-BRANDENBURG": {
+    "country": "germany",
+    "subdivision": "brandenburg"
+  },
+  "GERMANY-BREMEN": {
+    "country": "germany",
+    "subdivision": "bremen"
+  },
+  "GERMANY-COA-GERMANY": {
+    "country": "germany",
+    "subdivision": "coa-germany"
+  },
+  "GERMANY-GERMANY": {
+    "country": "germany",
+    "subdivision": "germany"
+  },
+  "GERMANY-HAMBURG": {
+    "country": "germany",
+    "subdivision": "hamburg"
+  },
+  "GERMANY-HESSEN": {
+    "country": "germany",
+    "subdivision": "hessen"
+  },
+  "GERMANY-MECKLENBURG-VORPOMMERN": {
+    "country": "germany",
+    "subdivision": "mecklenburg-vorpommern"
+  },
+  "GERMANY-MECKLENBURG-WESTERN-POMERANIA": {
+    "country": "germany",
+    "subdivision": "mecklenburg-western-pomerania"
+  },
+  "GERMANY-NIEDERSACHSEN": {
+    "country": "germany",
+    "subdivision": "niedersachsen"
+  },
+  "GERMANY-NORDRHEIN-WESTFALEN": {
+    "country": "germany",
+    "subdivision": "nordrhein-westfalen"
+  },
+  "GERMANY-RHEINLAND-PFALZ": {
+    "country": "germany",
+    "subdivision": "rheinland-pfalz"
+  },
+  "GERMANY-SAARLAND": {
+    "country": "germany",
+    "subdivision": "saarland"
+  },
+  "GERMANY-SACHSEN-ANHALT": {
+    "country": "germany",
+    "subdivision": "sachsen-anhalt"
+  },
+  "GERMANY-SACHSEN": {
+    "country": "germany",
+    "subdivision": "sachsen"
+  },
+  "GERMANY-SCHLESWIG-HOLSTEIN": {
+    "country": "germany",
+    "subdivision": "schleswig-holstein"
+  },
+  "GERMANY-THÜRINGEN": {
+    "country": "germany",
+    "subdivision": "thüringen"
+  },
+  "INDONESIA-BALI": {
+    "country": "indonesia",
+    "subdivision": "bali"
+  },
+  "INDONESIA-BANDUNG": {
+    "country": "indonesia",
+    "subdivision": "bandung"
+  },
+  "INDONESIA-BANGKA-BELITUNG": {
+    "country": "indonesia",
+    "subdivision": "bangka-belitung"
+  },
+  "INDONESIA-CENTRAL-JAVA": {
+    "country": "indonesia",
+    "subdivision": "central-java"
+  },
+  "INDONESIA-EAST-JAVA": {
+    "country": "indonesia",
+    "subdivision": "east-java"
+  },
+  "INDONESIA-EAST-KALIMANTAN": {
+    "country": "indonesia",
+    "subdivision": "east-kalimantan"
+  },
+  "INDONESIA-EAST-NUSA-TENGGARA": {
+    "country": "indonesia",
+    "subdivision": "east-nusa-tenggara"
+  },
+  "INDONESIA-INDONESIA": {
+    "country": "indonesia",
+    "subdivision": "indonesia"
+  },
+  "INDONESIA-JAKARTA": {
+    "country": "indonesia",
+    "subdivision": "jakarta"
+  },
+  "INDONESIA-JAMBI": {
+    "country": "indonesia",
+    "subdivision": "jambi"
+  },
+  "INDONESIA-LAMPUNG": {
+    "country": "indonesia",
+    "subdivision": "lampung"
+  },
+  "INDONESIA-NORTH-SULAWESI": {
+    "country": "indonesia",
+    "subdivision": "north-sulawesi"
+  },
+  "INDONESIA-NORTH-SUMATRA": {
+    "country": "indonesia",
+    "subdivision": "north-sumatra"
+  },
+  "INDONESIA-PAPUA": {
+    "country": "indonesia",
+    "subdivision": "papua"
+  },
+  "INDONESIA-RIAU": {
+    "country": "indonesia",
+    "subdivision": "riau"
+  },
+  "INDONESIA-SOUTH-SULAWESI": {
+    "country": "indonesia",
+    "subdivision": "south-sulawesi"
+  },
+  "INDONESIA-SOUTH-SUMATRA": {
+    "country": "indonesia",
+    "subdivision": "south-sumatra"
+  },
+  "INDONESIA-SOUTHEAST-SULAWESI": {
+    "country": "indonesia",
+    "subdivision": "southeast-sulawesi"
+  },
+  "INDONESIA-WEST-JAVA": {
+    "country": "indonesia",
+    "subdivision": "west-java"
+  },
+  "INDONESIA-WEST-KALIMANTAN": {
+    "country": "indonesia",
+    "subdivision": "west-kalimantan"
+  },
+  "INDONESIA-WEST-NUSA-TENGGARA": {
+    "country": "indonesia",
+    "subdivision": "west-nusa-tenggara"
+  },
+  "INDONESIA-WEST-PAPUA": {
+    "country": "indonesia",
+    "subdivision": "west-papua"
+  },
+  "MARSHALL-ISLANDS-MARSHALL-ISLANDS": {
+    "country": "marshall-islands",
+    "subdivision": "marshall-islands"
+  },
+  "MEXICO-AGUASCALIENTES": {
+    "country": "mexico",
+    "subdivision": "aguascalientes"
+  },
+  "MEXICO-BAJA-CALIFORNIA-SUR": {
+    "country": "mexico",
+    "subdivision": "baja-california-sur"
+  },
+  "MEXICO-BAJA-CALIFORNIA": {
+    "country": "mexico",
+    "subdivision": "baja-california"
+  },
+  "MEXICO-CAMPECHE": {
+    "country": "mexico",
+    "subdivision": "campeche"
+  },
+  "MEXICO-CHIAPAS": {
+    "country": "mexico",
+    "subdivision": "chiapas"
+  },
+  "MEXICO-CHIHUAHUA": {
+    "country": "mexico",
+    "subdivision": "chihuahua"
+  },
+  "MEXICO-COAHUILA": {
+    "country": "mexico",
+    "subdivision": "coahuila"
+  },
+  "MEXICO-COLIMA": {
+    "country": "mexico",
+    "subdivision": "colima"
+  },
+  "MEXICO-DURANGO": {
+    "country": "mexico",
+    "subdivision": "durango"
+  },
+  "MEXICO-GUANAJUATO": {
+    "country": "mexico",
+    "subdivision": "guanajuato"
+  },
+  "MEXICO-GUERRERO": {
+    "country": "mexico",
+    "subdivision": "guerrero"
+  },
+  "MEXICO-HIDALGO": {
+    "country": "mexico",
+    "subdivision": "hidalgo"
+  },
+  "MEXICO-JALISCO": {
+    "country": "mexico",
+    "subdivision": "jalisco"
+  },
+  "MEXICO-MEXICO-CITY": {
+    "country": "mexico",
+    "subdivision": "mexico-city"
+  },
+  "MEXICO-MEXICO-STATE": {
+    "country": "mexico",
+    "subdivision": "mexico-state"
+  },
+  "MEXICO-MEXICO": {
+    "country": "mexico",
+    "subdivision": "mexico"
+  },
+  "MEXICO-MICHOACÁN": {
+    "country": "mexico",
+    "subdivision": "michoacán"
+  },
+  "MEXICO-MORELOS": {
+    "country": "mexico",
+    "subdivision": "morelos"
+  },
+  "MEXICO-NAYARIT": {
+    "country": "mexico",
+    "subdivision": "nayarit"
+  },
+  "MEXICO-NUEVO-LEON": {
+    "country": "mexico",
+    "subdivision": "nuevo-leon"
+  },
+  "MEXICO-OAXACA": {
+    "country": "mexico",
+    "subdivision": "oaxaca"
+  },
+  "MEXICO-PUEBLA": {
+    "country": "mexico",
+    "subdivision": "puebla"
+  },
+  "MEXICO-QUERETARO": {
+    "country": "mexico",
+    "subdivision": "queretaro"
+  },
+  "MEXICO-QUINTANA-ROO": {
+    "country": "mexico",
+    "subdivision": "quintana-roo"
+  },
+  "MEXICO-SAN-LUIS-POTOSI": {
+    "country": "mexico",
+    "subdivision": "san-luis-potosi"
+  },
+  "MEXICO-SINALOA": {
+    "country": "mexico",
+    "subdivision": "sinaloa"
+  },
+  "MEXICO-SONORA": {
+    "country": "mexico",
+    "subdivision": "sonora"
+  },
+  "MEXICO-TABASCO": {
+    "country": "mexico",
+    "subdivision": "tabasco"
+  },
+  "MEXICO-TAMAULIPAS": {
+    "country": "mexico",
+    "subdivision": "tamaulipas"
+  },
+  "MEXICO-TLAXCALA": {
+    "country": "mexico",
+    "subdivision": "tlaxcala"
+  },
+  "MEXICO-VERACRUZ": {
+    "country": "mexico",
+    "subdivision": "veracruz"
+  },
+  "MEXICO-YUCATAN": {
+    "country": "mexico",
+    "subdivision": "yucatan"
+  },
+  "MEXICO-ZACATECAS": {
+    "country": "mexico",
+    "subdivision": "zacatecas"
+  },
+  "RUSSIA-ADYGEA": {
+    "country": "russia",
+    "subdivision": "adygea"
+  },
+  "RUSSIA-ALTAI-KRAI": {
+    "country": "russia",
+    "subdivision": "altai-krai"
+  },
+  "RUSSIA-ALTAI": {
+    "country": "russia",
+    "subdivision": "altai"
+  },
+  "RUSSIA-AMUR": {
+    "country": "russia",
+    "subdivision": "amur"
+  },
+  "RUSSIA-ARKHANGELSK": {
+    "country": "russia",
+    "subdivision": "arkhangelsk"
+  },
+  "RUSSIA-ASTRAKHAN": {
+    "country": "russia",
+    "subdivision": "astrakhan"
+  },
+  "RUSSIA-BASHKORTOSTAN": {
+    "country": "russia",
+    "subdivision": "bashkortostan"
+  },
+  "RUSSIA-BELGOROD": {
+    "country": "russia",
+    "subdivision": "belgorod"
+  },
+  "RUSSIA-BRYANSK": {
+    "country": "russia",
+    "subdivision": "bryansk"
+  },
+  "RUSSIA-BURYATIA": {
+    "country": "russia",
+    "subdivision": "buryatia"
+  },
+  "RUSSIA-CHECHEN": {
+    "country": "russia",
+    "subdivision": "chechen"
+  },
+  "RUSSIA-CHELYABINSK": {
+    "country": "russia",
+    "subdivision": "chelyabinsk"
+  },
+  "RUSSIA-CHUKOTKA": {
+    "country": "russia",
+    "subdivision": "chukotka"
+  },
+  "RUSSIA-CHUVASHIA": {
+    "country": "russia",
+    "subdivision": "chuvashia"
+  },
+  "RUSSIA-DAGESTAN": {
+    "country": "russia",
+    "subdivision": "dagestan"
+  },
+  "RUSSIA-INGUSHETIA": {
+    "country": "russia",
+    "subdivision": "ingushetia"
+  },
+  "RUSSIA-IRKUTSK": {
+    "country": "russia",
+    "subdivision": "irkutsk"
+  },
+  "RUSSIA-IVANOVO": {
+    "country": "russia",
+    "subdivision": "ivanovo"
+  },
+  "RUSSIA-JEWISH-AUTONOMOUS-OBLAST": {
+    "country": "russia",
+    "subdivision": "jewish-autonomous-oblast"
+  },
+  "RUSSIA-KABARDINO-BALKARIA": {
+    "country": "russia",
+    "subdivision": "kabardino-balkaria"
+  },
+  "RUSSIA-KALININGRAD": {
+    "country": "russia",
+    "subdivision": "kaliningrad"
+  },
+  "RUSSIA-KALMYKIA": {
+    "country": "russia",
+    "subdivision": "kalmykia"
+  },
+  "RUSSIA-KALUGA": {
+    "country": "russia",
+    "subdivision": "kaluga"
+  },
+  "RUSSIA-KAMCHATKA": {
+    "country": "russia",
+    "subdivision": "kamchatka"
+  },
+  "RUSSIA-KARACHAY-CHERKESSIA": {
+    "country": "russia",
+    "subdivision": "karachay-cherkessia"
+  },
+  "RUSSIA-KARELIA": {
+    "country": "russia",
+    "subdivision": "karelia"
+  },
+  "RUSSIA-KEMEROVO": {
+    "country": "russia",
+    "subdivision": "kemerovo"
+  },
+  "RUSSIA-KHABAROVSK-KRAI": {
+    "country": "russia",
+    "subdivision": "khabarovsk-krai"
+  },
+  "RUSSIA-KHAKASSIA": {
+    "country": "russia",
+    "subdivision": "khakassia"
+  },
+  "RUSSIA-KIROV": {
+    "country": "russia",
+    "subdivision": "kirov"
+  },
+  "RUSSIA-KOMI": {
+    "country": "russia",
+    "subdivision": "komi"
+  },
+  "RUSSIA-KOSTROMA": {
+    "country": "russia",
+    "subdivision": "kostroma"
+  },
+  "RUSSIA-KRASNODAR": {
+    "country": "russia",
+    "subdivision": "krasnodar"
+  },
+  "RUSSIA-KRASNOYARSK-KRAI": {
+    "country": "russia",
+    "subdivision": "krasnoyarsk-krai"
+  },
+  "RUSSIA-KURGAN": {
+    "country": "russia",
+    "subdivision": "kurgan"
+  },
+  "RUSSIA-KURSK": {
+    "country": "russia",
+    "subdivision": "kursk"
+  },
+  "RUSSIA-LENINGRAD": {
+    "country": "russia",
+    "subdivision": "leningrad"
+  },
+  "RUSSIA-LIPETSK": {
+    "country": "russia",
+    "subdivision": "lipetsk"
+  },
+  "RUSSIA-MAGADAN": {
+    "country": "russia",
+    "subdivision": "magadan"
+  },
+  "RUSSIA-MARI-EL": {
+    "country": "russia",
+    "subdivision": "mari-el"
+  },
+  "RUSSIA-MORDOVIA": {
+    "country": "russia",
+    "subdivision": "mordovia"
+  },
+  "RUSSIA-MOSCOW-OBLAST": {
+    "country": "russia",
+    "subdivision": "moscow-oblast"
+  },
+  "RUSSIA-MOSCOW": {
+    "country": "russia",
+    "subdivision": "moscow"
+  },
+  "RUSSIA-MURMANSK": {
+    "country": "russia",
+    "subdivision": "murmansk"
+  },
+  "RUSSIA-NENETS-AUTONOMOUS-DISTRICT": {
+    "country": "russia",
+    "subdivision": "nenets-autonomous-district"
+  },
+  "RUSSIA-NIZHNY-NOVGOROD": {
+    "country": "russia",
+    "subdivision": "nizhny-novgorod"
+  },
+  "RUSSIA-NOVGOROD": {
+    "country": "russia",
+    "subdivision": "novgorod"
+  },
+  "RUSSIA-NOVOSIBIRSK": {
+    "country": "russia",
+    "subdivision": "novosibirsk"
+  },
+  "RUSSIA-OMSK": {
+    "country": "russia",
+    "subdivision": "omsk"
+  },
+  "RUSSIA-ORENBURG": {
+    "country": "russia",
+    "subdivision": "orenburg"
+  },
+  "RUSSIA-ORYOL": {
+    "country": "russia",
+    "subdivision": "oryol"
+  },
+  "RUSSIA-PENZA": {
+    "country": "russia",
+    "subdivision": "penza"
+  },
+  "RUSSIA-PERM-KRAI": {
+    "country": "russia",
+    "subdivision": "perm-krai"
+  },
+  "RUSSIA-PRIMORSKY-KRAI": {
+    "country": "russia",
+    "subdivision": "primorsky-krai"
+  },
+  "RUSSIA-PSKOV": {
+    "country": "russia",
+    "subdivision": "pskov"
+  },
+  "RUSSIA-ROSTOV": {
+    "country": "russia",
+    "subdivision": "rostov"
+  },
+  "RUSSIA-RUSSIA": {
+    "country": "russia",
+    "subdivision": "russia"
+  },
+  "RUSSIA-RYAZAN": {
+    "country": "russia",
+    "subdivision": "ryazan"
+  },
+  "RUSSIA-SAINT-PETERSBURG": {
+    "country": "russia",
+    "subdivision": "saint-petersburg"
+  },
+  "RUSSIA-SAKHA": {
+    "country": "russia",
+    "subdivision": "sakha"
+  },
+  "RUSSIA-SAKHALIN": {
+    "country": "russia",
+    "subdivision": "sakhalin"
+  },
+  "RUSSIA-SAMARA": {
+    "country": "russia",
+    "subdivision": "samara"
+  },
+  "RUSSIA-SARATOV": {
+    "country": "russia",
+    "subdivision": "saratov"
+  },
+  "RUSSIA-SEVERNAJA-OSETIJA": {
+    "country": "russia",
+    "subdivision": "severnaja-osetija"
+  },
+  "RUSSIA-SMOLENSK": {
+    "country": "russia",
+    "subdivision": "smolensk"
+  },
+  "RUSSIA-STAVROPOL-KRAI": {
+    "country": "russia",
+    "subdivision": "stavropol-krai"
+  },
+  "RUSSIA-SVERDLOVSK": {
+    "country": "russia",
+    "subdivision": "sverdlovsk"
+  },
+  "RUSSIA-TAMBOV": {
+    "country": "russia",
+    "subdivision": "tambov"
+  },
+  "RUSSIA-TATARSTAN": {
+    "country": "russia",
+    "subdivision": "tatarstan"
+  },
+  "RUSSIA-TOMSK": {
+    "country": "russia",
+    "subdivision": "tomsk"
+  },
+  "RUSSIA-TULA": {
+    "country": "russia",
+    "subdivision": "tula"
+  },
+  "RUSSIA-TUVA": {
+    "country": "russia",
+    "subdivision": "tuva"
+  },
+  "RUSSIA-TVER": {
+    "country": "russia",
+    "subdivision": "tver"
+  },
+  "RUSSIA-TYUMEN": {
+    "country": "russia",
+    "subdivision": "tyumen"
+  },
+  "RUSSIA-UDMURTIA": {
+    "country": "russia",
+    "subdivision": "udmurtia"
+  },
+  "RUSSIA-ULYANOVSK": {
+    "country": "russia",
+    "subdivision": "ulyanovsk"
+  },
+  "RUSSIA-VLADIMIRSKAYA": {
+    "country": "russia",
+    "subdivision": "vladimirskaya"
+  },
+  "RUSSIA-VOLGOGRAD": {
+    "country": "russia",
+    "subdivision": "volgograd"
+  },
+  "RUSSIA-VOLOGDA": {
+    "country": "russia",
+    "subdivision": "vologda"
+  },
+  "RUSSIA-VORONEZH": {
+    "country": "russia",
+    "subdivision": "voronezh"
+  },
+  "RUSSIA-YAMAL-NENETS-AUTONOMOUS-DISTRICT": {
+    "country": "russia",
+    "subdivision": "yamal-nenets-autonomous-district"
+  },
+  "RUSSIA-YAROSLAVL": {
+    "country": "russia",
+    "subdivision": "yaroslavl"
+  },
+  "RUSSIA-YUGRA": {
+    "country": "russia",
+    "subdivision": "yugra"
+  },
+  "RUSSIA-ZABAYKALSKY-KRAI": {
+    "country": "russia",
+    "subdivision": "zabaykalsky-krai"
+  },
+  "SOUTH-KOREA-BUSAN": {
+    "country": "south-korea",
+    "subdivision": "busan"
+  },
+  "SOUTH-KOREA-DAEGU": {
+    "country": "south-korea",
+    "subdivision": "daegu"
+  },
+  "SOUTH-KOREA-DAEJEON": {
+    "country": "south-korea",
+    "subdivision": "daejeon"
+  },
+  "SOUTH-KOREA-GANGWON": {
+    "country": "south-korea",
+    "subdivision": "gangwon"
+  },
+  "SOUTH-KOREA-GWANGJU": {
+    "country": "south-korea",
+    "subdivision": "gwangju"
+  },
+  "SOUTH-KOREA-GYEONGGI": {
+    "country": "south-korea",
+    "subdivision": "gyeonggi"
+  },
+  "SOUTH-KOREA-INCHEON": {
+    "country": "south-korea",
+    "subdivision": "incheon"
+  },
+  "SOUTH-KOREA-JEJU": {
+    "country": "south-korea",
+    "subdivision": "jeju"
+  },
+  "SOUTH-KOREA-NORTH-CHUNGCHEONG": {
+    "country": "south-korea",
+    "subdivision": "north-chungcheong"
+  },
+  "SOUTH-KOREA-NORTH-GYEONGSANG": {
+    "country": "south-korea",
+    "subdivision": "north-gyeongsang"
+  },
+  "SOUTH-KOREA-NORTH-JEOLLA": {
+    "country": "south-korea",
+    "subdivision": "north-jeolla"
+  },
+  "SOUTH-KOREA-SEJONG": {
+    "country": "south-korea",
+    "subdivision": "sejong"
+  },
+  "SOUTH-KOREA-SEOUL": {
+    "country": "south-korea",
+    "subdivision": "seoul"
+  },
+  "SOUTH-KOREA-SOUTH-CHUNGCHEONG": {
+    "country": "south-korea",
+    "subdivision": "south-chungcheong"
+  },
+  "SOUTH-KOREA-SOUTH-GYEONGSANG": {
+    "country": "south-korea",
+    "subdivision": "south-gyeongsang"
+  },
+  "SOUTH-KOREA-SOUTH-JEOLLA": {
+    "country": "south-korea",
+    "subdivision": "south-jeolla"
+  },
+  "SOUTH-KOREA-SOUTH-KOREA": {
+    "country": "south-korea",
+    "subdivision": "south-korea"
+  },
+  "SOUTH-KOREA-ULSAN": {
+    "country": "south-korea",
+    "subdivision": "ulsan"
+  },
+  "USA-ALABAMA": {
+    "country": "usa",
+    "subdivision": "alabama"
+  },
+  "USA-ALASKA": {
+    "country": "usa",
+    "subdivision": "alaska"
+  },
+  "USA-AMERICAN-SAMOA": {
+    "country": "usa",
+    "subdivision": "american-samoa"
+  },
+  "USA-ARIZONA": {
+    "country": "usa",
+    "subdivision": "arizona"
+  },
+  "USA-ARKANSAS": {
+    "country": "usa",
+    "subdivision": "arkansas"
+  },
+  "USA-CALIFORNIA": {
+    "country": "usa",
+    "subdivision": "california"
+  },
+  "USA-COLORADO": {
+    "country": "usa",
+    "subdivision": "colorado"
+  },
+  "USA-CONNECTICUT": {
+    "country": "usa",
+    "subdivision": "connecticut"
+  },
+  "USA-DELAWARE": {
+    "country": "usa",
+    "subdivision": "delaware"
+  },
+  "USA-DISTRICT-OF-COLUMBIA": {
+    "country": "usa",
+    "subdivision": "district-of-columbia"
+  },
+  "USA-FLORIDA": {
+    "country": "usa",
+    "subdivision": "florida"
+  },
+  "USA-GEORGIA": {
+    "country": "usa",
+    "subdivision": "georgia"
+  },
+  "USA-GEORGIACLASSIC": {
+    "country": "usa",
+    "subdivision": "georgiaClassic"
+  },
+  "USA-GEORGIACLASSIC1": {
+    "country": "usa",
+    "subdivision": "georgiaClassic1"
+  },
+  "USA-GUAM": {
+    "country": "usa",
+    "subdivision": "guam"
+  },
+  "USA-HAWAII": {
+    "country": "usa",
+    "subdivision": "hawaii"
+  },
+  "USA-IDAHO": {
+    "country": "usa",
+    "subdivision": "idaho"
+  },
+  "USA-ILLINOIS": {
+    "country": "usa",
+    "subdivision": "illinois"
+  },
+  "USA-INDIANA": {
+    "country": "usa",
+    "subdivision": "indiana"
+  },
+  "USA-IOWA": {
+    "country": "usa",
+    "subdivision": "iowa"
+  },
+  "USA-KANSAS": {
+    "country": "usa",
+    "subdivision": "kansas"
+  },
+  "USA-KENTUCKY": {
+    "country": "usa",
+    "subdivision": "kentucky"
+  },
+  "USA-LOUISIANA": {
+    "country": "usa",
+    "subdivision": "louisiana"
+  },
+  "USA-MAINE": {
+    "country": "usa",
+    "subdivision": "maine"
+  },
+  "USA-MARYLAND": {
+    "country": "usa",
+    "subdivision": "maryland"
+  },
+  "USA-MASSACHUSETTS": {
+    "country": "usa",
+    "subdivision": "massachusetts"
+  },
+  "USA-MICHIGAN": {
+    "country": "usa",
+    "subdivision": "michigan"
+  },
+  "USA-MINNESOTA": {
+    "country": "usa",
+    "subdivision": "minnesota"
+  },
+  "USA-MINNESOTACLASSIC": {
+    "country": "usa",
+    "subdivision": "minnesotaClassic"
+  },
+  "USA-MISSISSIPPI": {
+    "country": "usa",
+    "subdivision": "mississippi"
+  },
+  "USA-MISSISSIPPICLASSIC": {
+    "country": "usa",
+    "subdivision": "mississippiClassic"
+  },
+  "USA-MISSOURI": {
+    "country": "usa",
+    "subdivision": "missouri"
+  },
+  "USA-MONTANA": {
+    "country": "usa",
+    "subdivision": "montana"
+  },
+  "USA-NEBRASKA": {
+    "country": "usa",
+    "subdivision": "nebraska"
+  },
+  "USA-NEVADA": {
+    "country": "usa",
+    "subdivision": "nevada"
+  },
+  "USA-NEW-HAMPSHIRE": {
+    "country": "usa",
+    "subdivision": "new-hampshire"
+  },
+  "USA-NEW-JERSEY": {
+    "country": "usa",
+    "subdivision": "new-jersey"
+  },
+  "USA-NEW-MEXICO": {
+    "country": "usa",
+    "subdivision": "new-mexico"
+  },
+  "USA-NEW-YORK": {
+    "country": "usa",
+    "subdivision": "new-york"
+  },
+  "USA-NORTH-CAROLINA": {
+    "country": "usa",
+    "subdivision": "north-carolina"
+  },
+  "USA-NORTH-DAKOTA": {
+    "country": "usa",
+    "subdivision": "north-dakota"
+  },
+  "USA-NORTHERN-MARIANA-ISLANDS": {
+    "country": "usa",
+    "subdivision": "northern-mariana-islands"
+  },
+  "USA-OHIO": {
+    "country": "usa",
+    "subdivision": "ohio"
+  },
+  "USA-OKLAHOMA": {
+    "country": "usa",
+    "subdivision": "oklahoma"
+  },
+  "USA-OREGON-BACK": {
+    "country": "usa",
+    "subdivision": "oregon-back"
+  },
+  "USA-OREGON": {
+    "country": "usa",
+    "subdivision": "oregon"
+  },
+  "USA-PENNSYLVANIA": {
+    "country": "usa",
+    "subdivision": "pennsylvania"
+  },
+  "USA-PUERTO-RICO": {
+    "country": "usa",
+    "subdivision": "puerto-rico"
+  },
+  "USA-RHODE-ISLAND": {
+    "country": "usa",
+    "subdivision": "rhode-island"
+  },
+  "USA-SOUTH-CAROLINA": {
+    "country": "usa",
+    "subdivision": "south-carolina"
+  },
+  "USA-SOUTH-DAKOTA": {
+    "country": "usa",
+    "subdivision": "south-dakota"
+  },
+  "USA-TENNESSEE": {
+    "country": "usa",
+    "subdivision": "tennessee"
+  },
+  "USA-TEXAS": {
+    "country": "usa",
+    "subdivision": "texas"
+  },
+  "USA-USA": {
+    "country": "usa",
+    "subdivision": "usa"
+  },
+  "USA-UTAH": {
+    "country": "usa",
+    "subdivision": "utah"
+  },
+  "USA-UTAHCLASSIC": {
+    "country": "usa",
+    "subdivision": "utahClassic"
+  },
+  "USA-VERMONT": {
+    "country": "usa",
+    "subdivision": "vermont"
+  },
+  "USA-VIRGIN-ISLANDS": {
+    "country": "usa",
+    "subdivision": "virgin-islands"
+  },
+  "USA-VIRGINIA": {
+    "country": "usa",
+    "subdivision": "virginia"
+  },
+  "USA-WASHINGTON": {
+    "country": "usa",
+    "subdivision": "washington"
+  },
+  "USA-WEST-VIRGINIA": {
+    "country": "usa",
+    "subdivision": "west-virginia"
+  },
+  "USA-WISCONSIN": {
+    "country": "usa",
+    "subdivision": "wisconsin"
+  },
+  "USA-WYOMING": {
+    "country": "usa",
+    "subdivision": "wyoming"
+  }
+}

@@ -7,7 +7,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "npm run generate:flags && vite build",
-    "generate:flags": "ts-node scripts/generateFlagMap.ts",
+    "gen:flags": "ts-node scripts/generateFlagMap.ts",
     "test": "jest"
   },
   "repository": {

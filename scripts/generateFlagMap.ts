@@ -40,3 +40,33 @@ ${flagList.join(',\n')}
 
 fs.writeFileSync(outputFilePath, fileContent);
 console.log(`Generated ${outputFilePath}`);
+
+const generateFlagsNameMapScript = () => {
+  const flagsDir = path.join(__dirname, '../flags');
+  const isoMapping: Record<string, { country: string, subdivision: string }> = {};
+
+  if (!fs.existsSync(flagsDir)) {
+    throw new Error(`Directory not found: ${flagsDir}`);
+  }
+
+  const countries = fs.readdirSync(flagsDir).filter((file: string) => {
+    const filePath = path.join(flagsDir, file);
+    return fs.lstatSync(filePath).isDirectory();
+  });
+
+  countries.forEach((country: string) => {
+    const subdivisions = fs.readdirSync(path.join(flagsDir, country)).filter((file: string) => {
+      return file.endsWith('.svg');
+    });
+
+    subdivisions.forEach((subdivision: string) => {
+      const isoCode = `${country.toUpperCase()}-${subdivision.split('.')[0].toUpperCase()}`;
+      isoMapping[isoCode] = { country, subdivision: subdivision.split('.')[0] };
+    });
+  });
+
+  fs.writeFileSync(path.join(__dirname, '../src/iso-mapping.json'), JSON.stringify(isoMapping, null, 2));
+  console.log('ISO mapping generated successfully');
+};
+
+generateFlagsNameMapScript();
