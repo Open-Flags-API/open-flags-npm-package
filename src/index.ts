@@ -1,7 +1,9 @@
 import { flags, flagList } from '../flags';
 
-export function getFlagSvg(country: string, region: string): string {
-  const key = `${country}/${region}`;
+
+export function getFlagSvg(country: string, region: string | null): string {
+  const key = `${region != null ? country + '/' + region : country}`;
+
   const svg = flags[key];
   if (!svg) {
     throw new Error(`SVG not found for ${country}-${region}`);
@@ -16,3 +18,4 @@ export function getAllFlags(): string[] {
 export function getFlagsByCountry(country: string): string[] {
   return flagList.filter(flag => flag.startsWith(country));
 }
+

@@ -1,179 +1,163 @@
 {
-  "BRAZIL-ACRE": {
-    "country": "brazil",
-    "subdivision": "acre"
+  "BR-AC": {
+    "country": "BR",
+    "subdivision": "AC"
   },
-  "BRAZIL-ALAGOAS": {
-    "country": "brazil",
-    "subdivision": "alagoas"
+  "BR-AL": {
+    "country": "BR",
+    "subdivision": "AL"
   },
-  "BRAZIL-AMAPÁ": {
-    "country": "brazil",
-    "subdivision": "amapá"
+  "BR-AM": {
+    "country": "BR",
+    "subdivision": "AM"
   },
-  "BRAZIL-AMAZONAS": {
-    "country": "brazil",
-    "subdivision": "amazonas"
+  "BR-AP": {
+    "country": "BR",
+    "subdivision": "AP"
   },
-  "BRAZIL-BAHIA": {
-    "country": "brazil",
-    "subdivision": "bahia"
+  "BR-BA": {
+    "country": "BR",
+    "subdivision": "BA"
   },
-  "BRAZIL-BRAZIL": {
-    "country": "brazil",
-    "subdivision": "brazil"
+  "BR-CE": {
+    "country": "BR",
+    "subdivision": "CE"
   },
-  "BRAZIL-CEARÁ": {
-    "country": "brazil",
-    "subdivision": "ceará"
+  "BR-DF": {
+    "country": "BR",
+    "subdivision": "DF"
   },
-  "BRAZIL-DISTRITO-FEDERAL": {
-    "country": "brazil",
-    "subdivision": "distrito-federal"
+  "BR-ES": {
+    "country": "BR",
+    "subdivision": "ES"
   },
-  "BRAZIL-ESPÍRITO-SANTO": {
-    "country": "brazil",
-    "subdivision": "espírito-santo"
+  "BR-GO": {
+    "country": "BR",
+    "subdivision": "GO"
   },
-  "BRAZIL-ESTADO-RIO-DE-JANEIRO": {
-    "country": "brazil",
-    "subdivision": "estado-rio-de-janeiro"
+  "BR-MA": {
+    "country": "BR",
+    "subdivision": "MA"
   },
-  "BRAZIL-GOIÁS": {
-    "country": "brazil",
-    "subdivision": "goiás"
+  "BR-MG": {
+    "country": "BR",
+    "subdivision": "MG"
   },
-  "BRAZIL-MARANHÃO": {
-    "country": "brazil",
-    "subdivision": "maranhão"
+  "BR-MS": {
+    "country": "BR",
+    "subdivision": "MS"
   },
-  "BRAZIL-MATO-GROSSO-DO-SUL": {
-    "country": "brazil",
-    "subdivision": "mato-grosso-do-sul"
+  "BR-MT": {
+    "country": "BR",
+    "subdivision": "MT"
   },
-  "BRAZIL-MATO-GROSSO": {
-    "country": "brazil",
-    "subdivision": "mato-grosso"
+  "BR-PA": {
+    "country": "BR",
+    "subdivision": "PA"
   },
-  "BRAZIL-MINAS-GERAIS": {
-    "country": "brazil",
-    "subdivision": "minas-gerais"
+  "BR-PB": {
+    "country": "BR",
+    "subdivision": "PB"
   },
-  "BRAZIL-PARANÁ": {
-    "country": "brazil",
-    "subdivision": "paraná"
+  "BR-PE": {
+    "country": "BR",
+    "subdivision": "PE"
   },
-  "BRAZIL-PARAÍBA": {
-    "country": "brazil",
-    "subdivision": "paraíba"
+  "BR-PI": {
+    "country": "BR",
+    "subdivision": "PI"
   },
-  "BRAZIL-PARÁ": {
-    "country": "brazil",
-    "subdivision": "pará"
+  "BR-PR": {
+    "country": "BR",
+    "subdivision": "PR"
   },
-  "BRAZIL-PERNAMBUCO": {
-    "country": "brazil",
-    "subdivision": "pernambuco"
+  "BR-RJ": {
+    "country": "BR",
+    "subdivision": "RJ"
   },
-  "BRAZIL-PIAUÍ": {
-    "country": "brazil",
-    "subdivision": "piauí"
+  "BR-RN": {
+    "country": "BR",
+    "subdivision": "RN"
   },
-  "BRAZIL-RIO-GRANDE-DO-NORTE": {
-    "country": "brazil",
-    "subdivision": "rio-grande-do-norte"
+  "BR-RO": {
+    "country": "BR",
+    "subdivision": "RO"
   },
-  "BRAZIL-RIO-GRANDE-DO-SUL": {
-    "country": "brazil",
-    "subdivision": "rio-grande-do-sul"
+  "BR-RR": {
+    "country": "BR",
+    "subdivision": "RR"
   },
-  "BRAZIL-RONDÔNIA": {
-    "country": "brazil",
-    "subdivision": "rondônia"
+  "BR-RS": {
+    "country": "BR",
+    "subdivision": "RS"
   },
-  "BRAZIL-RORAIMA": {
-    "country": "brazil",
-    "subdivision": "roraima"
+  "BR-SC": {
+    "country": "BR",
+    "subdivision": "SC"
   },
-  "BRAZIL-SANTA-CATARINA": {
-    "country": "brazil",
-    "subdivision": "santa-catarina"
+  "BR-SE": {
+    "country": "BR",
+    "subdivision": "SE"
   },
-  "BRAZIL-SERGIPE": {
-    "country": "brazil",
-    "subdivision": "sergipe"
+  "BR-SP": {
+    "country": "BR",
+    "subdivision": "SP"
   },
-  "BRAZIL-SÃO-PAULO": {
-    "country": "brazil",
-    "subdivision": "são-paulo"
+  "BR-TO": {
+    "country": "BR",
+    "subdivision": "TO"
   },
-  "BRAZIL-TOCANTINS": {
-    "country": "brazil",
-    "subdivision": "tocantins"
+  "CA-AB": {
+    "country": "CA",
+    "subdivision": "AB"
   },
-  "CANADA-ALBERTA": {
-    "country": "canada",
-    "subdivision": "alberta"
+  "CA-BC": {
+    "country": "CA",
+    "subdivision": "BC"
   },
-  "CANADA-BRITISH-COLUMBIA": {
-    "country": "canada",
-    "subdivision": "british-columbia"
+  "CA-MB": {
+    "country": "CA",
+    "subdivision": "MB"
   },
-  "CANADA-CANADA": {
-    "country": "canada",
-    "subdivision": "canada"
+  "CA-NB": {
+    "country": "CA",
+    "subdivision": "NB"
   },
-  "CANADA-GOVERNOR-GENERAL-OF-CANADA": {
-    "country": "canada",
-    "subdivision": "governor-general-of-canada"
+  "CA-NL": {
+    "country": "CA",
+    "subdivision": "NL"
   },
-  "CANADA-MANITOBA": {
-    "country": "canada",
-    "subdivision": "manitoba"
+  "CA-NS": {
+    "country": "CA",
+    "subdivision": "NS"
   },
-  "CANADA-NEW-BRUNSWICK": {
-    "country": "canada",
-    "subdivision": "new-brunswick"
+  "CA-NT": {
+    "country": "CA",
+    "subdivision": "NT"
   },
-  "CANADA-NEWFOUNDLAND-AND-LABRADOR": {
-    "country": "canada",
-    "subdivision": "newfoundland-and-labrador"
+  "CA-NU": {
+    "country": "CA",
+    "subdivision": "NU"
   },
-  "CANADA-NORTHWEST-TERRITORIES": {
-    "country": "canada",
-    "subdivision": "northwest-territories"
+  "CA-ON": {
+    "country": "CA",
+    "subdivision": "ON"
   },
-  "CANADA-NOVA-SCOTIA": {
-    "country": "canada",
-    "subdivision": "nova-scotia"
+  "CA-PE": {
+    "country": "CA",
+    "subdivision": "PE"
   },
-  "CANADA-NUNAVUT": {
-    "country": "canada",
-    "subdivision": "nunavut"
+  "CA-QC": {
+    "country": "CA",
+    "subdivision": "QC"
   },
-  "CANADA-ONTARIO": {
-    "country": "canada",
-    "subdivision": "ontario"
+  "CA-SK": {
+    "country": "CA",
+    "subdivision": "SK"
   },
-  "CANADA-PRINCE-EDWARD-ISLAND": {
-    "country": "canada",
-    "subdivision": "prince-edward-island"
-  },
-  "CANADA-QUEBEC": {
-    "country": "canada",
-    "subdivision": "quebec"
-  },
-  "CANADA-ROYAL-STANDARD-MEMBERS-CANADIAN-ROYAL-FAMILY": {
-    "country": "canada",
-    "subdivision": "royal-standard-members-canadian-royal-family"
-  },
-  "CANADA-SASKATCHEWAN": {
-    "country": "canada",
-    "subdivision": "saskatchewan"
-  },
-  "CANADA-YUKON": {
-    "country": "canada",
-    "subdivision": "yukon"
+  "CA-YK": {
+    "country": "CA",
+    "subdivision": "YK"
   },
   "ENGLAND-BEDFORDSHIRE": {
     "country": "england",
@@ -1139,256 +1123,252 @@
     "country": "south-korea",
     "subdivision": "ulsan"
   },
-  "USA-ALABAMA": {
-    "country": "usa",
-    "subdivision": "alabama"
+  "US-AK": {
+    "country": "US",
+    "subdivision": "AK"
   },
-  "USA-ALASKA": {
-    "country": "usa",
-    "subdivision": "alaska"
+  "US-AL": {
+    "country": "US",
+    "subdivision": "AL"
   },
-  "USA-AMERICAN-SAMOA": {
-    "country": "usa",
-    "subdivision": "american-samoa"
+  "US-AR": {
+    "country": "US",
+    "subdivision": "AR"
   },
-  "USA-ARIZONA": {
-    "country": "usa",
-    "subdivision": "arizona"
+  "US-AS": {
+    "country": "US",
+    "subdivision": "AS"
   },
-  "USA-ARKANSAS": {
-    "country": "usa",
-    "subdivision": "arkansas"
+  "US-AZ": {
+    "country": "US",
+    "subdivision": "AZ"
   },
-  "USA-CALIFORNIA": {
-    "country": "usa",
-    "subdivision": "california"
+  "US-CA": {
+    "country": "US",
+    "subdivision": "CA"
   },
-  "USA-COLORADO": {
-    "country": "usa",
-    "subdivision": "colorado"
+  "US-CO": {
+    "country": "US",
+    "subdivision": "CO"
   },
-  "USA-CONNECTICUT": {
-    "country": "usa",
-    "subdivision": "connecticut"
+  "US-CT": {
+    "country": "US",
+    "subdivision": "CT"
   },
-  "USA-DELAWARE": {
-    "country": "usa",
-    "subdivision": "delaware"
+  "US-DC": {
+    "country": "US",
+    "subdivision": "DC"
   },
-  "USA-DISTRICT-OF-COLUMBIA": {
-    "country": "usa",
-    "subdivision": "district-of-columbia"
+  "US-DE": {
+    "country": "US",
+    "subdivision": "DE"
   },
-  "USA-FLORIDA": {
-    "country": "usa",
-    "subdivision": "florida"
+  "US-FL": {
+    "country": "US",
+    "subdivision": "FL"
   },
-  "USA-GEORGIA": {
-    "country": "usa",
-    "subdivision": "georgia"
+  "US-GA-CLASSIC": {
+    "country": "US",
+    "subdivision": "GA-Classic"
   },
-  "USA-GEORGIACLASSIC": {
-    "country": "usa",
-    "subdivision": "georgiaClassic"
+  "US-GA-CLASSIC1": {
+    "country": "US",
+    "subdivision": "GA-Classic1"
   },
-  "USA-GEORGIACLASSIC1": {
-    "country": "usa",
-    "subdivision": "georgiaClassic1"
+  "US-GA": {
+    "country": "US",
+    "subdivision": "GA"
   },
-  "USA-GUAM": {
-    "country": "usa",
-    "subdivision": "guam"
+  "US-GU": {
+    "country": "US",
+    "subdivision": "GU"
   },
-  "USA-HAWAII": {
-    "country": "usa",
-    "subdivision": "hawaii"
+  "US-HI": {
+    "country": "US",
+    "subdivision": "HI"
   },
-  "USA-IDAHO": {
-    "country": "usa",
-    "subdivision": "idaho"
+  "US-IA": {
+    "country": "US",
+    "subdivision": "IA"
   },
-  "USA-ILLINOIS": {
-    "country": "usa",
-    "subdivision": "illinois"
+  "US-ID": {
+    "country": "US",
+    "subdivision": "ID"
   },
-  "USA-INDIANA": {
-    "country": "usa",
-    "subdivision": "indiana"
+  "US-IL": {
+    "country": "US",
+    "subdivision": "IL"
   },
-  "USA-IOWA": {
-    "country": "usa",
-    "subdivision": "iowa"
+  "US-IN": {
+    "country": "US",
+    "subdivision": "IN"
   },
-  "USA-KANSAS": {
-    "country": "usa",
-    "subdivision": "kansas"
+  "US-KS": {
+    "country": "US",
+    "subdivision": "KS"
   },
-  "USA-KENTUCKY": {
-    "country": "usa",
-    "subdivision": "kentucky"
+  "US-KY": {
+    "country": "US",
+    "subdivision": "KY"
   },
-  "USA-LOUISIANA": {
-    "country": "usa",
-    "subdivision": "louisiana"
+  "US-LA": {
+    "country": "US",
+    "subdivision": "LA"
   },
-  "USA-MAINE": {
-    "country": "usa",
-    "subdivision": "maine"
+  "US-MA": {
+    "country": "US",
+    "subdivision": "MA"
   },
-  "USA-MARYLAND": {
-    "country": "usa",
-    "subdivision": "maryland"
+  "US-MD": {
+    "country": "US",
+    "subdivision": "MD"
   },
-  "USA-MASSACHUSETTS": {
-    "country": "usa",
-    "subdivision": "massachusetts"
+  "US-ME": {
+    "country": "US",
+    "subdivision": "ME"
   },
-  "USA-MICHIGAN": {
-    "country": "usa",
-    "subdivision": "michigan"
+  "US-MI": {
+    "country": "US",
+    "subdivision": "MI"
   },
-  "USA-MINNESOTA": {
-    "country": "usa",
-    "subdivision": "minnesota"
+  "US-MN-CLASSIC": {
+    "country": "US",
+    "subdivision": "MN-Classic"
   },
-  "USA-MINNESOTACLASSIC": {
-    "country": "usa",
-    "subdivision": "minnesotaClassic"
+  "US-MN": {
+    "country": "US",
+    "subdivision": "MN"
   },
-  "USA-MISSISSIPPI": {
-    "country": "usa",
-    "subdivision": "mississippi"
+  "US-MO": {
+    "country": "US",
+    "subdivision": "MO"
   },
-  "USA-MISSISSIPPICLASSIC": {
-    "country": "usa",
-    "subdivision": "mississippiClassic"
+  "US-MP": {
+    "country": "US",
+    "subdivision": "MP"
   },
-  "USA-MISSOURI": {
-    "country": "usa",
-    "subdivision": "missouri"
+  "US-MS-CLASSIC": {
+    "country": "US",
+    "subdivision": "MS-Classic"
   },
-  "USA-MONTANA": {
-    "country": "usa",
-    "subdivision": "montana"
+  "US-MS": {
+    "country": "US",
+    "subdivision": "MS"
   },
-  "USA-NEBRASKA": {
-    "country": "usa",
-    "subdivision": "nebraska"
+  "US-MT": {
+    "country": "US",
+    "subdivision": "MT"
   },
-  "USA-NEVADA": {
-    "country": "usa",
-    "subdivision": "nevada"
+  "US-NC": {
+    "country": "US",
+    "subdivision": "NC"
   },
-  "USA-NEW-HAMPSHIRE": {
-    "country": "usa",
-    "subdivision": "new-hampshire"
+  "US-ND": {
+    "country": "US",
+    "subdivision": "ND"
   },
-  "USA-NEW-JERSEY": {
-    "country": "usa",
-    "subdivision": "new-jersey"
+  "US-NE": {
+    "country": "US",
+    "subdivision": "NE"
   },
-  "USA-NEW-MEXICO": {
-    "country": "usa",
-    "subdivision": "new-mexico"
+  "US-NH": {
+    "country": "US",
+    "subdivision": "NH"
   },
-  "USA-NEW-YORK": {
-    "country": "usa",
-    "subdivision": "new-york"
+  "US-NJ": {
+    "country": "US",
+    "subdivision": "NJ"
   },
-  "USA-NORTH-CAROLINA": {
-    "country": "usa",
-    "subdivision": "north-carolina"
+  "US-NM": {
+    "country": "US",
+    "subdivision": "NM"
   },
-  "USA-NORTH-DAKOTA": {
-    "country": "usa",
-    "subdivision": "north-dakota"
+  "US-NV": {
+    "country": "US",
+    "subdivision": "NV"
   },
-  "USA-NORTHERN-MARIANA-ISLANDS": {
-    "country": "usa",
-    "subdivision": "northern-mariana-islands"
+  "US-NY": {
+    "country": "US",
+    "subdivision": "NY"
   },
-  "USA-OHIO": {
-    "country": "usa",
-    "subdivision": "ohio"
+  "US-OH": {
+    "country": "US",
+    "subdivision": "OH"
   },
-  "USA-OKLAHOMA": {
-    "country": "usa",
-    "subdivision": "oklahoma"
+  "US-OK": {
+    "country": "US",
+    "subdivision": "OK"
   },
-  "USA-OREGON-BACK": {
-    "country": "usa",
-    "subdivision": "oregon-back"
+  "US-OR-B": {
+    "country": "US",
+    "subdivision": "OR-B"
   },
-  "USA-OREGON": {
-    "country": "usa",
-    "subdivision": "oregon"
+  "US-OR": {
+    "country": "US",
+    "subdivision": "OR"
   },
-  "USA-PENNSYLVANIA": {
-    "country": "usa",
-    "subdivision": "pennsylvania"
+  "US-PA": {
+    "country": "US",
+    "subdivision": "PA"
   },
-  "USA-PUERTO-RICO": {
-    "country": "usa",
-    "subdivision": "puerto-rico"
+  "US-PR": {
+    "country": "US",
+    "subdivision": "PR"
   },
-  "USA-RHODE-ISLAND": {
-    "country": "usa",
-    "subdivision": "rhode-island"
+  "US-RI": {
+    "country": "US",
+    "subdivision": "RI"
   },
-  "USA-SOUTH-CAROLINA": {
-    "country": "usa",
-    "subdivision": "south-carolina"
+  "US-SC": {
+    "country": "US",
+    "subdivision": "SC"
   },
-  "USA-SOUTH-DAKOTA": {
-    "country": "usa",
-    "subdivision": "south-dakota"
+  "US-SD": {
+    "country": "US",
+    "subdivision": "SD"
   },
-  "USA-TENNESSEE": {
-    "country": "usa",
-    "subdivision": "tennessee"
+  "US-TN": {
+    "country": "US",
+    "subdivision": "TN"
   },
-  "USA-TEXAS": {
-    "country": "usa",
-    "subdivision": "texas"
+  "US-TX": {
+    "country": "US",
+    "subdivision": "TX"
   },
-  "USA-USA": {
-    "country": "usa",
-    "subdivision": "usa"
+  "US-UT-CLASSIC": {
+    "country": "US",
+    "subdivision": "UT-Classic"
   },
-  "USA-UTAH": {
-    "country": "usa",
-    "subdivision": "utah"
+  "US-UT": {
+    "country": "US",
+    "subdivision": "UT"
   },
-  "USA-UTAHCLASSIC": {
-    "country": "usa",
-    "subdivision": "utahClassic"
+  "US-VA": {
+    "country": "US",
+    "subdivision": "VA"
   },
-  "USA-VERMONT": {
-    "country": "usa",
-    "subdivision": "vermont"
+  "US-VI": {
+    "country": "US",
+    "subdivision": "VI"
   },
-  "USA-VIRGIN-ISLANDS": {
-    "country": "usa",
-    "subdivision": "virgin-islands"
+  "US-VT": {
+    "country": "US",
+    "subdivision": "VT"
   },
-  "USA-VIRGINIA": {
-    "country": "usa",
-    "subdivision": "virginia"
+  "US-WA": {
+    "country": "US",
+    "subdivision": "WA"
   },
-  "USA-WASHINGTON": {
-    "country": "usa",
-    "subdivision": "washington"
+  "US-WI": {
+    "country": "US",
+    "subdivision": "WI"
   },
-  "USA-WEST-VIRGINIA": {
-    "country": "usa",
-    "subdivision": "west-virginia"
+  "US-WV": {
+    "country": "US",
+    "subdivision": "WV"
   },
-  "USA-WISCONSIN": {
-    "country": "usa",
-    "subdivision": "wisconsin"
-  },
-  "USA-WYOMING": {
-    "country": "usa",
-    "subdivision": "wyoming"
+  "US-WY": {
+    "country": "US",
+    "subdivision": "WY"
   }
 }

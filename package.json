@@ -6,9 +6,12 @@
   "module": "dist/open-flags.es.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "npm run generate:flags && vite build",
+    "build": "npm run gen:flags && vite build",
+    "dry": "ts-node src/index.ts",
+    "watch": "tsc -w",
     "gen:flags": "ts-node scripts/generateFlagMap.ts",
-    "test": "jest"
+    "gen:convert-names": "ts-node scripts/convert-svg-names-to-iso.ts",
+    "test:unit": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,11 +29,15 @@
   },
   "homepage": "https://github.com/shyaboi/openflagsapi#readme",
   "devDependencies": {
+    "@types/iso-3166-2": "^1.0.3",
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
     "jest-transform-stub": "^2.0.0",
     "ts-jest": "^29.2.3",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "iso-3166-2": "^1.0.0"
   }
 }
