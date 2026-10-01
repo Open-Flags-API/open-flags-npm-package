@@ -1,0 +1,8448 @@
+{
+  "AD-02": {
+    "country": "AD",
+    "subdivision": "02"
+  },
+  "AD-03": {
+    "country": "AD",
+    "subdivision": "03"
+  },
+  "AD-04": {
+    "country": "AD",
+    "subdivision": "04"
+  },
+  "AD-05": {
+    "country": "AD",
+    "subdivision": "05"
+  },
+  "AD-06": {
+    "country": "AD",
+    "subdivision": "06"
+  },
+  "AD-07": {
+    "country": "AD",
+    "subdivision": "07"
+  },
+  "AD-08": {
+    "country": "AD",
+    "subdivision": "08"
+  },
+  "AE-AZ": {
+    "country": "AE",
+    "subdivision": "AZ"
+  },
+  "AE-DU": {
+    "country": "AE",
+    "subdivision": "DU"
+  },
+  "AE-FU": {
+    "country": "AE",
+    "subdivision": "FU"
+  },
+  "AE-RK": {
+    "country": "AE",
+    "subdivision": "RK"
+  },
+  "AE-SH": {
+    "country": "AE",
+    "subdivision": "SH"
+  },
+  "AE-UQ": {
+    "country": "AE",
+    "subdivision": "UQ"
+  },
+  "AL-01": {
+    "country": "AL",
+    "subdivision": "01"
+  },
+  "AL-02": {
+    "country": "AL",
+    "subdivision": "02"
+  },
+  "AL-03": {
+    "country": "AL",
+    "subdivision": "03"
+  },
+  "AL-06": {
+    "country": "AL",
+    "subdivision": "06"
+  },
+  "AL-07": {
+    "country": "AL",
+    "subdivision": "07"
+  },
+  "AL-08": {
+    "country": "AL",
+    "subdivision": "08"
+  },
+  "AL-10": {
+    "country": "AL",
+    "subdivision": "10"
+  },
+  "AL-11": {
+    "country": "AL",
+    "subdivision": "11"
+  },
+  "AL-12": {
+    "country": "AL",
+    "subdivision": "12"
+  },
+  "AL-MM": {
+    "country": "AL",
+    "subdivision": "MM",
+    "status": "withdrawn"
+  },
+  "AL-MR": {
+    "country": "AL",
+    "subdivision": "MR",
+    "status": "withdrawn"
+  },
+  "AR-A": {
+    "country": "AR",
+    "subdivision": "A"
+  },
+  "AR-B": {
+    "country": "AR",
+    "subdivision": "B"
+  },
+  "AR-C": {
+    "country": "AR",
+    "subdivision": "C"
+  },
+  "AR-D": {
+    "country": "AR",
+    "subdivision": "D"
+  },
+  "AR-E": {
+    "country": "AR",
+    "subdivision": "E"
+  },
+  "AR-F": {
+    "country": "AR",
+    "subdivision": "F"
+  },
+  "AR-G": {
+    "country": "AR",
+    "subdivision": "G"
+  },
+  "AR-H": {
+    "country": "AR",
+    "subdivision": "H"
+  },
+  "AR-J": {
+    "country": "AR",
+    "subdivision": "J"
+  },
+  "AR-K": {
+    "country": "AR",
+    "subdivision": "K"
+  },
+  "AR-L": {
+    "country": "AR",
+    "subdivision": "L"
+  },
+  "AR-M": {
+    "country": "AR",
+    "subdivision": "M"
+  },
+  "AR-N": {
+    "country": "AR",
+    "subdivision": "N"
+  },
+  "AR-P": {
+    "country": "AR",
+    "subdivision": "P"
+  },
+  "AR-Q": {
+    "country": "AR",
+    "subdivision": "Q"
+  },
+  "AR-R": {
+    "country": "AR",
+    "subdivision": "R"
+  },
+  "AR-S": {
+    "country": "AR",
+    "subdivision": "S"
+  },
+  "AR-T": {
+    "country": "AR",
+    "subdivision": "T"
+  },
+  "AR-U": {
+    "country": "AR",
+    "subdivision": "U"
+  },
+  "AR-V": {
+    "country": "AR",
+    "subdivision": "V"
+  },
+  "AR-W": {
+    "country": "AR",
+    "subdivision": "W"
+  },
+  "AR-X": {
+    "country": "AR",
+    "subdivision": "X"
+  },
+  "AR-Y": {
+    "country": "AR",
+    "subdivision": "Y"
+  },
+  "AR-Z": {
+    "country": "AR",
+    "subdivision": "Z"
+  },
+  "AT-1": {
+    "country": "AT",
+    "subdivision": "1"
+  },
+  "AT-2": {
+    "country": "AT",
+    "subdivision": "2"
+  },
+  "AT-3": {
+    "country": "AT",
+    "subdivision": "3"
+  },
+  "AT-4": {
+    "country": "AT",
+    "subdivision": "4"
+  },
+  "AT-5": {
+    "country": "AT",
+    "subdivision": "5"
+  },
+  "AT-6": {
+    "country": "AT",
+    "subdivision": "6"
+  },
+  "AT-7": {
+    "country": "AT",
+    "subdivision": "7"
+  },
+  "AT-8": {
+    "country": "AT",
+    "subdivision": "8"
+  },
+  "AT-9": {
+    "country": "AT",
+    "subdivision": "9"
+  },
+  "AU-ACT": {
+    "country": "AU",
+    "subdivision": "ACT"
+  },
+  "AU-NSW": {
+    "country": "AU",
+    "subdivision": "NSW"
+  },
+  "AU-NT": {
+    "country": "AU",
+    "subdivision": "NT"
+  },
+  "AU-QLD": {
+    "country": "AU",
+    "subdivision": "QLD"
+  },
+  "AU-SA": {
+    "country": "AU",
+    "subdivision": "SA"
+  },
+  "AU-TAS": {
+    "country": "AU",
+    "subdivision": "TAS"
+  },
+  "AU-VIC": {
+    "country": "AU",
+    "subdivision": "VIC"
+  },
+  "AU-WA": {
+    "country": "AU",
+    "subdivision": "WA"
+  },
+  "AZ-BA": {
+    "country": "AZ",
+    "subdivision": "BA"
+  },
+  "AZ-BAB": {
+    "country": "AZ",
+    "subdivision": "NX",
+    "polyfill": "regional"
+  },
+  "AZ-CUL": {
+    "country": "AZ",
+    "subdivision": "NX",
+    "polyfill": "regional"
+  },
+  "AZ-KAN": {
+    "country": "AZ",
+    "subdivision": "NX",
+    "polyfill": "regional"
+  },
+  "AZ-NV": {
+    "country": "AZ",
+    "subdivision": "NX",
+    "polyfill": "regional"
+  },
+  "AZ-NX": {
+    "country": "AZ",
+    "subdivision": "NX"
+  },
+  "AZ-ORD": {
+    "country": "AZ",
+    "subdivision": "NX",
+    "polyfill": "regional"
+  },
+  "AZ-SAD": {
+    "country": "AZ",
+    "subdivision": "NX",
+    "polyfill": "regional"
+  },
+  "AZ-SAH": {
+    "country": "AZ",
+    "subdivision": "NX",
+    "polyfill": "regional"
+  },
+  "AZ-SAR": {
+    "country": "AZ",
+    "subdivision": "NX",
+    "polyfill": "regional"
+  },
+  "AZ-YE": {
+    "country": "AZ",
+    "subdivision": "YE"
+  },
+  "BA-01": {
+    "country": "BA",
+    "subdivision": "01",
+    "status": "withdrawn"
+  },
+  "BA-02": {
+    "country": "BA",
+    "subdivision": "02",
+    "status": "withdrawn"
+  },
+  "BA-03": {
+    "country": "BA",
+    "subdivision": "03",
+    "status": "withdrawn"
+  },
+  "BA-04": {
+    "country": "BA",
+    "subdivision": "04",
+    "status": "withdrawn"
+  },
+  "BA-05": {
+    "country": "BA",
+    "subdivision": "05",
+    "status": "withdrawn"
+  },
+  "BA-06": {
+    "country": "BA",
+    "subdivision": "06",
+    "status": "withdrawn"
+  },
+  "BA-07": {
+    "country": "BA",
+    "subdivision": "07",
+    "status": "withdrawn"
+  },
+  "BA-08": {
+    "country": "BA",
+    "subdivision": "08",
+    "status": "withdrawn"
+  },
+  "BA-09": {
+    "country": "BA",
+    "subdivision": "09",
+    "status": "withdrawn"
+  },
+  "BA-10": {
+    "country": "BA",
+    "subdivision": "10",
+    "status": "withdrawn"
+  },
+  "BA-BRC": {
+    "country": "BA",
+    "subdivision": "BRC"
+  },
+  "BA-SRP": {
+    "country": "BA",
+    "subdivision": "SRP"
+  },
+  "BE-BRU": {
+    "country": "BE",
+    "subdivision": "BRU"
+  },
+  "BE-VAN": {
+    "country": "BE",
+    "subdivision": "VAN"
+  },
+  "BE-VBR": {
+    "country": "BE",
+    "subdivision": "VBR"
+  },
+  "BE-VLG": {
+    "country": "BE",
+    "subdivision": "VLG"
+  },
+  "BE-VLI": {
+    "country": "BE",
+    "subdivision": "VLI"
+  },
+  "BE-VOV": {
+    "country": "BE",
+    "subdivision": "VOV"
+  },
+  "BE-VWV": {
+    "country": "BE",
+    "subdivision": "VWV"
+  },
+  "BE-WAL": {
+    "country": "BE",
+    "subdivision": "WAL"
+  },
+  "BE-WBR": {
+    "country": "BE",
+    "subdivision": "WBR"
+  },
+  "BE-WHT": {
+    "country": "BE",
+    "subdivision": "WHT"
+  },
+  "BE-WLG": {
+    "country": "BE",
+    "subdivision": "WLG"
+  },
+  "BE-WLX": {
+    "country": "BE",
+    "subdivision": "WLX"
+  },
+  "BE-WNA": {
+    "country": "BE",
+    "subdivision": "WNA"
+  },
+  "BG-01": {
+    "country": "BG",
+    "subdivision": "01"
+  },
+  "BG-04": {
+    "country": "BG",
+    "subdivision": "04"
+  },
+  "BG-08": {
+    "country": "BG",
+    "subdivision": "08"
+  },
+  "BO-H": {
+    "country": "BO",
+    "subdivision": "H"
+  },
+  "BO-L": {
+    "country": "BO",
+    "subdivision": "L"
+  },
+  "BO-P": {
+    "country": "BO",
+    "subdivision": "P"
+  },
+  "BO-S": {
+    "country": "BO",
+    "subdivision": "S"
+  },
+  "BQ-SE": {
+    "country": "BQ",
+    "subdivision": "SE"
+  },
+  "BR-AC": {
+    "country": "BR",
+    "subdivision": "AC"
+  },
+  "BR-AL": {
+    "country": "BR",
+    "subdivision": "AL"
+  },
+  "BR-AM": {
+    "country": "BR",
+    "subdivision": "AM"
+  },
+  "BR-AP": {
+    "country": "BR",
+    "subdivision": "AP"
+  },
+  "BR-BA": {
+    "country": "BR",
+    "subdivision": "BA"
+  },
+  "BR-CE": {
+    "country": "BR",
+    "subdivision": "CE"
+  },
+  "BR-DF": {
+    "country": "BR",
+    "subdivision": "DF"
+  },
+  "BR-ES": {
+    "country": "BR",
+    "subdivision": "ES"
+  },
+  "BR-GO": {
+    "country": "BR",
+    "subdivision": "GO"
+  },
+  "BR-MA": {
+    "country": "BR",
+    "subdivision": "MA"
+  },
+  "BR-MG": {
+    "country": "BR",
+    "subdivision": "MG"
+  },
+  "BR-MS": {
+    "country": "BR",
+    "subdivision": "MS"
+  },
+  "BR-PA": {
+    "country": "BR",
+    "subdivision": "PA"
+  },
+  "BR-PB": {
+    "country": "BR",
+    "subdivision": "PB"
+  },
+  "BR-PE": {
+    "country": "BR",
+    "subdivision": "PE"
+  },
+  "BR-PI": {
+    "country": "BR",
+    "subdivision": "PI"
+  },
+  "BR-PR": {
+    "country": "BR",
+    "subdivision": "PR"
+  },
+  "BR-RJ": {
+    "country": "BR",
+    "subdivision": "RJ"
+  },
+  "BR-RN": {
+    "country": "BR",
+    "subdivision": "RN"
+  },
+  "BR-RO": {
+    "country": "BR",
+    "subdivision": "RO"
+  },
+  "BR-RR": {
+    "country": "BR",
+    "subdivision": "RR"
+  },
+  "BR-RS": {
+    "country": "BR",
+    "subdivision": "RS"
+  },
+  "BR-SC": {
+    "country": "BR",
+    "subdivision": "SC"
+  },
+  "BR-SE": {
+    "country": "BR",
+    "subdivision": "SE"
+  },
+  "BR-SP": {
+    "country": "BR",
+    "subdivision": "SP"
+  },
+  "BR-TO": {
+    "country": "BR",
+    "subdivision": "TO"
+  },
+  "BY-BR": {
+    "country": "BY",
+    "subdivision": "BR"
+  },
+  "BY-HM": {
+    "country": "BY",
+    "subdivision": "HM"
+  },
+  "BY-HO": {
+    "country": "BY",
+    "subdivision": "HO"
+  },
+  "BY-HR": {
+    "country": "BY",
+    "subdivision": "HR"
+  },
+  "BY-MA": {
+    "country": "BY",
+    "subdivision": "MA"
+  },
+  "BY-MI": {
+    "country": "BY",
+    "subdivision": "MI"
+  },
+  "BY-VI": {
+    "country": "BY",
+    "subdivision": "VI"
+  },
+  "CA-AB": {
+    "country": "CA",
+    "subdivision": "AB"
+  },
+  "CA-BC": {
+    "country": "CA",
+    "subdivision": "BC"
+  },
+  "CA-MB": {
+    "country": "CA",
+    "subdivision": "MB"
+  },
+  "CA-NB": {
+    "country": "CA",
+    "subdivision": "NB"
+  },
+  "CA-NL": {
+    "country": "CA",
+    "subdivision": "NL"
+  },
+  "CA-NS": {
+    "country": "CA",
+    "subdivision": "NS"
+  },
+  "CA-NT": {
+    "country": "CA",
+    "subdivision": "NT"
+  },
+  "CA-NU": {
+    "country": "CA",
+    "subdivision": "NU"
+  },
+  "CA-ON": {
+    "country": "CA",
+    "subdivision": "ON"
+  },
+  "CA-PE": {
+    "country": "CA",
+    "subdivision": "PE"
+  },
+  "CA-QC": {
+    "country": "CA",
+    "subdivision": "QC"
+  },
+  "CA-SK": {
+    "country": "CA",
+    "subdivision": "SK"
+  },
+  "CA-YT": {
+    "country": "CA",
+    "subdivision": "YT"
+  },
+  "CD-KN": {
+    "country": "CD",
+    "subdivision": "KN"
+  },
+  "CH-AG": {
+    "country": "CH",
+    "subdivision": "AG"
+  },
+  "CH-AI": {
+    "country": "CH",
+    "subdivision": "AI"
+  },
+  "CH-AR": {
+    "country": "CH",
+    "subdivision": "AR"
+  },
+  "CH-BE": {
+    "country": "CH",
+    "subdivision": "BE"
+  },
+  "CH-BL": {
+    "country": "CH",
+    "subdivision": "BL"
+  },
+  "CH-BS": {
+    "country": "CH",
+    "subdivision": "BS"
+  },
+  "CH-FR": {
+    "country": "CH",
+    "subdivision": "FR"
+  },
+  "CH-GE": {
+    "country": "CH",
+    "subdivision": "GE"
+  },
+  "CH-GL": {
+    "country": "CH",
+    "subdivision": "GL"
+  },
+  "CH-GR": {
+    "country": "CH",
+    "subdivision": "GR"
+  },
+  "CH-JU": {
+    "country": "CH",
+    "subdivision": "JU"
+  },
+  "CH-LU": {
+    "country": "CH",
+    "subdivision": "LU"
+  },
+  "CH-NE": {
+    "country": "CH",
+    "subdivision": "NE"
+  },
+  "CH-NW": {
+    "country": "CH",
+    "subdivision": "NW"
+  },
+  "CH-OW": {
+    "country": "CH",
+    "subdivision": "OW"
+  },
+  "CH-SG": {
+    "country": "CH",
+    "subdivision": "SG"
+  },
+  "CH-SH": {
+    "country": "CH",
+    "subdivision": "SH"
+  },
+  "CH-SO": {
+    "country": "CH",
+    "subdivision": "SO"
+  },
+  "CH-SZ": {
+    "country": "CH",
+    "subdivision": "SZ"
+  },
+  "CH-TG": {
+    "country": "CH",
+    "subdivision": "TG"
+  },
+  "CH-TI": {
+    "country": "CH",
+    "subdivision": "TI"
+  },
+  "CH-UR": {
+    "country": "CH",
+    "subdivision": "UR"
+  },
+  "CH-VD": {
+    "country": "CH",
+    "subdivision": "VD"
+  },
+  "CH-VS": {
+    "country": "CH",
+    "subdivision": "VS"
+  },
+  "CH-ZG": {
+    "country": "CH",
+    "subdivision": "ZG"
+  },
+  "CH-ZH": {
+    "country": "CH",
+    "subdivision": "ZH"
+  },
+  "CI-AB": {
+    "country": "CI",
+    "subdivision": "AB"
+  },
+  "CL-AI": {
+    "country": "CL",
+    "subdivision": "AI"
+  },
+  "CL-AN": {
+    "country": "CL",
+    "subdivision": "AN"
+  },
+  "CL-AR": {
+    "country": "CL",
+    "subdivision": "AR"
+  },
+  "CL-BI": {
+    "country": "CL",
+    "subdivision": "BI"
+  },
+  "CL-CO": {
+    "country": "CL",
+    "subdivision": "CO"
+  },
+  "CL-LI": {
+    "country": "CL",
+    "subdivision": "LI"
+  },
+  "CL-LL": {
+    "country": "CL",
+    "subdivision": "LL"
+  },
+  "CL-LR": {
+    "country": "CL",
+    "subdivision": "LR"
+  },
+  "CL-MA": {
+    "country": "CL",
+    "subdivision": "MA"
+  },
+  "CL-ML": {
+    "country": "CL",
+    "subdivision": "ML"
+  },
+  "CL-NB": {
+    "country": "CL",
+    "subdivision": "NB"
+  },
+  "CL-RM": {
+    "country": "CL",
+    "subdivision": "RM"
+  },
+  "CL-TA": {
+    "country": "CL",
+    "subdivision": "TA"
+  },
+  "CL-VS": {
+    "country": "CL",
+    "subdivision": "VS"
+  },
+  "CN-HK": {
+    "country": "CN",
+    "subdivision": "HK"
+  },
+  "CN-MO": {
+    "country": "CN",
+    "subdivision": "MO"
+  },
+  "CO-AMA": {
+    "country": "CO",
+    "subdivision": "AMA"
+  },
+  "CO-ANT": {
+    "country": "CO",
+    "subdivision": "ANT"
+  },
+  "CO-ARA": {
+    "country": "CO",
+    "subdivision": "ARA"
+  },
+  "CO-ATL": {
+    "country": "CO",
+    "subdivision": "ATL"
+  },
+  "CO-BOL": {
+    "country": "CO",
+    "subdivision": "BOL"
+  },
+  "CO-BOY": {
+    "country": "CO",
+    "subdivision": "BOY"
+  },
+  "CO-CAL": {
+    "country": "CO",
+    "subdivision": "CAL"
+  },
+  "CO-CAQ": {
+    "country": "CO",
+    "subdivision": "CAQ"
+  },
+  "CO-CAS": {
+    "country": "CO",
+    "subdivision": "CAS"
+  },
+  "CO-CAU": {
+    "country": "CO",
+    "subdivision": "CAU"
+  },
+  "CO-CES": {
+    "country": "CO",
+    "subdivision": "CES"
+  },
+  "CO-CHO": {
+    "country": "CO",
+    "subdivision": "CHO"
+  },
+  "CO-COR": {
+    "country": "CO",
+    "subdivision": "COR"
+  },
+  "CO-CUN": {
+    "country": "CO",
+    "subdivision": "CUN"
+  },
+  "CO-DC": {
+    "country": "CO",
+    "subdivision": "DC"
+  },
+  "CO-GUA": {
+    "country": "CO",
+    "subdivision": "GUA"
+  },
+  "CO-GUV": {
+    "country": "CO",
+    "subdivision": "GUV"
+  },
+  "CO-HUI": {
+    "country": "CO",
+    "subdivision": "HUI"
+  },
+  "CO-LAG": {
+    "country": "CO",
+    "subdivision": "LAG"
+  },
+  "CO-MAG": {
+    "country": "CO",
+    "subdivision": "MAG"
+  },
+  "CO-MET": {
+    "country": "CO",
+    "subdivision": "MET"
+  },
+  "CO-NAR": {
+    "country": "CO",
+    "subdivision": "NAR"
+  },
+  "CO-NSA": {
+    "country": "CO",
+    "subdivision": "NSA"
+  },
+  "CO-PUT": {
+    "country": "CO",
+    "subdivision": "PUT"
+  },
+  "CO-QUI": {
+    "country": "CO",
+    "subdivision": "QUI"
+  },
+  "CO-RIS": {
+    "country": "CO",
+    "subdivision": "RIS"
+  },
+  "CO-SAN": {
+    "country": "CO",
+    "subdivision": "SAN"
+  },
+  "CO-SAP": {
+    "country": "CO",
+    "subdivision": "SAP"
+  },
+  "CO-SUC": {
+    "country": "CO",
+    "subdivision": "SUC"
+  },
+  "CO-TOL": {
+    "country": "CO",
+    "subdivision": "TOL"
+  },
+  "CO-VAC": {
+    "country": "CO",
+    "subdivision": "VAC"
+  },
+  "CO-VAU": {
+    "country": "CO",
+    "subdivision": "VAU"
+  },
+  "CO-VID": {
+    "country": "CO",
+    "subdivision": "VID"
+  },
+  "CR-A": {
+    "country": "CR",
+    "subdivision": "A"
+  },
+  "CR-C": {
+    "country": "CR",
+    "subdivision": "C"
+  },
+  "CR-G": {
+    "country": "CR",
+    "subdivision": "G"
+  },
+  "CR-H": {
+    "country": "CR",
+    "subdivision": "H"
+  },
+  "CR-L": {
+    "country": "CR",
+    "subdivision": "L"
+  },
+  "CR-P": {
+    "country": "CR",
+    "subdivision": "P"
+  },
+  "CR-SJ": {
+    "country": "CR",
+    "subdivision": "SJ"
+  },
+  "CS-CG": {
+    "country": "CS",
+    "subdivision": "CG",
+    "status": "withdrawn"
+  },
+  "CS-SR": {
+    "country": "CS",
+    "subdivision": "SR",
+    "status": "withdrawn"
+  },
+  "CU-01": {
+    "country": "CU",
+    "subdivision": "01"
+  },
+  "CU-02": {
+    "country": "CU",
+    "subdivision": "02",
+    "status": "withdrawn"
+  },
+  "CU-03": {
+    "country": "CU",
+    "subdivision": "03"
+  },
+  "CU-05": {
+    "country": "CU",
+    "subdivision": "05"
+  },
+  "CU-06": {
+    "country": "CU",
+    "subdivision": "06"
+  },
+  "CU-09": {
+    "country": "CU",
+    "subdivision": "09"
+  },
+  "CU-10": {
+    "country": "CU",
+    "subdivision": "10"
+  },
+  "CU-12": {
+    "country": "CU",
+    "subdivision": "12"
+  },
+  "CU-99": {
+    "country": "CU",
+    "subdivision": "99"
+  },
+  "CV-PR": {
+    "country": "CV",
+    "subdivision": "PR"
+  },
+  "CV-SL": {
+    "country": "CV",
+    "subdivision": "SL"
+  },
+  "CZ-10": {
+    "country": "CZ",
+    "subdivision": "10"
+  },
+  "CZ-101": {
+    "country": "CZ",
+    "subdivision": "101",
+    "status": "withdrawn"
+  },
+  "CZ-103": {
+    "country": "CZ",
+    "subdivision": "103",
+    "status": "withdrawn"
+  },
+  "CZ-104": {
+    "country": "CZ",
+    "subdivision": "104",
+    "status": "withdrawn"
+  },
+  "CZ-107": {
+    "country": "CZ",
+    "subdivision": "107",
+    "status": "withdrawn"
+  },
+  "CZ-108": {
+    "country": "CZ",
+    "subdivision": "108",
+    "status": "withdrawn"
+  },
+  "CZ-109": {
+    "country": "CZ",
+    "subdivision": "109",
+    "status": "withdrawn"
+  },
+  "CZ-110": {
+    "country": "CZ",
+    "subdivision": "110",
+    "status": "withdrawn"
+  },
+  "CZ-111": {
+    "country": "CZ",
+    "subdivision": "111",
+    "status": "withdrawn"
+  },
+  "CZ-112": {
+    "country": "CZ",
+    "subdivision": "112",
+    "status": "withdrawn"
+  },
+  "CZ-113": {
+    "country": "CZ",
+    "subdivision": "113",
+    "status": "withdrawn"
+  },
+  "CZ-114": {
+    "country": "CZ",
+    "subdivision": "114",
+    "status": "withdrawn"
+  },
+  "CZ-115": {
+    "country": "CZ",
+    "subdivision": "115",
+    "status": "withdrawn"
+  },
+  "CZ-20": {
+    "country": "CZ",
+    "subdivision": "20"
+  },
+  "CZ-201": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-202": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-203": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-204": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-205": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-206": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-207": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-208": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-209": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-20A": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-20B": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-20C": {
+    "country": "CZ",
+    "subdivision": "20",
+    "polyfill": "regional"
+  },
+  "CZ-31": {
+    "country": "CZ",
+    "subdivision": "31"
+  },
+  "CZ-311": {
+    "country": "CZ",
+    "subdivision": "31",
+    "polyfill": "regional"
+  },
+  "CZ-312": {
+    "country": "CZ",
+    "subdivision": "31",
+    "polyfill": "regional"
+  },
+  "CZ-313": {
+    "country": "CZ",
+    "subdivision": "31",
+    "polyfill": "regional"
+  },
+  "CZ-314": {
+    "country": "CZ",
+    "subdivision": "31",
+    "polyfill": "regional"
+  },
+  "CZ-315": {
+    "country": "CZ",
+    "subdivision": "31",
+    "polyfill": "regional"
+  },
+  "CZ-316": {
+    "country": "CZ",
+    "subdivision": "31",
+    "polyfill": "regional"
+  },
+  "CZ-317": {
+    "country": "CZ",
+    "subdivision": "31",
+    "polyfill": "regional"
+  },
+  "CZ-32": {
+    "country": "CZ",
+    "subdivision": "32"
+  },
+  "CZ-321": {
+    "country": "CZ",
+    "subdivision": "32",
+    "polyfill": "regional"
+  },
+  "CZ-322": {
+    "country": "CZ",
+    "subdivision": "32",
+    "polyfill": "regional"
+  },
+  "CZ-323": {
+    "country": "CZ",
+    "subdivision": "32",
+    "polyfill": "regional"
+  },
+  "CZ-324": {
+    "country": "CZ",
+    "subdivision": "32",
+    "polyfill": "regional"
+  },
+  "CZ-325": {
+    "country": "CZ",
+    "subdivision": "32",
+    "polyfill": "regional"
+  },
+  "CZ-326": {
+    "country": "CZ",
+    "subdivision": "32",
+    "polyfill": "regional"
+  },
+  "CZ-327": {
+    "country": "CZ",
+    "subdivision": "32",
+    "polyfill": "regional"
+  },
+  "CZ-41": {
+    "country": "CZ",
+    "subdivision": "41"
+  },
+  "CZ-411": {
+    "country": "CZ",
+    "subdivision": "41",
+    "polyfill": "regional"
+  },
+  "CZ-412": {
+    "country": "CZ",
+    "subdivision": "41",
+    "polyfill": "regional"
+  },
+  "CZ-413": {
+    "country": "CZ",
+    "subdivision": "41",
+    "polyfill": "regional"
+  },
+  "CZ-42": {
+    "country": "CZ",
+    "subdivision": "42"
+  },
+  "CZ-421": {
+    "country": "CZ",
+    "subdivision": "42",
+    "polyfill": "regional"
+  },
+  "CZ-422": {
+    "country": "CZ",
+    "subdivision": "42",
+    "polyfill": "regional"
+  },
+  "CZ-423": {
+    "country": "CZ",
+    "subdivision": "42",
+    "polyfill": "regional"
+  },
+  "CZ-424": {
+    "country": "CZ",
+    "subdivision": "42",
+    "polyfill": "regional"
+  },
+  "CZ-425": {
+    "country": "CZ",
+    "subdivision": "42",
+    "polyfill": "regional"
+  },
+  "CZ-426": {
+    "country": "CZ",
+    "subdivision": "42",
+    "polyfill": "regional"
+  },
+  "CZ-427": {
+    "country": "CZ",
+    "subdivision": "42",
+    "polyfill": "regional"
+  },
+  "CZ-51": {
+    "country": "CZ",
+    "subdivision": "51"
+  },
+  "CZ-511": {
+    "country": "CZ",
+    "subdivision": "51",
+    "polyfill": "regional"
+  },
+  "CZ-512": {
+    "country": "CZ",
+    "subdivision": "51",
+    "polyfill": "regional"
+  },
+  "CZ-513": {
+    "country": "CZ",
+    "subdivision": "51",
+    "polyfill": "regional"
+  },
+  "CZ-514": {
+    "country": "CZ",
+    "subdivision": "51",
+    "polyfill": "regional"
+  },
+  "CZ-52": {
+    "country": "CZ",
+    "subdivision": "52"
+  },
+  "CZ-521": {
+    "country": "CZ",
+    "subdivision": "52",
+    "polyfill": "regional"
+  },
+  "CZ-522": {
+    "country": "CZ",
+    "subdivision": "52",
+    "polyfill": "regional"
+  },
+  "CZ-523": {
+    "country": "CZ",
+    "subdivision": "52",
+    "polyfill": "regional"
+  },
+  "CZ-524": {
+    "country": "CZ",
+    "subdivision": "52",
+    "polyfill": "regional"
+  },
+  "CZ-525": {
+    "country": "CZ",
+    "subdivision": "52",
+    "polyfill": "regional"
+  },
+  "CZ-53": {
+    "country": "CZ",
+    "subdivision": "53"
+  },
+  "CZ-531": {
+    "country": "CZ",
+    "subdivision": "53",
+    "polyfill": "regional"
+  },
+  "CZ-532": {
+    "country": "CZ",
+    "subdivision": "53",
+    "polyfill": "regional"
+  },
+  "CZ-533": {
+    "country": "CZ",
+    "subdivision": "53",
+    "polyfill": "regional"
+  },
+  "CZ-534": {
+    "country": "CZ",
+    "subdivision": "53",
+    "polyfill": "regional"
+  },
+  "CZ-63": {
+    "country": "CZ",
+    "subdivision": "63"
+  },
+  "CZ-631": {
+    "country": "CZ",
+    "subdivision": "63",
+    "polyfill": "regional"
+  },
+  "CZ-632": {
+    "country": "CZ",
+    "subdivision": "63",
+    "polyfill": "regional"
+  },
+  "CZ-633": {
+    "country": "CZ",
+    "subdivision": "63",
+    "polyfill": "regional"
+  },
+  "CZ-634": {
+    "country": "CZ",
+    "subdivision": "63",
+    "polyfill": "regional"
+  },
+  "CZ-635": {
+    "country": "CZ",
+    "subdivision": "63",
+    "polyfill": "regional"
+  },
+  "CZ-64": {
+    "country": "CZ",
+    "subdivision": "64"
+  },
+  "CZ-641": {
+    "country": "CZ",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "CZ-642": {
+    "country": "CZ",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "CZ-643": {
+    "country": "CZ",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "CZ-644": {
+    "country": "CZ",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "CZ-645": {
+    "country": "CZ",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "CZ-646": {
+    "country": "CZ",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "CZ-647": {
+    "country": "CZ",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "CZ-71": {
+    "country": "CZ",
+    "subdivision": "71"
+  },
+  "CZ-711": {
+    "country": "CZ",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "CZ-712": {
+    "country": "CZ",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "CZ-713": {
+    "country": "CZ",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "CZ-714": {
+    "country": "CZ",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "CZ-715": {
+    "country": "CZ",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "CZ-72": {
+    "country": "CZ",
+    "subdivision": "72"
+  },
+  "CZ-721": {
+    "country": "CZ",
+    "subdivision": "72",
+    "polyfill": "regional"
+  },
+  "CZ-722": {
+    "country": "CZ",
+    "subdivision": "72",
+    "polyfill": "regional"
+  },
+  "CZ-723": {
+    "country": "CZ",
+    "subdivision": "72",
+    "polyfill": "regional"
+  },
+  "CZ-724": {
+    "country": "CZ",
+    "subdivision": "72",
+    "polyfill": "regional"
+  },
+  "CZ-80": {
+    "country": "CZ",
+    "subdivision": "80"
+  },
+  "CZ-801": {
+    "country": "CZ",
+    "subdivision": "80",
+    "polyfill": "regional"
+  },
+  "CZ-802": {
+    "country": "CZ",
+    "subdivision": "80",
+    "polyfill": "regional"
+  },
+  "CZ-803": {
+    "country": "CZ",
+    "subdivision": "80",
+    "polyfill": "regional"
+  },
+  "CZ-804": {
+    "country": "CZ",
+    "subdivision": "80",
+    "polyfill": "regional"
+  },
+  "CZ-805": {
+    "country": "CZ",
+    "subdivision": "80",
+    "polyfill": "regional"
+  },
+  "CZ-806": {
+    "country": "CZ",
+    "subdivision": "80",
+    "polyfill": "regional"
+  },
+  "DE": {
+    "country": "DE",
+    "subdivision": null
+  },
+  "DE-BB": {
+    "country": "DE",
+    "subdivision": "BB"
+  },
+  "DE-BE": {
+    "country": "DE",
+    "subdivision": "BE"
+  },
+  "DE-BW": {
+    "country": "DE",
+    "subdivision": "BW"
+  },
+  "DE-BY": {
+    "country": "DE",
+    "subdivision": "BY"
+  },
+  "DE-HB": {
+    "country": "DE",
+    "subdivision": "HB"
+  },
+  "DE-HE": {
+    "country": "DE",
+    "subdivision": "HE"
+  },
+  "DE-HH": {
+    "country": "DE",
+    "subdivision": "HH"
+  },
+  "DE-MV": {
+    "country": "DE",
+    "subdivision": "MV"
+  },
+  "DE-NI": {
+    "country": "DE",
+    "subdivision": "NI"
+  },
+  "DE-NW": {
+    "country": "DE",
+    "subdivision": "NW"
+  },
+  "DE-RP": {
+    "country": "DE",
+    "subdivision": "RP"
+  },
+  "DE-SH": {
+    "country": "DE",
+    "subdivision": "SH"
+  },
+  "DE-SL": {
+    "country": "DE",
+    "subdivision": "SL"
+  },
+  "DE-SN": {
+    "country": "DE",
+    "subdivision": "SN"
+  },
+  "DE-ST": {
+    "country": "DE",
+    "subdivision": "ST"
+  },
+  "DE-TH": {
+    "country": "DE",
+    "subdivision": "TH"
+  },
+  "DK-GL": {
+    "country": "DK",
+    "subdivision": "GL",
+    "status": "withdrawn"
+  },
+  "DO-01": {
+    "country": "DO",
+    "subdivision": "01"
+  },
+  "DO-23": {
+    "country": "DO",
+    "subdivision": "23"
+  },
+  "DO-27": {
+    "country": "DO",
+    "subdivision": "27"
+  },
+  "DO-30": {
+    "country": "DO",
+    "subdivision": "30"
+  },
+  "DO-31": {
+    "country": "DO",
+    "subdivision": "31"
+  },
+  "EE-130": {
+    "country": "EE",
+    "subdivision": "130"
+  },
+  "EE-141": {
+    "country": "EE",
+    "subdivision": "141"
+  },
+  "EE-142": {
+    "country": "EE",
+    "subdivision": "142"
+  },
+  "EE-171": {
+    "country": "EE",
+    "subdivision": "171"
+  },
+  "EE-184": {
+    "country": "EE",
+    "subdivision": "56",
+    "polyfill": "regional"
+  },
+  "EE-191": {
+    "country": "EE",
+    "subdivision": "60",
+    "polyfill": "regional"
+  },
+  "EE-198": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-205": {
+    "country": "EE",
+    "subdivision": "205"
+  },
+  "EE-214": {
+    "country": "EE",
+    "subdivision": "214"
+  },
+  "EE-245": {
+    "country": "EE",
+    "subdivision": "245"
+  },
+  "EE-247": {
+    "country": "EE",
+    "subdivision": "247"
+  },
+  "EE-251": {
+    "country": "EE",
+    "subdivision": "251"
+  },
+  "EE-255": {
+    "country": "EE",
+    "subdivision": "255"
+  },
+  "EE-272": {
+    "country": "EE",
+    "subdivision": "60",
+    "polyfill": "regional"
+  },
+  "EE-283": {
+    "country": "EE",
+    "subdivision": "79",
+    "polyfill": "regional"
+  },
+  "EE-284": {
+    "country": "EE",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "EE-291": {
+    "country": "EE",
+    "subdivision": "79",
+    "polyfill": "regional"
+  },
+  "EE-293": {
+    "country": "EE",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "EE-296": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-303": {
+    "country": "EE",
+    "subdivision": "68",
+    "polyfill": "regional"
+  },
+  "EE-305": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-317": {
+    "country": "EE",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "EE-321": {
+    "country": "EE",
+    "subdivision": "321"
+  },
+  "EE-338": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-353": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-37": {
+    "country": "EE",
+    "subdivision": "37"
+  },
+  "EE-39": {
+    "country": "EE",
+    "subdivision": "39"
+  },
+  "EE-424": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-430": {
+    "country": "EE",
+    "subdivision": "430"
+  },
+  "EE-431": {
+    "country": "EE",
+    "subdivision": "431"
+  },
+  "EE-432": {
+    "country": "EE",
+    "subdivision": "79",
+    "polyfill": "regional"
+  },
+  "EE-441": {
+    "country": "EE",
+    "subdivision": "441"
+  },
+  "EE-442": {
+    "country": "EE",
+    "subdivision": "442"
+  },
+  "EE-446": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-45": {
+    "country": "EE",
+    "subdivision": "45"
+  },
+  "EE-478": {
+    "country": "EE",
+    "subdivision": "74",
+    "polyfill": "regional"
+  },
+  "EE-480": {
+    "country": "EE",
+    "subdivision": "84",
+    "polyfill": "regional"
+  },
+  "EE-486": {
+    "country": "EE",
+    "subdivision": "50",
+    "polyfill": "regional"
+  },
+  "EE-50": {
+    "country": "EE",
+    "subdivision": "50"
+  },
+  "EE-503": {
+    "country": "EE",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "EE-511": {
+    "country": "EE",
+    "subdivision": "45",
+    "polyfill": "regional"
+  },
+  "EE-514": {
+    "country": "EE",
+    "subdivision": "514"
+  },
+  "EE-52": {
+    "country": "EE",
+    "subdivision": "52"
+  },
+  "EE-528": {
+    "country": "EE",
+    "subdivision": "79",
+    "polyfill": "regional"
+  },
+  "EE-557": {
+    "country": "EE",
+    "subdivision": "557"
+  },
+  "EE-56": {
+    "country": "EE",
+    "subdivision": "56"
+  },
+  "EE-567": {
+    "country": "EE",
+    "subdivision": "52",
+    "polyfill": "regional"
+  },
+  "EE-586": {
+    "country": "EE",
+    "subdivision": "586"
+  },
+  "EE-60": {
+    "country": "EE",
+    "subdivision": "60"
+  },
+  "EE-615": {
+    "country": "EE",
+    "subdivision": "615"
+  },
+  "EE-618": {
+    "country": "EE",
+    "subdivision": "618"
+  },
+  "EE-622": {
+    "country": "EE",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "EE-624": {
+    "country": "EE",
+    "subdivision": "68",
+    "polyfill": "regional"
+  },
+  "EE-638": {
+    "country": "EE",
+    "subdivision": "638"
+  },
+  "EE-64": {
+    "country": "EE",
+    "subdivision": "64"
+  },
+  "EE-651": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-653": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-661": {
+    "country": "EE",
+    "subdivision": "60",
+    "polyfill": "regional"
+  },
+  "EE-663": {
+    "country": "EE",
+    "subdivision": "60",
+    "polyfill": "regional"
+  },
+  "EE-668": {
+    "country": "EE",
+    "subdivision": "71",
+    "polyfill": "regional"
+  },
+  "EE-68": {
+    "country": "EE",
+    "subdivision": "68"
+  },
+  "EE-689": {
+    "country": "EE",
+    "subdivision": "74",
+    "polyfill": "regional"
+  },
+  "EE-698": {
+    "country": "EE",
+    "subdivision": "698"
+  },
+  "EE-708": {
+    "country": "EE",
+    "subdivision": "64",
+    "polyfill": "regional"
+  },
+  "EE-71": {
+    "country": "EE",
+    "subdivision": "71"
+  },
+  "EE-712": {
+    "country": "EE",
+    "subdivision": "68",
+    "polyfill": "regional"
+  },
+  "EE-714": {
+    "country": "EE",
+    "subdivision": "74",
+    "polyfill": "regional"
+  },
+  "EE-719": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-726": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-732": {
+    "country": "EE",
+    "subdivision": "87",
+    "polyfill": "regional"
+  },
+  "EE-735": {
+    "country": "EE",
+    "subdivision": "735"
+  },
+  "EE-74": {
+    "country": "EE",
+    "subdivision": "74"
+  },
+  "EE-784": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-79": {
+    "country": "EE",
+    "subdivision": "79"
+  },
+  "EE-792": {
+    "country": "EE",
+    "subdivision": "60",
+    "polyfill": "regional"
+  },
+  "EE-793": {
+    "country": "EE",
+    "subdivision": "79",
+    "polyfill": "regional"
+  },
+  "EE-796": {
+    "country": "EE",
+    "subdivision": "79",
+    "polyfill": "regional"
+  },
+  "EE-803": {
+    "country": "EE",
+    "subdivision": "45",
+    "polyfill": "regional"
+  },
+  "EE-809": {
+    "country": "EE",
+    "subdivision": "809"
+  },
+  "EE-81": {
+    "country": "EE",
+    "subdivision": "81"
+  },
+  "EE-824": {
+    "country": "EE",
+    "subdivision": "81",
+    "polyfill": "regional"
+  },
+  "EE-834": {
+    "country": "EE",
+    "subdivision": "834"
+  },
+  "EE-84": {
+    "country": "EE",
+    "subdivision": "84"
+  },
+  "EE-855": {
+    "country": "EE",
+    "subdivision": "81",
+    "polyfill": "regional"
+  },
+  "EE-87": {
+    "country": "EE",
+    "subdivision": "87"
+  },
+  "EE-890": {
+    "country": "EE",
+    "subdivision": "37",
+    "polyfill": "regional"
+  },
+  "EE-897": {
+    "country": "EE",
+    "subdivision": "84",
+    "polyfill": "regional"
+  },
+  "EE-899": {
+    "country": "EE",
+    "subdivision": "84",
+    "polyfill": "regional"
+  },
+  "EE-901": {
+    "country": "EE",
+    "subdivision": "60",
+    "polyfill": "regional"
+  },
+  "EE-903": {
+    "country": "EE",
+    "subdivision": "60",
+    "polyfill": "regional"
+  },
+  "EE-907": {
+    "country": "EE",
+    "subdivision": "56",
+    "polyfill": "regional"
+  },
+  "EE-917": {
+    "country": "EE",
+    "subdivision": "87",
+    "polyfill": "regional"
+  },
+  "EE-919": {
+    "country": "EE",
+    "subdivision": "87",
+    "polyfill": "regional"
+  },
+  "EE-928": {
+    "country": "EE",
+    "subdivision": "928"
+  },
+  "EG-ALX": {
+    "country": "EG",
+    "subdivision": "ALX"
+  },
+  "EG-C": {
+    "country": "EG",
+    "subdivision": "C"
+  },
+  "EG-SHG": {
+    "country": "EG",
+    "subdivision": "SHG"
+  },
+  "ES-A": {
+    "country": "ES",
+    "subdivision": "A"
+  },
+  "ES-AB": {
+    "country": "ES",
+    "subdivision": "AB"
+  },
+  "ES-AL": {
+    "country": "ES",
+    "subdivision": "AL"
+  },
+  "ES-AN": {
+    "country": "ES",
+    "subdivision": "AN"
+  },
+  "ES-AR": {
+    "country": "ES",
+    "subdivision": "AR"
+  },
+  "ES-AS": {
+    "country": "ES",
+    "subdivision": "AS"
+  },
+  "ES-AV": {
+    "country": "ES",
+    "subdivision": "AV"
+  },
+  "ES-B": {
+    "country": "ES",
+    "subdivision": "B"
+  },
+  "ES-BA": {
+    "country": "ES",
+    "subdivision": "BA"
+  },
+  "ES-BI": {
+    "country": "ES",
+    "subdivision": "BI"
+  },
+  "ES-BU": {
+    "country": "ES",
+    "subdivision": "BU"
+  },
+  "ES-C": {
+    "country": "ES",
+    "subdivision": "C"
+  },
+  "ES-CA": {
+    "country": "ES",
+    "subdivision": "CA"
+  },
+  "ES-CB": {
+    "country": "ES",
+    "subdivision": "CB"
+  },
+  "ES-CC": {
+    "country": "ES",
+    "subdivision": "CC"
+  },
+  "ES-CE": {
+    "country": "ES",
+    "subdivision": "CE"
+  },
+  "ES-CL": {
+    "country": "ES",
+    "subdivision": "CL"
+  },
+  "ES-CM": {
+    "country": "ES",
+    "subdivision": "CM"
+  },
+  "ES-CN": {
+    "country": "ES",
+    "subdivision": "CN"
+  },
+  "ES-CO": {
+    "country": "ES",
+    "subdivision": "CO"
+  },
+  "ES-CR": {
+    "country": "ES",
+    "subdivision": "CR"
+  },
+  "ES-CS": {
+    "country": "ES",
+    "subdivision": "CS"
+  },
+  "ES-CT": {
+    "country": "ES",
+    "subdivision": "CT"
+  },
+  "ES-CU": {
+    "country": "ES",
+    "subdivision": "CU"
+  },
+  "ES-EX": {
+    "country": "ES",
+    "subdivision": "EX"
+  },
+  "ES-GA": {
+    "country": "ES",
+    "subdivision": "GA"
+  },
+  "ES-GC": {
+    "country": "ES",
+    "subdivision": "GC"
+  },
+  "ES-GI": {
+    "country": "ES",
+    "subdivision": "GI"
+  },
+  "ES-GR": {
+    "country": "ES",
+    "subdivision": "GR"
+  },
+  "ES-GU": {
+    "country": "ES",
+    "subdivision": "GU"
+  },
+  "ES-H": {
+    "country": "ES",
+    "subdivision": "H"
+  },
+  "ES-HU": {
+    "country": "ES",
+    "subdivision": "HU"
+  },
+  "ES-IB": {
+    "country": "ES",
+    "subdivision": "IB"
+  },
+  "ES-J": {
+    "country": "ES",
+    "subdivision": "J"
+  },
+  "ES-L": {
+    "country": "ES",
+    "subdivision": "L"
+  },
+  "ES-LE": {
+    "country": "ES",
+    "subdivision": "LE"
+  },
+  "ES-LO": {
+    "country": "ES",
+    "subdivision": "RI",
+    "polyfill": "regional"
+  },
+  "ES-LU": {
+    "country": "ES",
+    "subdivision": "LU"
+  },
+  "ES-M": {
+    "country": "ES",
+    "subdivision": "MD",
+    "polyfill": "regional"
+  },
+  "ES-MA": {
+    "country": "ES",
+    "subdivision": "MA"
+  },
+  "ES-MC": {
+    "country": "ES",
+    "subdivision": "MC"
+  },
+  "ES-MD": {
+    "country": "ES",
+    "subdivision": "MD"
+  },
+  "ES-ML": {
+    "country": "ES",
+    "subdivision": "ML"
+  },
+  "ES-MU": {
+    "country": "ES",
+    "subdivision": "MC",
+    "polyfill": "regional"
+  },
+  "ES-NA": {
+    "country": "ES",
+    "subdivision": "NC",
+    "polyfill": "regional"
+  },
+  "ES-NC": {
+    "country": "ES",
+    "subdivision": "NC"
+  },
+  "ES-O": {
+    "country": "ES",
+    "subdivision": "AS",
+    "polyfill": "regional"
+  },
+  "ES-OR": {
+    "country": "ES",
+    "subdivision": "OR"
+  },
+  "ES-P": {
+    "country": "ES",
+    "subdivision": "P"
+  },
+  "ES-PM": {
+    "country": "ES",
+    "subdivision": "IB",
+    "polyfill": "regional"
+  },
+  "ES-PO": {
+    "country": "ES",
+    "subdivision": "PO"
+  },
+  "ES-PV": {
+    "country": "ES",
+    "subdivision": "PV"
+  },
+  "ES-RI": {
+    "country": "ES",
+    "subdivision": "RI"
+  },
+  "ES-S": {
+    "country": "ES",
+    "subdivision": "CB",
+    "polyfill": "regional"
+  },
+  "ES-SA": {
+    "country": "ES",
+    "subdivision": "SA"
+  },
+  "ES-SE": {
+    "country": "ES",
+    "subdivision": "SE"
+  },
+  "ES-SG": {
+    "country": "ES",
+    "subdivision": "SG"
+  },
+  "ES-SO": {
+    "country": "ES",
+    "subdivision": "SO"
+  },
+  "ES-SS": {
+    "country": "ES",
+    "subdivision": "SS"
+  },
+  "ES-T": {
+    "country": "ES",
+    "subdivision": "T"
+  },
+  "ES-TE": {
+    "country": "ES",
+    "subdivision": "TE"
+  },
+  "ES-TF": {
+    "country": "ES",
+    "subdivision": "TF"
+  },
+  "ES-TO": {
+    "country": "ES",
+    "subdivision": "TO"
+  },
+  "ES-V": {
+    "country": "ES",
+    "subdivision": "V"
+  },
+  "ES-VA": {
+    "country": "ES",
+    "subdivision": "VA"
+  },
+  "ES-VC": {
+    "country": "ES",
+    "subdivision": "VC"
+  },
+  "ES-VI": {
+    "country": "ES",
+    "subdivision": "VI"
+  },
+  "ES-Z": {
+    "country": "ES",
+    "subdivision": "Z"
+  },
+  "ES-ZA": {
+    "country": "ES",
+    "subdivision": "ZA"
+  },
+  "ET-AA": {
+    "country": "ET",
+    "subdivision": "AA"
+  },
+  "ET-AF": {
+    "country": "ET",
+    "subdivision": "AF"
+  },
+  "ET-BE": {
+    "country": "ET",
+    "subdivision": "BE"
+  },
+  "ET-SN": {
+    "country": "ET",
+    "subdivision": "SN"
+  },
+  "FI-01": {
+    "country": "FI",
+    "subdivision": "01"
+  },
+  "FI-02": {
+    "country": "FI",
+    "subdivision": "02"
+  },
+  "FI-03": {
+    "country": "FI",
+    "subdivision": "03"
+  },
+  "FI-04": {
+    "country": "FI",
+    "subdivision": "04"
+  },
+  "FI-05": {
+    "country": "FI",
+    "subdivision": "05"
+  },
+  "FI-06": {
+    "country": "FI",
+    "subdivision": "06"
+  },
+  "FI-07": {
+    "country": "FI",
+    "subdivision": "07"
+  },
+  "FI-08": {
+    "country": "FI",
+    "subdivision": "08"
+  },
+  "FI-09": {
+    "country": "FI",
+    "subdivision": "09"
+  },
+  "FI-10": {
+    "country": "FI",
+    "subdivision": "10"
+  },
+  "FI-11": {
+    "country": "FI",
+    "subdivision": "11"
+  },
+  "FI-12": {
+    "country": "FI",
+    "subdivision": "12"
+  },
+  "FI-13": {
+    "country": "FI",
+    "subdivision": "13"
+  },
+  "FI-14": {
+    "country": "FI",
+    "subdivision": "14"
+  },
+  "FI-15": {
+    "country": "FI",
+    "subdivision": "15"
+  },
+  "FI-16": {
+    "country": "FI",
+    "subdivision": "16"
+  },
+  "FI-17": {
+    "country": "FI",
+    "subdivision": "17"
+  },
+  "FI-18": {
+    "country": "FI",
+    "subdivision": "18"
+  },
+  "FI-19": {
+    "country": "FI",
+    "subdivision": "19"
+  },
+  "FI-IS": {
+    "country": "FI",
+    "subdivision": "IS",
+    "status": "withdrawn"
+  },
+  "FI-LL": {
+    "country": "FI",
+    "subdivision": "LL",
+    "status": "withdrawn"
+  },
+  "FI-LS": {
+    "country": "FI",
+    "subdivision": "LS",
+    "status": "withdrawn"
+  },
+  "FI-OL": {
+    "country": "FI",
+    "subdivision": "OL",
+    "status": "withdrawn"
+  },
+  "FR-01": {
+    "country": "FR",
+    "subdivision": "01"
+  },
+  "FR-02": {
+    "country": "FR",
+    "subdivision": "02"
+  },
+  "FR-03": {
+    "country": "FR",
+    "subdivision": "03"
+  },
+  "FR-04": {
+    "country": "FR",
+    "subdivision": "04"
+  },
+  "FR-05": {
+    "country": "FR",
+    "subdivision": "05"
+  },
+  "FR-06": {
+    "country": "FR",
+    "subdivision": "06"
+  },
+  "FR-07": {
+    "country": "FR",
+    "subdivision": "07"
+  },
+  "FR-08": {
+    "country": "FR",
+    "subdivision": "08"
+  },
+  "FR-09": {
+    "country": "FR",
+    "subdivision": "09"
+  },
+  "FR-10": {
+    "country": "FR",
+    "subdivision": "10"
+  },
+  "FR-11": {
+    "country": "FR",
+    "subdivision": "11"
+  },
+  "FR-12": {
+    "country": "FR",
+    "subdivision": "12"
+  },
+  "FR-13": {
+    "country": "FR",
+    "subdivision": "PAC",
+    "polyfill": "regional"
+  },
+  "FR-14": {
+    "country": "FR",
+    "subdivision": "14"
+  },
+  "FR-15": {
+    "country": "FR",
+    "subdivision": "15"
+  },
+  "FR-16": {
+    "country": "FR",
+    "subdivision": "16"
+  },
+  "FR-17": {
+    "country": "FR",
+    "subdivision": "17"
+  },
+  "FR-18": {
+    "country": "FR",
+    "subdivision": "18"
+  },
+  "FR-19": {
+    "country": "FR",
+    "subdivision": "19"
+  },
+  "FR-20R": {
+    "country": "FR",
+    "subdivision": "20R"
+  },
+  "FR-21": {
+    "country": "FR",
+    "subdivision": "21"
+  },
+  "FR-22": {
+    "country": "FR",
+    "subdivision": "22"
+  },
+  "FR-23": {
+    "country": "FR",
+    "subdivision": "23"
+  },
+  "FR-24": {
+    "country": "FR",
+    "subdivision": "24"
+  },
+  "FR-25": {
+    "country": "FR",
+    "subdivision": "25"
+  },
+  "FR-26": {
+    "country": "FR",
+    "subdivision": "26"
+  },
+  "FR-27": {
+    "country": "FR",
+    "subdivision": "27"
+  },
+  "FR-28": {
+    "country": "FR",
+    "subdivision": "28"
+  },
+  "FR-29": {
+    "country": "FR",
+    "subdivision": "29"
+  },
+  "FR-2A": {
+    "country": "FR",
+    "subdivision": "20R",
+    "polyfill": "regional"
+  },
+  "FR-2B": {
+    "country": "FR",
+    "subdivision": "20R",
+    "polyfill": "regional"
+  },
+  "FR-30": {
+    "country": "FR",
+    "subdivision": "30"
+  },
+  "FR-31": {
+    "country": "FR",
+    "subdivision": "31"
+  },
+  "FR-32": {
+    "country": "FR",
+    "subdivision": "32"
+  },
+  "FR-33": {
+    "country": "FR",
+    "subdivision": "33"
+  },
+  "FR-34": {
+    "country": "FR",
+    "subdivision": "34"
+  },
+  "FR-35": {
+    "country": "FR",
+    "subdivision": "35"
+  },
+  "FR-36": {
+    "country": "FR",
+    "subdivision": "36"
+  },
+  "FR-37": {
+    "country": "FR",
+    "subdivision": "37"
+  },
+  "FR-38": {
+    "country": "FR",
+    "subdivision": "38"
+  },
+  "FR-39": {
+    "country": "FR",
+    "subdivision": "39"
+  },
+  "FR-40": {
+    "country": "FR",
+    "subdivision": "40"
+  },
+  "FR-41": {
+    "country": "FR",
+    "subdivision": "41"
+  },
+  "FR-42": {
+    "country": "FR",
+    "subdivision": "42"
+  },
+  "FR-43": {
+    "country": "FR",
+    "subdivision": "43"
+  },
+  "FR-44": {
+    "country": "FR",
+    "subdivision": "44"
+  },
+  "FR-45": {
+    "country": "FR",
+    "subdivision": "45"
+  },
+  "FR-46": {
+    "country": "FR",
+    "subdivision": "46"
+  },
+  "FR-47": {
+    "country": "FR",
+    "subdivision": "47"
+  },
+  "FR-48": {
+    "country": "FR",
+    "subdivision": "48"
+  },
+  "FR-49": {
+    "country": "FR",
+    "subdivision": "49"
+  },
+  "FR-50": {
+    "country": "FR",
+    "subdivision": "50"
+  },
+  "FR-51": {
+    "country": "FR",
+    "subdivision": "51"
+  },
+  "FR-52": {
+    "country": "FR",
+    "subdivision": "52"
+  },
+  "FR-53": {
+    "country": "FR",
+    "subdivision": "53"
+  },
+  "FR-54": {
+    "country": "FR",
+    "subdivision": "54"
+  },
+  "FR-55": {
+    "country": "FR",
+    "subdivision": "55"
+  },
+  "FR-56": {
+    "country": "FR",
+    "subdivision": "56"
+  },
+  "FR-57": {
+    "country": "FR",
+    "subdivision": "57"
+  },
+  "FR-58": {
+    "country": "FR",
+    "subdivision": "58"
+  },
+  "FR-59": {
+    "country": "FR",
+    "subdivision": "59"
+  },
+  "FR-60": {
+    "country": "FR",
+    "subdivision": "60"
+  },
+  "FR-61": {
+    "country": "FR",
+    "subdivision": "61"
+  },
+  "FR-62": {
+    "country": "FR",
+    "subdivision": "62"
+  },
+  "FR-63": {
+    "country": "FR",
+    "subdivision": "63"
+  },
+  "FR-64": {
+    "country": "FR",
+    "subdivision": "64"
+  },
+  "FR-65": {
+    "country": "FR",
+    "subdivision": "65"
+  },
+  "FR-66": {
+    "country": "FR",
+    "subdivision": "66"
+  },
+  "FR-67": {
+    "country": "FR",
+    "subdivision": "67"
+  },
+  "FR-68": {
+    "country": "FR",
+    "subdivision": "68"
+  },
+  "FR-69": {
+    "country": "FR",
+    "subdivision": "69"
+  },
+  "FR-69M": {
+    "country": "FR",
+    "subdivision": "ARA",
+    "polyfill": "regional"
+  },
+  "FR-6AE": {
+    "country": "FR",
+    "subdivision": "6AE"
+  },
+  "FR-70": {
+    "country": "FR",
+    "subdivision": "70"
+  },
+  "FR-71": {
+    "country": "FR",
+    "subdivision": "71"
+  },
+  "FR-72": {
+    "country": "FR",
+    "subdivision": "72"
+  },
+  "FR-73": {
+    "country": "FR",
+    "subdivision": "73"
+  },
+  "FR-74": {
+    "country": "FR",
+    "subdivision": "ARA",
+    "polyfill": "regional"
+  },
+  "FR-75C": {
+    "country": "FR",
+    "subdivision": "75C"
+  },
+  "FR-76": {
+    "country": "FR",
+    "subdivision": "76"
+  },
+  "FR-77": {
+    "country": "FR",
+    "subdivision": "77"
+  },
+  "FR-78": {
+    "country": "FR",
+    "subdivision": "78"
+  },
+  "FR-79": {
+    "country": "FR",
+    "subdivision": "79"
+  },
+  "FR-80": {
+    "country": "FR",
+    "subdivision": "80"
+  },
+  "FR-81": {
+    "country": "FR",
+    "subdivision": "81"
+  },
+  "FR-82": {
+    "country": "FR",
+    "subdivision": "82"
+  },
+  "FR-83": {
+    "country": "FR",
+    "subdivision": "83"
+  },
+  "FR-84": {
+    "country": "FR",
+    "subdivision": "84"
+  },
+  "FR-85": {
+    "country": "FR",
+    "subdivision": "85"
+  },
+  "FR-86": {
+    "country": "FR",
+    "subdivision": "86"
+  },
+  "FR-87": {
+    "country": "FR",
+    "subdivision": "87"
+  },
+  "FR-88": {
+    "country": "FR",
+    "subdivision": "88"
+  },
+  "FR-89": {
+    "country": "FR",
+    "subdivision": "89"
+  },
+  "FR-90": {
+    "country": "FR",
+    "subdivision": "90"
+  },
+  "FR-91": {
+    "country": "FR",
+    "subdivision": "91"
+  },
+  "FR-92": {
+    "country": "FR",
+    "subdivision": "92"
+  },
+  "FR-95": {
+    "country": "FR",
+    "subdivision": "95"
+  },
+  "FR-971": {
+    "country": "FR",
+    "subdivision": "971"
+  },
+  "FR-973": {
+    "country": "FR",
+    "subdivision": "973"
+  },
+  "FR-974": {
+    "country": "FR",
+    "subdivision": "974"
+  },
+  "FR-976": {
+    "country": "FR",
+    "subdivision": "976"
+  },
+  "FR-ARA": {
+    "country": "FR",
+    "subdivision": "ARA"
+  },
+  "FR-B": {
+    "country": "FR",
+    "subdivision": "B",
+    "status": "withdrawn"
+  },
+  "FR-BFC": {
+    "country": "FR",
+    "subdivision": "BFC"
+  },
+  "FR-BL": {
+    "country": "FR",
+    "subdivision": "BL"
+  },
+  "FR-BRE": {
+    "country": "FR",
+    "subdivision": "BRE"
+  },
+  "FR-C": {
+    "country": "FR",
+    "subdivision": "C",
+    "status": "withdrawn"
+  },
+  "FR-CVL": {
+    "country": "FR",
+    "subdivision": "CVL"
+  },
+  "FR-D": {
+    "country": "FR",
+    "subdivision": "D",
+    "status": "withdrawn"
+  },
+  "FR-G": {
+    "country": "FR",
+    "subdivision": "G",
+    "status": "withdrawn"
+  },
+  "FR-HDF": {
+    "country": "FR",
+    "subdivision": "HDF"
+  },
+  "FR-M": {
+    "country": "FR",
+    "subdivision": "M",
+    "status": "withdrawn"
+  },
+  "FR-NAQ": {
+    "country": "FR",
+    "subdivision": "NAQ"
+  },
+  "FR-NC": {
+    "country": "FR",
+    "subdivision": "NC"
+  },
+  "FR-NOR": {
+    "country": "FR",
+    "subdivision": "NOR"
+  },
+  "FR-O": {
+    "country": "FR",
+    "subdivision": "O",
+    "status": "withdrawn"
+  },
+  "FR-OCC": {
+    "country": "FR",
+    "subdivision": "OCC"
+  },
+  "FR-P": {
+    "country": "FR",
+    "subdivision": "P",
+    "status": "withdrawn"
+  },
+  "FR-PAC": {
+    "country": "FR",
+    "subdivision": "PAC"
+  },
+  "FR-PDL": {
+    "country": "FR",
+    "subdivision": "PDL"
+  },
+  "FR-PF": {
+    "country": "FR",
+    "subdivision": "PF"
+  },
+  "FR-PM": {
+    "country": "FR",
+    "subdivision": "PM"
+  },
+  "FR-Q": {
+    "country": "FR",
+    "subdivision": "Q",
+    "status": "withdrawn"
+  },
+  "FR-S": {
+    "country": "FR",
+    "subdivision": "S",
+    "status": "withdrawn"
+  },
+  "FR-T": {
+    "country": "FR",
+    "subdivision": "T",
+    "status": "withdrawn"
+  },
+  "FR-TF": {
+    "country": "FR",
+    "subdivision": "TF"
+  },
+  "FR-V": {
+    "country": "FR",
+    "subdivision": "V",
+    "status": "withdrawn"
+  },
+  "FR-WF": {
+    "country": "FR",
+    "subdivision": "WF"
+  },
+  "GA-1": {
+    "country": "GA",
+    "subdivision": "1"
+  },
+  "GA-2": {
+    "country": "GA",
+    "subdivision": "2"
+  },
+  "GA-3": {
+    "country": "GA",
+    "subdivision": "3"
+  },
+  "GA-4": {
+    "country": "GA",
+    "subdivision": "4"
+  },
+  "GA-5": {
+    "country": "GA",
+    "subdivision": "5"
+  },
+  "GA-6": {
+    "country": "GA",
+    "subdivision": "6"
+  },
+  "GA-7": {
+    "country": "GA",
+    "subdivision": "7"
+  },
+  "GA-8": {
+    "country": "GA",
+    "subdivision": "8"
+  },
+  "GA-9": {
+    "country": "GA",
+    "subdivision": "9"
+  },
+  "GB-ABD": {
+    "country": "GB",
+    "subdivision": "ABD"
+  },
+  "GB-ABE": {
+    "country": "GB",
+    "subdivision": "ABE"
+  },
+  "GB-AGB": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-AGY": {
+    "country": "GB",
+    "subdivision": "AGY"
+  },
+  "GB-ANS": {
+    "country": "GB",
+    "subdivision": "ANS"
+  },
+  "GB-BAS": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BBD": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BCP": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BDF": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BDG": {
+    "country": "GB",
+    "subdivision": "BDG"
+  },
+  "GB-BEN": {
+    "country": "GB",
+    "subdivision": "BEN"
+  },
+  "GB-BEX": {
+    "country": "GB",
+    "subdivision": "BEX"
+  },
+  "GB-BGE": {
+    "country": "GB",
+    "subdivision": "BGE"
+  },
+  "GB-BGW": {
+    "country": "GB",
+    "subdivision": "BGW"
+  },
+  "GB-BIR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BKM": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BNE": {
+    "country": "GB",
+    "subdivision": "BNE"
+  },
+  "GB-BNH": {
+    "country": "GB",
+    "subdivision": "BNH"
+  },
+  "GB-BNS": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BOL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BPL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BRC": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BRD": {
+    "country": "GB",
+    "subdivision": "BRD"
+  },
+  "GB-BRY": {
+    "country": "GB",
+    "subdivision": "BRY"
+  },
+  "GB-BST": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-BUR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-CAM": {
+    "country": "GB",
+    "subdivision": "CAM"
+  },
+  "GB-CAY": {
+    "country": "GB",
+    "subdivision": "CAY"
+  },
+  "GB-CBF": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-CGN": {
+    "country": "GB",
+    "subdivision": "CGN"
+  },
+  "GB-CHE": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-CHS": {
+    "country": "GB",
+    "subdivision": "CHS",
+    "status": "withdrawn"
+  },
+  "GB-CHW": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-CLD": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-CLK": {
+    "country": "GB",
+    "subdivision": "CLK"
+  },
+  "GB-CMA": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-CMD": {
+    "country": "GB",
+    "subdivision": "CMD"
+  },
+  "GB-CMN": {
+    "country": "GB",
+    "subdivision": "CMN"
+  },
+  "GB-CON": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-COV": {
+    "country": "GB",
+    "subdivision": "COV"
+  },
+  "GB-CRF": {
+    "country": "GB",
+    "subdivision": "CRF"
+  },
+  "GB-CRY": {
+    "country": "GB",
+    "subdivision": "CRY"
+  },
+  "GB-CWY": {
+    "country": "GB",
+    "subdivision": "WLS",
+    "polyfill": "regional"
+  },
+  "GB-DAL": {
+    "country": "GB",
+    "subdivision": "DAL"
+  },
+  "GB-DBY": {
+    "country": "GB",
+    "subdivision": "DBY"
+  },
+  "GB-DEN": {
+    "country": "GB",
+    "subdivision": "DEN"
+  },
+  "GB-DER": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-DEV": {
+    "country": "GB",
+    "subdivision": "DEV"
+  },
+  "GB-DGY": {
+    "country": "GB",
+    "subdivision": "DGY"
+  },
+  "GB-DNC": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-DND": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-DOR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-DUD": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-DUR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-EAL": {
+    "country": "GB",
+    "subdivision": "EAL"
+  },
+  "GB-EAY": {
+    "country": "GB",
+    "subdivision": "EAY"
+  },
+  "GB-EDH": {
+    "country": "GB",
+    "subdivision": "EDH"
+  },
+  "GB-EDU": {
+    "country": "GB",
+    "subdivision": "EDU"
+  },
+  "GB-ELN": {
+    "country": "GB",
+    "subdivision": "ELN"
+  },
+  "GB-ELS": {
+    "country": "GB",
+    "subdivision": "ELS"
+  },
+  "GB-ENF": {
+    "country": "GB",
+    "subdivision": "ENF"
+  },
+  "GB-ENG": {
+    "country": "GB",
+    "subdivision": "ENG"
+  },
+  "GB-ERW": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-ERY": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-ESS": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-ESX": {
+    "country": "GB",
+    "subdivision": "ESX"
+  },
+  "GB-FAL": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-FIF": {
+    "country": "GB",
+    "subdivision": "FIF"
+  },
+  "GB-FLN": {
+    "country": "GB",
+    "subdivision": "FLN"
+  },
+  "GB-GAT": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-GLG": {
+    "country": "GB",
+    "subdivision": "GLG"
+  },
+  "GB-GLS": {
+    "country": "GB",
+    "subdivision": "GLS"
+  },
+  "GB-GRE": {
+    "country": "GB",
+    "subdivision": "GRE"
+  },
+  "GB-GWN": {
+    "country": "GB",
+    "subdivision": "GWN"
+  },
+  "GB-HAL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-HAM": {
+    "country": "GB",
+    "subdivision": "HAM"
+  },
+  "GB-HAV": {
+    "country": "GB",
+    "subdivision": "HAV"
+  },
+  "GB-HCK": {
+    "country": "GB",
+    "subdivision": "HCK"
+  },
+  "GB-HEF": {
+    "country": "GB",
+    "subdivision": "HEF"
+  },
+  "GB-HIL": {
+    "country": "GB",
+    "subdivision": "HIL"
+  },
+  "GB-HLD": {
+    "country": "GB",
+    "subdivision": "HLD"
+  },
+  "GB-HMF": {
+    "country": "GB",
+    "subdivision": "HMF"
+  },
+  "GB-HNS": {
+    "country": "GB",
+    "subdivision": "HNS"
+  },
+  "GB-HPL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-HRT": {
+    "country": "GB",
+    "subdivision": "HRT"
+  },
+  "GB-HRW": {
+    "country": "GB",
+    "subdivision": "HRW"
+  },
+  "GB-HRY": {
+    "country": "GB",
+    "subdivision": "HRY"
+  },
+  "GB-IOS": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-IOW": {
+    "country": "GB",
+    "subdivision": "IOW"
+  },
+  "GB-ISL": {
+    "country": "GB",
+    "subdivision": "ISL"
+  },
+  "GB-IVC": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-JSY": {
+    "country": "GB",
+    "subdivision": "JSY",
+    "status": "withdrawn"
+  },
+  "GB-KEC": {
+    "country": "GB",
+    "subdivision": "KEC"
+  },
+  "GB-KEN": {
+    "country": "GB",
+    "subdivision": "KEN"
+  },
+  "GB-KHL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-KIR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-KTT": {
+    "country": "GB",
+    "subdivision": "KTT"
+  },
+  "GB-KWL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-LAN": {
+    "country": "GB",
+    "subdivision": "LAN"
+  },
+  "GB-LBH": {
+    "country": "GB",
+    "subdivision": "LBH"
+  },
+  "GB-LCE": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-LDS": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-LEC": {
+    "country": "GB",
+    "subdivision": "LEC"
+  },
+  "GB-LEW": {
+    "country": "GB",
+    "subdivision": "LEW"
+  },
+  "GB-LIN": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-LIV": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-LND": {
+    "country": "GB",
+    "subdivision": "LND"
+  },
+  "GB-LUT": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-MAN": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-MDB": {
+    "country": "GB",
+    "subdivision": "MDB"
+  },
+  "GB-MDW": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-MIK": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-MLN": {
+    "country": "GB",
+    "subdivision": "MLN"
+  },
+  "GB-MON": {
+    "country": "GB",
+    "subdivision": "MON"
+  },
+  "GB-MRT": {
+    "country": "GB",
+    "subdivision": "MRT"
+  },
+  "GB-MRY": {
+    "country": "GB",
+    "subdivision": "MRY"
+  },
+  "GB-MTY": {
+    "country": "GB",
+    "subdivision": "WLS",
+    "polyfill": "regional"
+  },
+  "GB-NAY": {
+    "country": "GB",
+    "subdivision": "NAY"
+  },
+  "GB-NBL": {
+    "country": "GB",
+    "subdivision": "NBL"
+  },
+  "GB-NEL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-NET": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-NFK": {
+    "country": "GB",
+    "subdivision": "NFK"
+  },
+  "GB-NGM": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-NLK": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-NLN": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-NNH": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-NSM": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-NTH": {
+    "country": "GB",
+    "subdivision": "NTH",
+    "status": "withdrawn"
+  },
+  "GB-NTL": {
+    "country": "GB",
+    "subdivision": "WLS",
+    "polyfill": "regional"
+  },
+  "GB-NTT": {
+    "country": "GB",
+    "subdivision": "NTT"
+  },
+  "GB-NTY": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-NWM": {
+    "country": "GB",
+    "subdivision": "NWM"
+  },
+  "GB-NWP": {
+    "country": "GB",
+    "subdivision": "NWP"
+  },
+  "GB-NYK": {
+    "country": "GB",
+    "subdivision": "NYK"
+  },
+  "GB-OLD": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-ORK": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-OXF": {
+    "country": "GB",
+    "subdivision": "OXF"
+  },
+  "GB-PEM": {
+    "country": "GB",
+    "subdivision": "PEM"
+  },
+  "GB-PKN": {
+    "country": "GB",
+    "subdivision": "PKN"
+  },
+  "GB-PLY": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-POR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-POW": {
+    "country": "GB",
+    "subdivision": "POW"
+  },
+  "GB-PTE": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-RCC": {
+    "country": "GB",
+    "subdivision": "RCC"
+  },
+  "GB-RCH": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-RCT": {
+    "country": "GB",
+    "subdivision": "WLS",
+    "polyfill": "regional"
+  },
+  "GB-RDB": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-RDG": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-RFW": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-RIC": {
+    "country": "GB",
+    "subdivision": "RIC"
+  },
+  "GB-ROT": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-RUT": {
+    "country": "GB",
+    "subdivision": "RUT"
+  },
+  "GB-SAW": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SAY": {
+    "country": "GB",
+    "subdivision": "SAY"
+  },
+  "GB-SCB": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-SCT": {
+    "country": "GB",
+    "subdivision": "SCT"
+  },
+  "GB-SFK": {
+    "country": "GB",
+    "subdivision": "SFK"
+  },
+  "GB-SFT": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SGC": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SHF": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SHN": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SHR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SKP": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SLF": {
+    "country": "GB",
+    "subdivision": "SLF"
+  },
+  "GB-SLG": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SLK": {
+    "country": "GB",
+    "subdivision": "SLK"
+  },
+  "GB-SND": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SOL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SOM": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SOS": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SRY": {
+    "country": "GB",
+    "subdivision": "SRY"
+  },
+  "GB-STE": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-STG": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-STH": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-STN": {
+    "country": "GB",
+    "subdivision": "STN"
+  },
+  "GB-STS": {
+    "country": "GB",
+    "subdivision": "STS"
+  },
+  "GB-STT": {
+    "country": "GB",
+    "subdivision": "STT"
+  },
+  "GB-STY": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SWA": {
+    "country": "GB",
+    "subdivision": "WLS",
+    "polyfill": "regional"
+  },
+  "GB-SWD": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-SWK": {
+    "country": "GB",
+    "subdivision": "SWK"
+  },
+  "GB-TAM": {
+    "country": "GB",
+    "subdivision": "TAM"
+  },
+  "GB-TFW": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-THR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-TOB": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-TOF": {
+    "country": "GB",
+    "subdivision": "TOF"
+  },
+  "GB-TRF": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-TWH": {
+    "country": "GB",
+    "subdivision": "TWH"
+  },
+  "GB-UKM": {
+    "country": "GB",
+    "subdivision": "UKM",
+    "status": "withdrawn"
+  },
+  "GB-VGL": {
+    "country": "GB",
+    "subdivision": "WLS",
+    "polyfill": "regional"
+  },
+  "GB-WAR": {
+    "country": "GB",
+    "subdivision": "WAR"
+  },
+  "GB-WBK": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WDU": {
+    "country": "GB",
+    "subdivision": "WDU"
+  },
+  "GB-WFT": {
+    "country": "GB",
+    "subdivision": "WFT"
+  },
+  "GB-WGN": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WIL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WKF": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WLL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WLN": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GB-WLS": {
+    "country": "GB",
+    "subdivision": "WLS"
+  },
+  "GB-WLV": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WND": {
+    "country": "GB",
+    "subdivision": "WND"
+  },
+  "GB-WNH": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WNM": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WOK": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WOR": {
+    "country": "GB",
+    "subdivision": "WOR"
+  },
+  "GB-WRL": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WRT": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-WRX": {
+    "country": "GB",
+    "subdivision": "WRX"
+  },
+  "GB-WSM": {
+    "country": "GB",
+    "subdivision": "WSM"
+  },
+  "GB-WSX": {
+    "country": "GB",
+    "subdivision": "WSX"
+  },
+  "GB-YOR": {
+    "country": "GB",
+    "subdivision": "ENG",
+    "polyfill": "regional"
+  },
+  "GB-ZET": {
+    "country": "GB",
+    "subdivision": "SCT",
+    "polyfill": "regional"
+  },
+  "GE-25": {
+    "country": "GE",
+    "subdivision": "25",
+    "status": "withdrawn"
+  },
+  "GE-AB": {
+    "country": "GE",
+    "subdivision": "AB"
+  },
+  "GE-AJ": {
+    "country": "GE",
+    "subdivision": "AJ"
+  },
+  "GE-TB": {
+    "country": "GE",
+    "subdivision": "TB"
+  },
+  "GL-KU": {
+    "country": "GL",
+    "subdivision": "KU"
+  },
+  "GL-QA": {
+    "country": "GL",
+    "subdivision": "QA",
+    "status": "withdrawn"
+  },
+  "GL-QE": {
+    "country": "GL",
+    "subdivision": "QE"
+  },
+  "GM-B": {
+    "country": "GM",
+    "subdivision": "B"
+  },
+  "GQ-AN": {
+    "country": "GQ",
+    "subdivision": "I",
+    "polyfill": "regional"
+  },
+  "GQ-BN": {
+    "country": "GQ",
+    "subdivision": "I",
+    "polyfill": "regional"
+  },
+  "GQ-BS": {
+    "country": "GQ",
+    "subdivision": "I",
+    "polyfill": "regional"
+  },
+  "GQ-I": {
+    "country": "GQ",
+    "subdivision": "I"
+  },
+  "GR-F": {
+    "country": "GR",
+    "subdivision": "F"
+  },
+  "GR-J": {
+    "country": "GR",
+    "subdivision": "J"
+  },
+  "GT-01": {
+    "country": "GT",
+    "subdivision": "01"
+  },
+  "GT-03": {
+    "country": "GT",
+    "subdivision": "03"
+  },
+  "GT-05": {
+    "country": "GT",
+    "subdivision": "05"
+  },
+  "GT-08": {
+    "country": "GT",
+    "subdivision": "08"
+  },
+  "GT-16": {
+    "country": "GT",
+    "subdivision": "16"
+  },
+  "HN-CP": {
+    "country": "HN",
+    "subdivision": "CP"
+  },
+  "HN-FM": {
+    "country": "HN",
+    "subdivision": "FM"
+  },
+  "HN-OC": {
+    "country": "HN",
+    "subdivision": "OC"
+  },
+  "HN-SB": {
+    "country": "HN",
+    "subdivision": "SB"
+  },
+  "HR-01": {
+    "country": "HR",
+    "subdivision": "01"
+  },
+  "HR-02": {
+    "country": "HR",
+    "subdivision": "02"
+  },
+  "HR-04": {
+    "country": "HR",
+    "subdivision": "04"
+  },
+  "HR-09": {
+    "country": "HR",
+    "subdivision": "09"
+  },
+  "HR-11": {
+    "country": "HR",
+    "subdivision": "11"
+  },
+  "HR-12": {
+    "country": "HR",
+    "subdivision": "12"
+  },
+  "HR-15": {
+    "country": "HR",
+    "subdivision": "15"
+  },
+  "HR-16": {
+    "country": "HR",
+    "subdivision": "16"
+  },
+  "HR-17": {
+    "country": "HR",
+    "subdivision": "17"
+  },
+  "HR-18": {
+    "country": "HR",
+    "subdivision": "18"
+  },
+  "HR-19": {
+    "country": "HR",
+    "subdivision": "19"
+  },
+  "HR-20": {
+    "country": "HR",
+    "subdivision": "20"
+  },
+  "HR-21": {
+    "country": "HR",
+    "subdivision": "21"
+  },
+  "HU-BA": {
+    "country": "HU",
+    "subdivision": "BA"
+  },
+  "HU-BC": {
+    "country": "HU",
+    "subdivision": "BC"
+  },
+  "HU-BE": {
+    "country": "HU",
+    "subdivision": "BE"
+  },
+  "HU-BK": {
+    "country": "HU",
+    "subdivision": "BK"
+  },
+  "HU-BU": {
+    "country": "HU",
+    "subdivision": "BU"
+  },
+  "HU-BZ": {
+    "country": "HU",
+    "subdivision": "BZ"
+  },
+  "HU-CS": {
+    "country": "HU",
+    "subdivision": "CS"
+  },
+  "HU-DE": {
+    "country": "HU",
+    "subdivision": "DE"
+  },
+  "HU-DU": {
+    "country": "HU",
+    "subdivision": "DU"
+  },
+  "HU-EG": {
+    "country": "HU",
+    "subdivision": "EG"
+  },
+  "HU-ER": {
+    "country": "HU",
+    "subdivision": "ER"
+  },
+  "HU-FE": {
+    "country": "HU",
+    "subdivision": "FE"
+  },
+  "HU-GY": {
+    "country": "HU",
+    "subdivision": "GY"
+  },
+  "HU-HB": {
+    "country": "HU",
+    "subdivision": "HB"
+  },
+  "HU-HE": {
+    "country": "HU",
+    "subdivision": "HE"
+  },
+  "HU-HV": {
+    "country": "HU",
+    "subdivision": "HV"
+  },
+  "HU-KM": {
+    "country": "HU",
+    "subdivision": "KM"
+  },
+  "HU-KV": {
+    "country": "HU",
+    "subdivision": "KV"
+  },
+  "HU-MI": {
+    "country": "HU",
+    "subdivision": "MI"
+  },
+  "HU-NK": {
+    "country": "HU",
+    "subdivision": "NK"
+  },
+  "HU-NO": {
+    "country": "HU",
+    "subdivision": "NO"
+  },
+  "HU-NY": {
+    "country": "HU",
+    "subdivision": "NY"
+  },
+  "HU-PE": {
+    "country": "HU",
+    "subdivision": "PE"
+  },
+  "HU-PS": {
+    "country": "HU",
+    "subdivision": "PS"
+  },
+  "HU-SD": {
+    "country": "HU",
+    "subdivision": "SD"
+  },
+  "HU-SF": {
+    "country": "HU",
+    "subdivision": "SF"
+  },
+  "HU-SH": {
+    "country": "HU",
+    "subdivision": "SH"
+  },
+  "HU-SK": {
+    "country": "HU",
+    "subdivision": "SK"
+  },
+  "HU-SN": {
+    "country": "HU",
+    "subdivision": "SN"
+  },
+  "HU-SO": {
+    "country": "HU",
+    "subdivision": "SO"
+  },
+  "HU-SS": {
+    "country": "HU",
+    "subdivision": "SS"
+  },
+  "HU-ST": {
+    "country": "HU",
+    "subdivision": "ST"
+  },
+  "HU-SZ": {
+    "country": "HU",
+    "subdivision": "SZ"
+  },
+  "HU-TB": {
+    "country": "HU",
+    "subdivision": "TB"
+  },
+  "HU-VE": {
+    "country": "HU",
+    "subdivision": "VE"
+  },
+  "HU-VM": {
+    "country": "HU",
+    "subdivision": "VM"
+  },
+  "HU-ZA": {
+    "country": "HU",
+    "subdivision": "ZA"
+  },
+  "HU-ZE": {
+    "country": "HU",
+    "subdivision": "ZE"
+  },
+  "ID-AC": {
+    "country": "ID",
+    "subdivision": "AC"
+  },
+  "ID-BA": {
+    "country": "ID",
+    "subdivision": "BA"
+  },
+  "ID-BB": {
+    "country": "ID",
+    "subdivision": "BB"
+  },
+  "ID-BE": {
+    "country": "ID",
+    "subdivision": "BE"
+  },
+  "ID-BT": {
+    "country": "ID",
+    "subdivision": "BT"
+  },
+  "ID-GO": {
+    "country": "ID",
+    "subdivision": "GO"
+  },
+  "ID-JA": {
+    "country": "ID",
+    "subdivision": "JA"
+  },
+  "ID-JB": {
+    "country": "ID",
+    "subdivision": "JB"
+  },
+  "ID-JI": {
+    "country": "ID",
+    "subdivision": "JI"
+  },
+  "ID-KB": {
+    "country": "ID",
+    "subdivision": "KB"
+  },
+  "ID-KI": {
+    "country": "ID",
+    "subdivision": "KI"
+  },
+  "ID-KR": {
+    "country": "ID",
+    "subdivision": "KR"
+  },
+  "ID-KS": {
+    "country": "ID",
+    "subdivision": "KS"
+  },
+  "ID-KT": {
+    "country": "ID",
+    "subdivision": "KT"
+  },
+  "ID-KU": {
+    "country": "ID",
+    "subdivision": "KU"
+  },
+  "ID-LA": {
+    "country": "ID",
+    "subdivision": "LA"
+  },
+  "ID-MA": {
+    "country": "ID",
+    "subdivision": "MA"
+  },
+  "ID-MU": {
+    "country": "ID",
+    "subdivision": "MU"
+  },
+  "ID-NB": {
+    "country": "ID",
+    "subdivision": "NB"
+  },
+  "ID-PA": {
+    "country": "ID",
+    "subdivision": "PA"
+  },
+  "ID-PB": {
+    "country": "ID",
+    "subdivision": "PB"
+  },
+  "ID-RI": {
+    "country": "ID",
+    "subdivision": "RI"
+  },
+  "ID-SA": {
+    "country": "ID",
+    "subdivision": "SA"
+  },
+  "ID-SB": {
+    "country": "ID",
+    "subdivision": "SB"
+  },
+  "ID-SG": {
+    "country": "ID",
+    "subdivision": "SG"
+  },
+  "ID-SN": {
+    "country": "ID",
+    "subdivision": "SN"
+  },
+  "ID-SR": {
+    "country": "ID",
+    "subdivision": "SR"
+  },
+  "ID-SS": {
+    "country": "ID",
+    "subdivision": "SS"
+  },
+  "ID-ST": {
+    "country": "ID",
+    "subdivision": "ST"
+  },
+  "ID-YO": {
+    "country": "ID",
+    "subdivision": "YO"
+  },
+  "IE-C": {
+    "country": "IE",
+    "subdivision": "C"
+  },
+  "IE-CE": {
+    "country": "IE",
+    "subdivision": "M",
+    "polyfill": "regional"
+  },
+  "IE-CN": {
+    "country": "IE",
+    "subdivision": "CN"
+  },
+  "IE-CO": {
+    "country": "IE",
+    "subdivision": "M",
+    "polyfill": "regional"
+  },
+  "IE-CW": {
+    "country": "IE",
+    "subdivision": "CW"
+  },
+  "IE-D": {
+    "country": "IE",
+    "subdivision": "D"
+  },
+  "IE-DL": {
+    "country": "IE",
+    "subdivision": "U",
+    "polyfill": "regional"
+  },
+  "IE-G": {
+    "country": "IE",
+    "subdivision": "C",
+    "polyfill": "regional"
+  },
+  "IE-KE": {
+    "country": "IE",
+    "subdivision": "L",
+    "polyfill": "regional"
+  },
+  "IE-KK": {
+    "country": "IE",
+    "subdivision": "KK"
+  },
+  "IE-KY": {
+    "country": "IE",
+    "subdivision": "KY"
+  },
+  "IE-L": {
+    "country": "IE",
+    "subdivision": "L"
+  },
+  "IE-LD": {
+    "country": "IE",
+    "subdivision": "L",
+    "polyfill": "regional"
+  },
+  "IE-LH": {
+    "country": "IE",
+    "subdivision": "L",
+    "polyfill": "regional"
+  },
+  "IE-LK": {
+    "country": "IE",
+    "subdivision": "M",
+    "polyfill": "regional"
+  },
+  "IE-LM": {
+    "country": "IE",
+    "subdivision": "LM"
+  },
+  "IE-LS": {
+    "country": "IE",
+    "subdivision": "LS"
+  },
+  "IE-M": {
+    "country": "IE",
+    "subdivision": "M"
+  },
+  "IE-MH": {
+    "country": "IE",
+    "subdivision": "MH"
+  },
+  "IE-MN": {
+    "country": "IE",
+    "subdivision": "U",
+    "polyfill": "regional"
+  },
+  "IE-MO": {
+    "country": "IE",
+    "subdivision": "C",
+    "polyfill": "regional"
+  },
+  "IE-OY": {
+    "country": "IE",
+    "subdivision": "OY"
+  },
+  "IE-RN": {
+    "country": "IE",
+    "subdivision": "C",
+    "polyfill": "regional"
+  },
+  "IE-SO": {
+    "country": "IE",
+    "subdivision": "C",
+    "polyfill": "regional"
+  },
+  "IE-TA": {
+    "country": "IE",
+    "subdivision": "TA"
+  },
+  "IE-U": {
+    "country": "IE",
+    "subdivision": "U"
+  },
+  "IE-WD": {
+    "country": "IE",
+    "subdivision": "M",
+    "polyfill": "regional"
+  },
+  "IE-WH": {
+    "country": "IE",
+    "subdivision": "L",
+    "polyfill": "regional"
+  },
+  "IE-WW": {
+    "country": "IE",
+    "subdivision": "L",
+    "polyfill": "regional"
+  },
+  "IE-WX": {
+    "country": "IE",
+    "subdivision": "L",
+    "polyfill": "regional"
+  },
+  "IN-AN": {
+    "country": "IN",
+    "subdivision": "AN"
+  },
+  "IN-AS": {
+    "country": "IN",
+    "subdivision": "AS"
+  },
+  "IN-BR": {
+    "country": "IN",
+    "subdivision": "BR"
+  },
+  "IN-DD": {
+    "country": "IN",
+    "subdivision": "DD",
+    "status": "withdrawn"
+  },
+  "IN-DH": {
+    "country": "IN",
+    "subdivision": "DH"
+  },
+  "IN-DL": {
+    "country": "IN",
+    "subdivision": "DL"
+  },
+  "IN-GJ": {
+    "country": "IN",
+    "subdivision": "GJ"
+  },
+  "IN-JK": {
+    "country": "IN",
+    "subdivision": "JK"
+  },
+  "IN-KA": {
+    "country": "IN",
+    "subdivision": "KA"
+  },
+  "IN-MH": {
+    "country": "IN",
+    "subdivision": "MH"
+  },
+  "IN-ML": {
+    "country": "IN",
+    "subdivision": "ML"
+  },
+  "IN-MZ": {
+    "country": "IN",
+    "subdivision": "MZ"
+  },
+  "IN-TN": {
+    "country": "IN",
+    "subdivision": "TN"
+  },
+  "IN-UP": {
+    "country": "IN",
+    "subdivision": "UP"
+  },
+  "IS-0": {
+    "country": "IS",
+    "subdivision": "0",
+    "status": "withdrawn"
+  },
+  "IS-RKV": {
+    "country": "IS",
+    "subdivision": "RKV"
+  },
+  "IT-21": {
+    "country": "IT",
+    "subdivision": "21"
+  },
+  "IT-23": {
+    "country": "IT",
+    "subdivision": "23"
+  },
+  "IT-25": {
+    "country": "IT",
+    "subdivision": "25"
+  },
+  "IT-32": {
+    "country": "IT",
+    "subdivision": "32"
+  },
+  "IT-36": {
+    "country": "IT",
+    "subdivision": "36"
+  },
+  "IT-42": {
+    "country": "IT",
+    "subdivision": "42"
+  },
+  "IT-45": {
+    "country": "IT",
+    "subdivision": "45"
+  },
+  "IT-52": {
+    "country": "IT",
+    "subdivision": "52"
+  },
+  "IT-55": {
+    "country": "IT",
+    "subdivision": "55"
+  },
+  "IT-57": {
+    "country": "IT",
+    "subdivision": "57"
+  },
+  "IT-62": {
+    "country": "IT",
+    "subdivision": "62"
+  },
+  "IT-65": {
+    "country": "IT",
+    "subdivision": "65"
+  },
+  "IT-67": {
+    "country": "IT",
+    "subdivision": "67"
+  },
+  "IT-72": {
+    "country": "IT",
+    "subdivision": "72"
+  },
+  "IT-75": {
+    "country": "IT",
+    "subdivision": "75"
+  },
+  "IT-77": {
+    "country": "IT",
+    "subdivision": "77"
+  },
+  "IT-78": {
+    "country": "IT",
+    "subdivision": "78"
+  },
+  "IT-82": {
+    "country": "IT",
+    "subdivision": "82"
+  },
+  "IT-88": {
+    "country": "IT",
+    "subdivision": "88"
+  },
+  "IT-AG": {
+    "country": "IT",
+    "subdivision": "AG"
+  },
+  "IT-AL": {
+    "country": "IT",
+    "subdivision": "AL"
+  },
+  "IT-AN": {
+    "country": "IT",
+    "subdivision": "AN"
+  },
+  "IT-AO": {
+    "country": "IT",
+    "subdivision": "AO",
+    "status": "withdrawn"
+  },
+  "IT-AP": {
+    "country": "IT",
+    "subdivision": "AP"
+  },
+  "IT-AQ": {
+    "country": "IT",
+    "subdivision": "AQ"
+  },
+  "IT-AR": {
+    "country": "IT",
+    "subdivision": "AR"
+  },
+  "IT-AT": {
+    "country": "IT",
+    "subdivision": "AT"
+  },
+  "IT-AV": {
+    "country": "IT",
+    "subdivision": "AV"
+  },
+  "IT-BA": {
+    "country": "IT",
+    "subdivision": "BA"
+  },
+  "IT-BG": {
+    "country": "IT",
+    "subdivision": "BG"
+  },
+  "IT-BI": {
+    "country": "IT",
+    "subdivision": "BI"
+  },
+  "IT-BL": {
+    "country": "IT",
+    "subdivision": "BL"
+  },
+  "IT-BN": {
+    "country": "IT",
+    "subdivision": "BN"
+  },
+  "IT-BO": {
+    "country": "IT",
+    "subdivision": "BO"
+  },
+  "IT-BR": {
+    "country": "IT",
+    "subdivision": "BR"
+  },
+  "IT-BS": {
+    "country": "IT",
+    "subdivision": "BS"
+  },
+  "IT-BT": {
+    "country": "IT",
+    "subdivision": "BT"
+  },
+  "IT-BZ": {
+    "country": "IT",
+    "subdivision": "BZ"
+  },
+  "IT-CA": {
+    "country": "IT",
+    "subdivision": "CA"
+  },
+  "IT-CB": {
+    "country": "IT",
+    "subdivision": "CB"
+  },
+  "IT-CE": {
+    "country": "IT",
+    "subdivision": "CE"
+  },
+  "IT-CH": {
+    "country": "IT",
+    "subdivision": "CH"
+  },
+  "IT-CL": {
+    "country": "IT",
+    "subdivision": "CL"
+  },
+  "IT-CN": {
+    "country": "IT",
+    "subdivision": "CN"
+  },
+  "IT-CO": {
+    "country": "IT",
+    "subdivision": "CO"
+  },
+  "IT-CR": {
+    "country": "IT",
+    "subdivision": "CR"
+  },
+  "IT-CS": {
+    "country": "IT",
+    "subdivision": "CS"
+  },
+  "IT-CT": {
+    "country": "IT",
+    "subdivision": "CT"
+  },
+  "IT-CZ": {
+    "country": "IT",
+    "subdivision": "CZ"
+  },
+  "IT-EN": {
+    "country": "IT",
+    "subdivision": "82",
+    "polyfill": "regional"
+  },
+  "IT-FC": {
+    "country": "IT",
+    "subdivision": "FC"
+  },
+  "IT-FE": {
+    "country": "IT",
+    "subdivision": "FE"
+  },
+  "IT-FG": {
+    "country": "IT",
+    "subdivision": "FG"
+  },
+  "IT-FI": {
+    "country": "IT",
+    "subdivision": "FI"
+  },
+  "IT-FM": {
+    "country": "IT",
+    "subdivision": "FM"
+  },
+  "IT-FR": {
+    "country": "IT",
+    "subdivision": "FR"
+  },
+  "IT-GE": {
+    "country": "IT",
+    "subdivision": "42",
+    "polyfill": "regional"
+  },
+  "IT-GO": {
+    "country": "IT",
+    "subdivision": "GO"
+  },
+  "IT-GR": {
+    "country": "IT",
+    "subdivision": "GR"
+  },
+  "IT-IM": {
+    "country": "IT",
+    "subdivision": "IM"
+  },
+  "IT-IS": {
+    "country": "IT",
+    "subdivision": "IS"
+  },
+  "IT-KR": {
+    "country": "IT",
+    "subdivision": "KR"
+  },
+  "IT-LC": {
+    "country": "IT",
+    "subdivision": "LC"
+  },
+  "IT-LE": {
+    "country": "IT",
+    "subdivision": "LE"
+  },
+  "IT-LI": {
+    "country": "IT",
+    "subdivision": "LI"
+  },
+  "IT-LO": {
+    "country": "IT",
+    "subdivision": "LO"
+  },
+  "IT-LT": {
+    "country": "IT",
+    "subdivision": "LT"
+  },
+  "IT-LU": {
+    "country": "IT",
+    "subdivision": "LU"
+  },
+  "IT-MB": {
+    "country": "IT",
+    "subdivision": "MB"
+  },
+  "IT-MC": {
+    "country": "IT",
+    "subdivision": "MC"
+  },
+  "IT-ME": {
+    "country": "IT",
+    "subdivision": "ME"
+  },
+  "IT-MI": {
+    "country": "IT",
+    "subdivision": "MI"
+  },
+  "IT-MN": {
+    "country": "IT",
+    "subdivision": "MN"
+  },
+  "IT-MO": {
+    "country": "IT",
+    "subdivision": "MO"
+  },
+  "IT-MS": {
+    "country": "IT",
+    "subdivision": "MS"
+  },
+  "IT-MT": {
+    "country": "IT",
+    "subdivision": "MT"
+  },
+  "IT-NA": {
+    "country": "IT",
+    "subdivision": "NA"
+  },
+  "IT-NO": {
+    "country": "IT",
+    "subdivision": "NO"
+  },
+  "IT-NU": {
+    "country": "IT",
+    "subdivision": "NU"
+  },
+  "IT-OG": {
+    "country": "IT",
+    "subdivision": "OG",
+    "status": "withdrawn"
+  },
+  "IT-OR": {
+    "country": "IT",
+    "subdivision": "OR"
+  },
+  "IT-OT": {
+    "country": "IT",
+    "subdivision": "OT",
+    "status": "withdrawn"
+  },
+  "IT-PA": {
+    "country": "IT",
+    "subdivision": "PA"
+  },
+  "IT-PC": {
+    "country": "IT",
+    "subdivision": "PC"
+  },
+  "IT-PD": {
+    "country": "IT",
+    "subdivision": "PD"
+  },
+  "IT-PE": {
+    "country": "IT",
+    "subdivision": "PE"
+  },
+  "IT-PG": {
+    "country": "IT",
+    "subdivision": "PG"
+  },
+  "IT-PI": {
+    "country": "IT",
+    "subdivision": "PI"
+  },
+  "IT-PN": {
+    "country": "IT",
+    "subdivision": "PN"
+  },
+  "IT-PO": {
+    "country": "IT",
+    "subdivision": "PO"
+  },
+  "IT-PR": {
+    "country": "IT",
+    "subdivision": "PR"
+  },
+  "IT-PT": {
+    "country": "IT",
+    "subdivision": "PT"
+  },
+  "IT-PU": {
+    "country": "IT",
+    "subdivision": "PU"
+  },
+  "IT-PV": {
+    "country": "IT",
+    "subdivision": "PV"
+  },
+  "IT-PZ": {
+    "country": "IT",
+    "subdivision": "PZ"
+  },
+  "IT-RA": {
+    "country": "IT",
+    "subdivision": "RA"
+  },
+  "IT-RC": {
+    "country": "IT",
+    "subdivision": "RC"
+  },
+  "IT-RE": {
+    "country": "IT",
+    "subdivision": "RE"
+  },
+  "IT-RG": {
+    "country": "IT",
+    "subdivision": "82",
+    "polyfill": "regional"
+  },
+  "IT-RI": {
+    "country": "IT",
+    "subdivision": "RI"
+  },
+  "IT-RM": {
+    "country": "IT",
+    "subdivision": "RM"
+  },
+  "IT-RN": {
+    "country": "IT",
+    "subdivision": "RN"
+  },
+  "IT-RO": {
+    "country": "IT",
+    "subdivision": "RO"
+  },
+  "IT-SA": {
+    "country": "IT",
+    "subdivision": "SA"
+  },
+  "IT-SI": {
+    "country": "IT",
+    "subdivision": "SI"
+  },
+  "IT-SO": {
+    "country": "IT",
+    "subdivision": "SO"
+  },
+  "IT-SP": {
+    "country": "IT",
+    "subdivision": "SP"
+  },
+  "IT-SR": {
+    "country": "IT",
+    "subdivision": "82",
+    "polyfill": "regional"
+  },
+  "IT-SS": {
+    "country": "IT",
+    "subdivision": "SS"
+  },
+  "IT-SU": {
+    "country": "IT",
+    "subdivision": "88",
+    "polyfill": "regional"
+  },
+  "IT-SV": {
+    "country": "IT",
+    "subdivision": "SV"
+  },
+  "IT-TA": {
+    "country": "IT",
+    "subdivision": "TA"
+  },
+  "IT-TE": {
+    "country": "IT",
+    "subdivision": "TE"
+  },
+  "IT-TN": {
+    "country": "IT",
+    "subdivision": "TN"
+  },
+  "IT-TO": {
+    "country": "IT",
+    "subdivision": "21",
+    "polyfill": "regional"
+  },
+  "IT-TP": {
+    "country": "IT",
+    "subdivision": "TP"
+  },
+  "IT-TR": {
+    "country": "IT",
+    "subdivision": "TR"
+  },
+  "IT-TS": {
+    "country": "IT",
+    "subdivision": "TS"
+  },
+  "IT-TV": {
+    "country": "IT",
+    "subdivision": "TV"
+  },
+  "IT-UD": {
+    "country": "IT",
+    "subdivision": "UD"
+  },
+  "IT-VA": {
+    "country": "IT",
+    "subdivision": "VA"
+  },
+  "IT-VB": {
+    "country": "IT",
+    "subdivision": "VB"
+  },
+  "IT-VC": {
+    "country": "IT",
+    "subdivision": "VC"
+  },
+  "IT-VE": {
+    "country": "IT",
+    "subdivision": "VE"
+  },
+  "IT-VI": {
+    "country": "IT",
+    "subdivision": "VI"
+  },
+  "IT-VR": {
+    "country": "IT",
+    "subdivision": "VR"
+  },
+  "IT-VT": {
+    "country": "IT",
+    "subdivision": "VT"
+  },
+  "IT-VV": {
+    "country": "IT",
+    "subdivision": "VV"
+  },
+  "JP-01": {
+    "country": "JP",
+    "subdivision": "01"
+  },
+  "JP-02": {
+    "country": "JP",
+    "subdivision": "02"
+  },
+  "JP-03": {
+    "country": "JP",
+    "subdivision": "03"
+  },
+  "JP-04": {
+    "country": "JP",
+    "subdivision": "04"
+  },
+  "JP-05": {
+    "country": "JP",
+    "subdivision": "05"
+  },
+  "JP-06": {
+    "country": "JP",
+    "subdivision": "06"
+  },
+  "JP-07": {
+    "country": "JP",
+    "subdivision": "07"
+  },
+  "JP-09": {
+    "country": "JP",
+    "subdivision": "09"
+  },
+  "JP-10": {
+    "country": "JP",
+    "subdivision": "10"
+  },
+  "JP-11": {
+    "country": "JP",
+    "subdivision": "11"
+  },
+  "JP-12": {
+    "country": "JP",
+    "subdivision": "12"
+  },
+  "JP-13": {
+    "country": "JP",
+    "subdivision": "13"
+  },
+  "JP-14": {
+    "country": "JP",
+    "subdivision": "14"
+  },
+  "JP-15": {
+    "country": "JP",
+    "subdivision": "15"
+  },
+  "JP-16": {
+    "country": "JP",
+    "subdivision": "16"
+  },
+  "JP-17": {
+    "country": "JP",
+    "subdivision": "17"
+  },
+  "JP-18": {
+    "country": "JP",
+    "subdivision": "18"
+  },
+  "JP-19": {
+    "country": "JP",
+    "subdivision": "19"
+  },
+  "JP-20": {
+    "country": "JP",
+    "subdivision": "20"
+  },
+  "JP-22": {
+    "country": "JP",
+    "subdivision": "22"
+  },
+  "JP-23": {
+    "country": "JP",
+    "subdivision": "23"
+  },
+  "JP-24": {
+    "country": "JP",
+    "subdivision": "24"
+  },
+  "JP-25": {
+    "country": "JP",
+    "subdivision": "25"
+  },
+  "JP-26": {
+    "country": "JP",
+    "subdivision": "26"
+  },
+  "JP-27": {
+    "country": "JP",
+    "subdivision": "27"
+  },
+  "JP-28": {
+    "country": "JP",
+    "subdivision": "28"
+  },
+  "JP-29": {
+    "country": "JP",
+    "subdivision": "29"
+  },
+  "JP-30": {
+    "country": "JP",
+    "subdivision": "30"
+  },
+  "JP-31": {
+    "country": "JP",
+    "subdivision": "31"
+  },
+  "JP-32": {
+    "country": "JP",
+    "subdivision": "32"
+  },
+  "JP-33": {
+    "country": "JP",
+    "subdivision": "33"
+  },
+  "JP-34": {
+    "country": "JP",
+    "subdivision": "34"
+  },
+  "JP-35": {
+    "country": "JP",
+    "subdivision": "35"
+  },
+  "JP-36": {
+    "country": "JP",
+    "subdivision": "36"
+  },
+  "JP-37": {
+    "country": "JP",
+    "subdivision": "37"
+  },
+  "JP-38": {
+    "country": "JP",
+    "subdivision": "38"
+  },
+  "JP-39": {
+    "country": "JP",
+    "subdivision": "39"
+  },
+  "JP-40": {
+    "country": "JP",
+    "subdivision": "40"
+  },
+  "JP-41": {
+    "country": "JP",
+    "subdivision": "41"
+  },
+  "JP-43": {
+    "country": "JP",
+    "subdivision": "43"
+  },
+  "JP-44": {
+    "country": "JP",
+    "subdivision": "44"
+  },
+  "JP-45": {
+    "country": "JP",
+    "subdivision": "45"
+  },
+  "JP-46": {
+    "country": "JP",
+    "subdivision": "46"
+  },
+  "JP-47": {
+    "country": "JP",
+    "subdivision": "47"
+  },
+  "KE-110": {
+    "country": "KE",
+    "subdivision": "110",
+    "status": "withdrawn"
+  },
+  "KE-28": {
+    "country": "KE",
+    "subdivision": "28"
+  },
+  "KE-30": {
+    "country": "KE",
+    "subdivision": "30"
+  },
+  "KG-C": {
+    "country": "KG",
+    "subdivision": "C"
+  },
+  "KG-GB": {
+    "country": "KG",
+    "subdivision": "GB"
+  },
+  "KG-GO": {
+    "country": "KG",
+    "subdivision": "GO"
+  },
+  "KG-N": {
+    "country": "KG",
+    "subdivision": "N"
+  },
+  "KG-O": {
+    "country": "KG",
+    "subdivision": "O"
+  },
+  "KG-T": {
+    "country": "KG",
+    "subdivision": "T"
+  },
+  "KG-Y": {
+    "country": "KG",
+    "subdivision": "Y"
+  },
+  "KR-26": {
+    "country": "KR",
+    "subdivision": "26"
+  },
+  "KR-30": {
+    "country": "KR",
+    "subdivision": "30"
+  },
+  "KR-31": {
+    "country": "KR",
+    "subdivision": "31"
+  },
+  "KR-41": {
+    "country": "KR",
+    "subdivision": "41"
+  },
+  "KR-50": {
+    "country": "KR",
+    "subdivision": "50"
+  },
+  "KY": {
+    "country": "KY",
+    "subdivision": null
+  },
+  "KZ-23": {
+    "country": "KZ",
+    "subdivision": "23"
+  },
+  "KZ-33": {
+    "country": "KZ",
+    "subdivision": "33"
+  },
+  "KZ-35": {
+    "country": "KZ",
+    "subdivision": "35"
+  },
+  "KZ-43": {
+    "country": "KZ",
+    "subdivision": "43"
+  },
+  "KZ-59": {
+    "country": "KZ",
+    "subdivision": "59"
+  },
+  "KZ-63": {
+    "country": "KZ",
+    "subdivision": "63"
+  },
+  "KZ-71": {
+    "country": "KZ",
+    "subdivision": "71"
+  },
+  "KZ-75": {
+    "country": "KZ",
+    "subdivision": "75"
+  },
+  "LI-01": {
+    "country": "LI",
+    "subdivision": "01"
+  },
+  "LI-02": {
+    "country": "LI",
+    "subdivision": "02"
+  },
+  "LI-03": {
+    "country": "LI",
+    "subdivision": "03"
+  },
+  "LI-04": {
+    "country": "LI",
+    "subdivision": "04"
+  },
+  "LI-05": {
+    "country": "LI",
+    "subdivision": "05"
+  },
+  "LI-06": {
+    "country": "LI",
+    "subdivision": "06"
+  },
+  "LI-07": {
+    "country": "LI",
+    "subdivision": "07"
+  },
+  "LI-08": {
+    "country": "LI",
+    "subdivision": "08"
+  },
+  "LI-09": {
+    "country": "LI",
+    "subdivision": "09"
+  },
+  "LI-10": {
+    "country": "LI",
+    "subdivision": "10"
+  },
+  "LI-11": {
+    "country": "LI",
+    "subdivision": "11"
+  },
+  "LT-01": {
+    "country": "LT",
+    "subdivision": "01"
+  },
+  "LT-02": {
+    "country": "LT",
+    "subdivision": "02"
+  },
+  "LT-03": {
+    "country": "LT",
+    "subdivision": "03"
+  },
+  "LT-04": {
+    "country": "LT",
+    "subdivision": "04"
+  },
+  "LT-05": {
+    "country": "LT",
+    "subdivision": "05"
+  },
+  "LT-06": {
+    "country": "LT",
+    "subdivision": "06"
+  },
+  "LT-07": {
+    "country": "LT",
+    "subdivision": "07"
+  },
+  "LT-08": {
+    "country": "LT",
+    "subdivision": "08"
+  },
+  "LT-09": {
+    "country": "LT",
+    "subdivision": "09"
+  },
+  "LT-10": {
+    "country": "LT",
+    "subdivision": "10"
+  },
+  "LT-11": {
+    "country": "LT",
+    "subdivision": "11"
+  },
+  "LT-13": {
+    "country": "LT",
+    "subdivision": "KU",
+    "polyfill": "regional"
+  },
+  "LT-15": {
+    "country": "LT",
+    "subdivision": "KU",
+    "polyfill": "regional"
+  },
+  "LT-16": {
+    "country": "LT",
+    "subdivision": "KU",
+    "polyfill": "regional"
+  },
+  "LT-17": {
+    "country": "LT",
+    "subdivision": "17"
+  },
+  "LT-18": {
+    "country": "LT",
+    "subdivision": "18"
+  },
+  "LT-19": {
+    "country": "LT",
+    "subdivision": "19"
+  },
+  "LT-20": {
+    "country": "LT",
+    "subdivision": "KL",
+    "polyfill": "regional"
+  },
+  "LT-21": {
+    "country": "LT",
+    "subdivision": "KL",
+    "polyfill": "regional"
+  },
+  "LT-22": {
+    "country": "LT",
+    "subdivision": "22"
+  },
+  "LT-23": {
+    "country": "LT",
+    "subdivision": "23"
+  },
+  "LT-24": {
+    "country": "LT",
+    "subdivision": "24"
+  },
+  "LT-25": {
+    "country": "LT",
+    "subdivision": "25"
+  },
+  "LT-26": {
+    "country": "LT",
+    "subdivision": "26"
+  },
+  "LT-27": {
+    "country": "LT",
+    "subdivision": "27"
+  },
+  "LT-28": {
+    "country": "LT",
+    "subdivision": "KL",
+    "polyfill": "regional"
+  },
+  "LT-29": {
+    "country": "LT",
+    "subdivision": "29"
+  },
+  "LT-30": {
+    "country": "LT",
+    "subdivision": "30"
+  },
+  "LT-31": {
+    "country": "LT",
+    "subdivision": "31"
+  },
+  "LT-32": {
+    "country": "LT",
+    "subdivision": "32"
+  },
+  "LT-33": {
+    "country": "LT",
+    "subdivision": "33"
+  },
+  "LT-34": {
+    "country": "LT",
+    "subdivision": "34"
+  },
+  "LT-35": {
+    "country": "LT",
+    "subdivision": "35"
+  },
+  "LT-36": {
+    "country": "LT",
+    "subdivision": "36"
+  },
+  "LT-37": {
+    "country": "LT",
+    "subdivision": "37"
+  },
+  "LT-38": {
+    "country": "LT",
+    "subdivision": "38"
+  },
+  "LT-39": {
+    "country": "LT",
+    "subdivision": "39"
+  },
+  "LT-40": {
+    "country": "LT",
+    "subdivision": "40"
+  },
+  "LT-42": {
+    "country": "LT",
+    "subdivision": "42"
+  },
+  "LT-43": {
+    "country": "LT",
+    "subdivision": "43"
+  },
+  "LT-45": {
+    "country": "LT",
+    "subdivision": "45"
+  },
+  "LT-46": {
+    "country": "LT",
+    "subdivision": "46"
+  },
+  "LT-47": {
+    "country": "LT",
+    "subdivision": "47"
+  },
+  "LT-48": {
+    "country": "LT",
+    "subdivision": "KL",
+    "polyfill": "regional"
+  },
+  "LT-49": {
+    "country": "LT",
+    "subdivision": "49"
+  },
+  "LT-50": {
+    "country": "LT",
+    "subdivision": "50"
+  },
+  "LT-51": {
+    "country": "LT",
+    "subdivision": "51"
+  },
+  "LT-52": {
+    "country": "LT",
+    "subdivision": "52"
+  },
+  "LT-53": {
+    "country": "LT",
+    "subdivision": "53"
+  },
+  "LT-54": {
+    "country": "LT",
+    "subdivision": "54"
+  },
+  "LT-55": {
+    "country": "LT",
+    "subdivision": "55"
+  },
+  "LT-56": {
+    "country": "LT",
+    "subdivision": "56"
+  },
+  "LT-57": {
+    "country": "LT",
+    "subdivision": "57"
+  },
+  "LT-58": {
+    "country": "LT",
+    "subdivision": "58"
+  },
+  "LT-59": {
+    "country": "LT",
+    "subdivision": "59"
+  },
+  "LT-60": {
+    "country": "LT",
+    "subdivision": "60"
+  },
+  "LT-AL": {
+    "country": "LT",
+    "subdivision": "AL"
+  },
+  "LT-KL": {
+    "country": "LT",
+    "subdivision": "KL"
+  },
+  "LT-KU": {
+    "country": "LT",
+    "subdivision": "KU"
+  },
+  "LT-PN": {
+    "country": "LT",
+    "subdivision": "PN"
+  },
+  "LT-VL": {
+    "country": "LT",
+    "subdivision": "VL"
+  },
+  "LV-001": {
+    "country": "LV",
+    "subdivision": "001",
+    "status": "withdrawn"
+  },
+  "LV-002": {
+    "country": "LV",
+    "subdivision": "002"
+  },
+  "LV-003": {
+    "country": "LV",
+    "subdivision": "003",
+    "status": "withdrawn"
+  },
+  "LV-007": {
+    "country": "LV",
+    "subdivision": "007"
+  },
+  "LV-011": {
+    "country": "LV",
+    "subdivision": "011"
+  },
+  "LV-012": {
+    "country": "LV",
+    "subdivision": "012",
+    "status": "withdrawn"
+  },
+  "LV-013": {
+    "country": "LV",
+    "subdivision": "013",
+    "status": "withdrawn"
+  },
+  "LV-014": {
+    "country": "LV",
+    "subdivision": "014",
+    "status": "withdrawn"
+  },
+  "LV-015": {
+    "country": "LV",
+    "subdivision": "015"
+  },
+  "LV-016": {
+    "country": "LV",
+    "subdivision": "016"
+  },
+  "LV-018": {
+    "country": "LV",
+    "subdivision": "018",
+    "status": "withdrawn"
+  },
+  "LV-019": {
+    "country": "LV",
+    "subdivision": "019",
+    "status": "withdrawn"
+  },
+  "LV-022": {
+    "country": "LV",
+    "subdivision": "022"
+  },
+  "LV-026": {
+    "country": "LV",
+    "subdivision": "026"
+  },
+  "LV-027": {
+    "country": "LV",
+    "subdivision": "027",
+    "status": "withdrawn"
+  },
+  "LV-028": {
+    "country": "LV",
+    "subdivision": "028",
+    "status": "withdrawn"
+  },
+  "LV-032": {
+    "country": "LV",
+    "subdivision": "032",
+    "status": "withdrawn"
+  },
+  "LV-034": {
+    "country": "LV",
+    "subdivision": "034",
+    "status": "withdrawn"
+  },
+  "LV-035": {
+    "country": "LV",
+    "subdivision": "035",
+    "status": "withdrawn"
+  },
+  "LV-041": {
+    "country": "LV",
+    "subdivision": "041"
+  },
+  "LV-042": {
+    "country": "LV",
+    "subdivision": "042"
+  },
+  "LV-044": {
+    "country": "LV",
+    "subdivision": "044",
+    "status": "withdrawn"
+  },
+  "LV-046": {
+    "country": "LV",
+    "subdivision": "046",
+    "status": "withdrawn"
+  },
+  "LV-047": {
+    "country": "LV",
+    "subdivision": "047"
+  },
+  "LV-050": {
+    "country": "LV",
+    "subdivision": "050"
+  },
+  "LV-052": {
+    "country": "LV",
+    "subdivision": "052"
+  },
+  "LV-054": {
+    "country": "LV",
+    "subdivision": "054"
+  },
+  "LV-057": {
+    "country": "LV",
+    "subdivision": "057",
+    "status": "withdrawn"
+  },
+  "LV-058": {
+    "country": "LV",
+    "subdivision": "058"
+  },
+  "LV-059": {
+    "country": "LV",
+    "subdivision": "059"
+  },
+  "LV-060": {
+    "country": "LV",
+    "subdivision": "060",
+    "status": "withdrawn"
+  },
+  "LV-062": {
+    "country": "LV",
+    "subdivision": "062"
+  },
+  "LV-064": {
+    "country": "LV",
+    "subdivision": "064",
+    "status": "withdrawn"
+  },
+  "LV-065": {
+    "country": "LV",
+    "subdivision": "065",
+    "status": "withdrawn"
+  },
+  "LV-067": {
+    "country": "LV",
+    "subdivision": "067"
+  },
+  "LV-070": {
+    "country": "LV",
+    "subdivision": "070",
+    "status": "withdrawn"
+  },
+  "LV-071": {
+    "country": "LV",
+    "subdivision": "071",
+    "status": "withdrawn"
+  },
+  "LV-072": {
+    "country": "LV",
+    "subdivision": "072",
+    "status": "withdrawn"
+  },
+  "LV-073": {
+    "country": "LV",
+    "subdivision": "073"
+  },
+  "LV-075": {
+    "country": "LV",
+    "subdivision": "075",
+    "status": "withdrawn"
+  },
+  "LV-077": {
+    "country": "LV",
+    "subdivision": "077"
+  },
+  "LV-079": {
+    "country": "LV",
+    "subdivision": "079",
+    "status": "withdrawn"
+  },
+  "LV-080": {
+    "country": "LV",
+    "subdivision": "080"
+  },
+  "LV-082": {
+    "country": "LV",
+    "subdivision": "082",
+    "status": "withdrawn"
+  },
+  "LV-084": {
+    "country": "LV",
+    "subdivision": "084",
+    "status": "withdrawn"
+  },
+  "LV-086": {
+    "country": "LV",
+    "subdivision": "086",
+    "status": "withdrawn"
+  },
+  "LV-087": {
+    "country": "LV",
+    "subdivision": "087"
+  },
+  "LV-088": {
+    "country": "LV",
+    "subdivision": "088"
+  },
+  "LV-089": {
+    "country": "LV",
+    "subdivision": "089"
+  },
+  "LV-091": {
+    "country": "LV",
+    "subdivision": "091"
+  },
+  "LV-094": {
+    "country": "LV",
+    "subdivision": "094"
+  },
+  "LV-096": {
+    "country": "LV",
+    "subdivision": "096",
+    "status": "withdrawn"
+  },
+  "LV-097": {
+    "country": "LV",
+    "subdivision": "097"
+  },
+  "LV-099": {
+    "country": "LV",
+    "subdivision": "099"
+  },
+  "LV-100": {
+    "country": "LV",
+    "subdivision": "100",
+    "status": "withdrawn"
+  },
+  "LV-101": {
+    "country": "LV",
+    "subdivision": "101"
+  },
+  "LV-102": {
+    "country": "LV",
+    "subdivision": "102"
+  },
+  "LV-103": {
+    "country": "LV",
+    "subdivision": "103",
+    "status": "withdrawn"
+  },
+  "LV-104": {
+    "country": "LV",
+    "subdivision": "104",
+    "status": "withdrawn"
+  },
+  "LV-105": {
+    "country": "LV",
+    "subdivision": "105",
+    "status": "withdrawn"
+  },
+  "LV-106": {
+    "country": "LV",
+    "subdivision": "106"
+  },
+  "LV-108": {
+    "country": "LV",
+    "subdivision": "108",
+    "status": "withdrawn"
+  },
+  "LV-109": {
+    "country": "LV",
+    "subdivision": "109",
+    "status": "withdrawn"
+  },
+  "LV-110": {
+    "country": "LV",
+    "subdivision": "110",
+    "status": "withdrawn"
+  },
+  "LV-111": {
+    "country": "LV",
+    "subdivision": "111"
+  },
+  "LV-112": {
+    "country": "LV",
+    "subdivision": "112"
+  },
+  "LV-113": {
+    "country": "LV",
+    "subdivision": "113"
+  },
+  "LV-DGV": {
+    "country": "LV",
+    "subdivision": "DGV"
+  },
+  "LV-JEL": {
+    "country": "LV",
+    "subdivision": "JEL"
+  },
+  "LV-JKB": {
+    "country": "LV",
+    "subdivision": "JKB",
+    "status": "withdrawn"
+  },
+  "LV-JUR": {
+    "country": "LV",
+    "subdivision": "JUR"
+  },
+  "LV-LPX": {
+    "country": "LV",
+    "subdivision": "LPX"
+  },
+  "LV-REZ": {
+    "country": "LV",
+    "subdivision": "REZ"
+  },
+  "LV-RIX": {
+    "country": "LV",
+    "subdivision": "RIX"
+  },
+  "LV-VEN": {
+    "country": "LV",
+    "subdivision": "VEN"
+  },
+  "LV-VMR": {
+    "country": "LV",
+    "subdivision": "VMR",
+    "status": "withdrawn"
+  },
+  "MA-CAS": {
+    "country": "MA",
+    "subdivision": "CAS"
+  },
+  "MA-HAO": {
+    "country": "MA",
+    "subdivision": "HAO"
+  },
+  "MA-MAR": {
+    "country": "MA",
+    "subdivision": "MAR"
+  },
+  "MA-SEF": {
+    "country": "MA",
+    "subdivision": "SEF"
+  },
+  "MC-MO": {
+    "country": "MC",
+    "subdivision": "MO"
+  },
+  "MD-CU": {
+    "country": "MD",
+    "subdivision": "CU"
+  },
+  "MD-GA": {
+    "country": "MD",
+    "subdivision": "GA"
+  },
+  "MD-HI": {
+    "country": "MD",
+    "subdivision": "HI"
+  },
+  "MD-OC": {
+    "country": "MD",
+    "subdivision": "OC"
+  },
+  "ME-06": {
+    "country": "ME",
+    "subdivision": "06"
+  },
+  "ME-07": {
+    "country": "ME",
+    "subdivision": "07"
+  },
+  "ME-12": {
+    "country": "ME",
+    "subdivision": "12"
+  },
+  "ME-16": {
+    "country": "ME",
+    "subdivision": "16"
+  },
+  "ME-18": {
+    "country": "ME",
+    "subdivision": "18"
+  },
+  "ME-19": {
+    "country": "ME",
+    "subdivision": "19"
+  },
+  "ME-20": {
+    "country": "ME",
+    "subdivision": "20"
+  },
+  "ME-22": {
+    "country": "ME",
+    "subdivision": "22"
+  },
+  "ME-24": {
+    "country": "ME",
+    "subdivision": "24"
+  },
+  "MK-101": {
+    "country": "MK",
+    "subdivision": "101"
+  },
+  "MK-103": {
+    "country": "MK",
+    "subdivision": "103"
+  },
+  "MK-104": {
+    "country": "MK",
+    "subdivision": "104"
+  },
+  "MK-106": {
+    "country": "MK",
+    "subdivision": "106"
+  },
+  "MK-107": {
+    "country": "MK",
+    "subdivision": "107"
+  },
+  "MK-109": {
+    "country": "MK",
+    "subdivision": "109"
+  },
+  "MK-201": {
+    "country": "MK",
+    "subdivision": "201"
+  },
+  "MK-202": {
+    "country": "MK",
+    "subdivision": "202"
+  },
+  "MK-203": {
+    "country": "MK",
+    "subdivision": "203"
+  },
+  "MK-206": {
+    "country": "MK",
+    "subdivision": "206"
+  },
+  "MK-207": {
+    "country": "MK",
+    "subdivision": "207"
+  },
+  "MK-210": {
+    "country": "MK",
+    "subdivision": "210"
+  },
+  "MK-28": {
+    "country": "MK",
+    "subdivision": "28",
+    "status": "withdrawn"
+  },
+  "MK-301": {
+    "country": "MK",
+    "subdivision": "301"
+  },
+  "MK-303": {
+    "country": "MK",
+    "subdivision": "303"
+  },
+  "MK-304": {
+    "country": "MK",
+    "subdivision": "304"
+  },
+  "MK-307": {
+    "country": "MK",
+    "subdivision": "307"
+  },
+  "MK-308": {
+    "country": "MK",
+    "subdivision": "308"
+  },
+  "MK-31": {
+    "country": "MK",
+    "subdivision": "31",
+    "status": "withdrawn"
+  },
+  "MK-312": {
+    "country": "MK",
+    "subdivision": "312"
+  },
+  "MK-313": {
+    "country": "MK",
+    "subdivision": "313"
+  },
+  "MK-401": {
+    "country": "MK",
+    "subdivision": "401"
+  },
+  "MK-402": {
+    "country": "MK",
+    "subdivision": "402"
+  },
+  "MK-403": {
+    "country": "MK",
+    "subdivision": "403"
+  },
+  "MK-404": {
+    "country": "MK",
+    "subdivision": "404"
+  },
+  "MK-405": {
+    "country": "MK",
+    "subdivision": "405"
+  },
+  "MK-406": {
+    "country": "MK",
+    "subdivision": "406"
+  },
+  "MK-408": {
+    "country": "MK",
+    "subdivision": "408"
+  },
+  "MK-410": {
+    "country": "MK",
+    "subdivision": "410"
+  },
+  "MK-503": {
+    "country": "MK",
+    "subdivision": "503"
+  },
+  "MK-504": {
+    "country": "MK",
+    "subdivision": "504"
+  },
+  "MK-505": {
+    "country": "MK",
+    "subdivision": "505"
+  },
+  "MK-506": {
+    "country": "MK",
+    "subdivision": "506"
+  },
+  "MK-508": {
+    "country": "MK",
+    "subdivision": "508"
+  },
+  "MK-601": {
+    "country": "MK",
+    "subdivision": "601"
+  },
+  "MK-602": {
+    "country": "MK",
+    "subdivision": "602"
+  },
+  "MK-604": {
+    "country": "MK",
+    "subdivision": "604"
+  },
+  "MK-605": {
+    "country": "MK",
+    "subdivision": "605"
+  },
+  "MK-606": {
+    "country": "MK",
+    "subdivision": "606"
+  },
+  "MK-607": {
+    "country": "MK",
+    "subdivision": "607"
+  },
+  "MK-609": {
+    "country": "MK",
+    "subdivision": "609"
+  },
+  "MK-701": {
+    "country": "MK",
+    "subdivision": "701"
+  },
+  "MK-702": {
+    "country": "MK",
+    "subdivision": "702"
+  },
+  "MK-703": {
+    "country": "MK",
+    "subdivision": "703"
+  },
+  "MK-705": {
+    "country": "MK",
+    "subdivision": "705"
+  },
+  "MK-801": {
+    "country": "MK",
+    "subdivision": "801"
+  },
+  "MK-803": {
+    "country": "MK",
+    "subdivision": "803"
+  },
+  "MK-804": {
+    "country": "MK",
+    "subdivision": "804"
+  },
+  "MK-805": {
+    "country": "MK",
+    "subdivision": "805"
+  },
+  "MK-807": {
+    "country": "MK",
+    "subdivision": "807"
+  },
+  "MK-809": {
+    "country": "MK",
+    "subdivision": "809"
+  },
+  "MK-812": {
+    "country": "MK",
+    "subdivision": "812"
+  },
+  "MK-814": {
+    "country": "MK",
+    "subdivision": "814"
+  },
+  "MK-815": {
+    "country": "MK",
+    "subdivision": "815"
+  },
+  "MK-816": {
+    "country": "MK",
+    "subdivision": "816"
+  },
+  "MK-817": {
+    "country": "MK",
+    "subdivision": "817"
+  },
+  "MK-85": {
+    "country": "MK",
+    "subdivision": "85",
+    "status": "withdrawn"
+  },
+  "ML-BKO": {
+    "country": "ML",
+    "subdivision": "BKO"
+  },
+  "MN-037": {
+    "country": "MN",
+    "subdivision": "037"
+  },
+  "MN-039": {
+    "country": "MN",
+    "subdivision": "039"
+  },
+  "MN-041": {
+    "country": "MN",
+    "subdivision": "041"
+  },
+  "MN-043": {
+    "country": "MN",
+    "subdivision": "043"
+  },
+  "MN-046": {
+    "country": "MN",
+    "subdivision": "046"
+  },
+  "MN-047": {
+    "country": "MN",
+    "subdivision": "047"
+  },
+  "MN-049": {
+    "country": "MN",
+    "subdivision": "049"
+  },
+  "MN-051": {
+    "country": "MN",
+    "subdivision": "051"
+  },
+  "MN-053": {
+    "country": "MN",
+    "subdivision": "053"
+  },
+  "MN-055": {
+    "country": "MN",
+    "subdivision": "055"
+  },
+  "MN-057": {
+    "country": "MN",
+    "subdivision": "057"
+  },
+  "MN-059": {
+    "country": "MN",
+    "subdivision": "059"
+  },
+  "MN-061": {
+    "country": "MN",
+    "subdivision": "061"
+  },
+  "MN-063": {
+    "country": "MN",
+    "subdivision": "063"
+  },
+  "MN-064": {
+    "country": "MN",
+    "subdivision": "064"
+  },
+  "MN-065": {
+    "country": "MN",
+    "subdivision": "065"
+  },
+  "MN-067": {
+    "country": "MN",
+    "subdivision": "067"
+  },
+  "MN-071": {
+    "country": "MN",
+    "subdivision": "071"
+  },
+  "MN-073": {
+    "country": "MN",
+    "subdivision": "073"
+  },
+  "MN-1": {
+    "country": "MN",
+    "subdivision": "1"
+  },
+  "MT-01": {
+    "country": "MT",
+    "subdivision": "01"
+  },
+  "MT-02": {
+    "country": "MT",
+    "subdivision": "02"
+  },
+  "MT-03": {
+    "country": "MT",
+    "subdivision": "03"
+  },
+  "MT-04": {
+    "country": "MT",
+    "subdivision": "04"
+  },
+  "MT-07": {
+    "country": "MT",
+    "subdivision": "07"
+  },
+  "MT-08": {
+    "country": "MT",
+    "subdivision": "08"
+  },
+  "MT-09": {
+    "country": "MT",
+    "subdivision": "09"
+  },
+  "MT-10": {
+    "country": "MT",
+    "subdivision": "10"
+  },
+  "MT-11": {
+    "country": "MT",
+    "subdivision": "11"
+  },
+  "MT-13": {
+    "country": "MT",
+    "subdivision": "13"
+  },
+  "MT-14": {
+    "country": "MT",
+    "subdivision": "14"
+  },
+  "MT-15": {
+    "country": "MT",
+    "subdivision": "15"
+  },
+  "MT-17": {
+    "country": "MT",
+    "subdivision": "17"
+  },
+  "MT-18": {
+    "country": "MT",
+    "subdivision": "18"
+  },
+  "MT-19": {
+    "country": "MT",
+    "subdivision": "19"
+  },
+  "MT-20": {
+    "country": "MT",
+    "subdivision": "20"
+  },
+  "MT-22": {
+    "country": "MT",
+    "subdivision": "22"
+  },
+  "MT-23": {
+    "country": "MT",
+    "subdivision": "23"
+  },
+  "MT-25": {
+    "country": "MT",
+    "subdivision": "25"
+  },
+  "MT-26": {
+    "country": "MT",
+    "subdivision": "26"
+  },
+  "MT-27": {
+    "country": "MT",
+    "subdivision": "27"
+  },
+  "MT-28": {
+    "country": "MT",
+    "subdivision": "28"
+  },
+  "MT-29": {
+    "country": "MT",
+    "subdivision": "29"
+  },
+  "MT-30": {
+    "country": "MT",
+    "subdivision": "30"
+  },
+  "MT-32": {
+    "country": "MT",
+    "subdivision": "32"
+  },
+  "MT-33": {
+    "country": "MT",
+    "subdivision": "33"
+  },
+  "MT-34": {
+    "country": "MT",
+    "subdivision": "34"
+  },
+  "MT-35": {
+    "country": "MT",
+    "subdivision": "35"
+  },
+  "MT-36": {
+    "country": "MT",
+    "subdivision": "36"
+  },
+  "MT-37": {
+    "country": "MT",
+    "subdivision": "37"
+  },
+  "MT-38": {
+    "country": "MT",
+    "subdivision": "38"
+  },
+  "MT-40": {
+    "country": "MT",
+    "subdivision": "40"
+  },
+  "MT-43": {
+    "country": "MT",
+    "subdivision": "43"
+  },
+  "MT-44": {
+    "country": "MT",
+    "subdivision": "44"
+  },
+  "MT-45": {
+    "country": "MT",
+    "subdivision": "45"
+  },
+  "MT-47": {
+    "country": "MT",
+    "subdivision": "47"
+  },
+  "MT-48": {
+    "country": "MT",
+    "subdivision": "48"
+  },
+  "MT-51": {
+    "country": "MT",
+    "subdivision": "51"
+  },
+  "MT-52": {
+    "country": "MT",
+    "subdivision": "52"
+  },
+  "MT-53": {
+    "country": "MT",
+    "subdivision": "53"
+  },
+  "MT-54": {
+    "country": "MT",
+    "subdivision": "54"
+  },
+  "MT-55": {
+    "country": "MT",
+    "subdivision": "55"
+  },
+  "MT-56": {
+    "country": "MT",
+    "subdivision": "56"
+  },
+  "MT-59": {
+    "country": "MT",
+    "subdivision": "59"
+  },
+  "MT-60": {
+    "country": "MT",
+    "subdivision": "60"
+  },
+  "MT-61": {
+    "country": "MT",
+    "subdivision": "61"
+  },
+  "MT-63": {
+    "country": "MT",
+    "subdivision": "63"
+  },
+  "MT-64": {
+    "country": "MT",
+    "subdivision": "64"
+  },
+  "MT-65": {
+    "country": "MT",
+    "subdivision": "65"
+  },
+  "MT-66": {
+    "country": "MT",
+    "subdivision": "66"
+  },
+  "MT-67": {
+    "country": "MT",
+    "subdivision": "67"
+  },
+  "MT-68": {
+    "country": "MT",
+    "subdivision": "68"
+  },
+  "MU-RO": {
+    "country": "MU",
+    "subdivision": "RO"
+  },
+  "MX-AGU": {
+    "country": "MX",
+    "subdivision": "AGU"
+  },
+  "MX-BCN": {
+    "country": "MX",
+    "subdivision": "BCN"
+  },
+  "MX-BCS": {
+    "country": "MX",
+    "subdivision": "BCS"
+  },
+  "MX-CAM": {
+    "country": "MX",
+    "subdivision": "CAM"
+  },
+  "MX-CHH": {
+    "country": "MX",
+    "subdivision": "CHH"
+  },
+  "MX-CHP": {
+    "country": "MX",
+    "subdivision": "CHP"
+  },
+  "MX-CMX": {
+    "country": "MX",
+    "subdivision": "CMX"
+  },
+  "MX-COA": {
+    "country": "MX",
+    "subdivision": "COA"
+  },
+  "MX-COL": {
+    "country": "MX",
+    "subdivision": "COL"
+  },
+  "MX-DUR": {
+    "country": "MX",
+    "subdivision": "DUR"
+  },
+  "MX-GRO": {
+    "country": "MX",
+    "subdivision": "GRO"
+  },
+  "MX-GUA": {
+    "country": "MX",
+    "subdivision": "GUA"
+  },
+  "MX-HID": {
+    "country": "MX",
+    "subdivision": "HID"
+  },
+  "MX-JAL": {
+    "country": "MX",
+    "subdivision": "JAL"
+  },
+  "MX-MEX": {
+    "country": "MX",
+    "subdivision": "MEX"
+  },
+  "MX-MIC": {
+    "country": "MX",
+    "subdivision": "MIC"
+  },
+  "MX-MOR": {
+    "country": "MX",
+    "subdivision": "MOR"
+  },
+  "MX-NAY": {
+    "country": "MX",
+    "subdivision": "NAY"
+  },
+  "MX-NLE": {
+    "country": "MX",
+    "subdivision": "NLE"
+  },
+  "MX-OAX": {
+    "country": "MX",
+    "subdivision": "OAX"
+  },
+  "MX-PUE": {
+    "country": "MX",
+    "subdivision": "PUE"
+  },
+  "MX-QUE": {
+    "country": "MX",
+    "subdivision": "QUE"
+  },
+  "MX-ROO": {
+    "country": "MX",
+    "subdivision": "ROO"
+  },
+  "MX-SIN": {
+    "country": "MX",
+    "subdivision": "SIN"
+  },
+  "MX-SLP": {
+    "country": "MX",
+    "subdivision": "SLP"
+  },
+  "MX-SON": {
+    "country": "MX",
+    "subdivision": "SON"
+  },
+  "MX-TAB": {
+    "country": "MX",
+    "subdivision": "TAB"
+  },
+  "MX-TAM": {
+    "country": "MX",
+    "subdivision": "TAM"
+  },
+  "MX-TLA": {
+    "country": "MX",
+    "subdivision": "TLA"
+  },
+  "MX-VER": {
+    "country": "MX",
+    "subdivision": "VER"
+  },
+  "MX-YUC": {
+    "country": "MX",
+    "subdivision": "YUC"
+  },
+  "MX-ZAC": {
+    "country": "MX",
+    "subdivision": "ZAC"
+  },
+  "MY-01": {
+    "country": "MY",
+    "subdivision": "01"
+  },
+  "MY-02": {
+    "country": "MY",
+    "subdivision": "02"
+  },
+  "MY-03": {
+    "country": "MY",
+    "subdivision": "03"
+  },
+  "MY-05": {
+    "country": "MY",
+    "subdivision": "05"
+  },
+  "MY-06": {
+    "country": "MY",
+    "subdivision": "06"
+  },
+  "MY-07": {
+    "country": "MY",
+    "subdivision": "07"
+  },
+  "MY-08": {
+    "country": "MY",
+    "subdivision": "08"
+  },
+  "MY-09": {
+    "country": "MY",
+    "subdivision": "09"
+  },
+  "MY-10": {
+    "country": "MY",
+    "subdivision": "10"
+  },
+  "MY-11": {
+    "country": "MY",
+    "subdivision": "11"
+  },
+  "MY-12": {
+    "country": "MY",
+    "subdivision": "12"
+  },
+  "MY-13": {
+    "country": "MY",
+    "subdivision": "13"
+  },
+  "MY-14": {
+    "country": "MY",
+    "subdivision": "14"
+  },
+  "MY-16": {
+    "country": "MY",
+    "subdivision": "16"
+  },
+  "NA-OH": {
+    "country": "NA",
+    "subdivision": "OH"
+  },
+  "NI-AN": {
+    "country": "NI",
+    "subdivision": "AN"
+  },
+  "NI-AS": {
+    "country": "NI",
+    "subdivision": "AS"
+  },
+  "NI-BO": {
+    "country": "NI",
+    "subdivision": "BO"
+  },
+  "NI-CI": {
+    "country": "NI",
+    "subdivision": "CI"
+  },
+  "NI-ES": {
+    "country": "NI",
+    "subdivision": "ES"
+  },
+  "NI-GR": {
+    "country": "NI",
+    "subdivision": "GR"
+  },
+  "NI-JI": {
+    "country": "NI",
+    "subdivision": "JI"
+  },
+  "NI-LE": {
+    "country": "NI",
+    "subdivision": "LE"
+  },
+  "NI-MN": {
+    "country": "NI",
+    "subdivision": "MN"
+  },
+  "NI-MS": {
+    "country": "NI",
+    "subdivision": "MS"
+  },
+  "NI-MT": {
+    "country": "NI",
+    "subdivision": "MT"
+  },
+  "NI-NS": {
+    "country": "NI",
+    "subdivision": "NS"
+  },
+  "NI-RI": {
+    "country": "NI",
+    "subdivision": "RI"
+  },
+  "NL-AW": {
+    "country": "NL",
+    "subdivision": "AW"
+  },
+  "NL-BQ1": {
+    "country": "NL",
+    "subdivision": "BQ1"
+  },
+  "NL-BQ2": {
+    "country": "NL",
+    "subdivision": "BQ2"
+  },
+  "NL-CW": {
+    "country": "NL",
+    "subdivision": "CW"
+  },
+  "NL-DR": {
+    "country": "NL",
+    "subdivision": "DR"
+  },
+  "NL-FL": {
+    "country": "NL",
+    "subdivision": "FL"
+  },
+  "NL-FR": {
+    "country": "NL",
+    "subdivision": "FR"
+  },
+  "NL-GE": {
+    "country": "NL",
+    "subdivision": "GE"
+  },
+  "NL-GR": {
+    "country": "NL",
+    "subdivision": "GR"
+  },
+  "NL-LI": {
+    "country": "NL",
+    "subdivision": "LI"
+  },
+  "NL-NB": {
+    "country": "NL",
+    "subdivision": "NB"
+  },
+  "NL-NH": {
+    "country": "NL",
+    "subdivision": "NH"
+  },
+  "NL-OV": {
+    "country": "NL",
+    "subdivision": "OV"
+  },
+  "NL-SX": {
+    "country": "NL",
+    "subdivision": "SX"
+  },
+  "NL-UT": {
+    "country": "NL",
+    "subdivision": "UT"
+  },
+  "NL-ZE": {
+    "country": "NL",
+    "subdivision": "ZE"
+  },
+  "NL-ZH": {
+    "country": "NL",
+    "subdivision": "ZH"
+  },
+  "NO-03": {
+    "country": "NO",
+    "subdivision": "03"
+  },
+  "NO-04": {
+    "country": "NO",
+    "subdivision": "04",
+    "status": "withdrawn"
+  },
+  "NO-05": {
+    "country": "NO",
+    "subdivision": "05",
+    "status": "withdrawn"
+  },
+  "NO-09": {
+    "country": "NO",
+    "subdivision": "09",
+    "status": "withdrawn"
+  },
+  "NO-10": {
+    "country": "NO",
+    "subdivision": "10",
+    "status": "withdrawn"
+  },
+  "NO-11": {
+    "country": "NO",
+    "subdivision": "11"
+  },
+  "NO-12": {
+    "country": "NO",
+    "subdivision": "12",
+    "status": "withdrawn"
+  },
+  "NO-14": {
+    "country": "NO",
+    "subdivision": "14",
+    "status": "withdrawn"
+  },
+  "NO-15": {
+    "country": "NO",
+    "subdivision": "15"
+  },
+  "NO-16": {
+    "country": "NO",
+    "subdivision": "16",
+    "status": "withdrawn"
+  },
+  "NO-17": {
+    "country": "NO",
+    "subdivision": "17",
+    "status": "withdrawn"
+  },
+  "NO-18": {
+    "country": "NO",
+    "subdivision": "18"
+  },
+  "NO-30": {
+    "country": "NO",
+    "subdivision": "30"
+  },
+  "NO-31": {
+    "country": "NO",
+    "subdivision": "31",
+    "status": "withdrawn"
+  },
+  "NO-32": {
+    "country": "NO",
+    "subdivision": "32",
+    "status": "withdrawn"
+  },
+  "NO-33": {
+    "country": "NO",
+    "subdivision": "33",
+    "status": "withdrawn"
+  },
+  "NO-34": {
+    "country": "NO",
+    "subdivision": "34"
+  },
+  "NO-38": {
+    "country": "NO",
+    "subdivision": "38"
+  },
+  "NO-39": {
+    "country": "NO",
+    "subdivision": "39",
+    "status": "withdrawn"
+  },
+  "NO-40": {
+    "country": "NO",
+    "subdivision": "40",
+    "status": "withdrawn"
+  },
+  "NO-42": {
+    "country": "NO",
+    "subdivision": "42"
+  },
+  "NO-46": {
+    "country": "NO",
+    "subdivision": "46"
+  },
+  "NO-50": {
+    "country": "NO",
+    "subdivision": "50"
+  },
+  "NO-54": {
+    "country": "NO",
+    "subdivision": "54"
+  },
+  "NO-55": {
+    "country": "NO",
+    "subdivision": "55",
+    "status": "withdrawn"
+  },
+  "NO-56": {
+    "country": "NO",
+    "subdivision": "56",
+    "status": "withdrawn"
+  },
+  "PA-10": {
+    "country": "PA",
+    "subdivision": "10"
+  },
+  "PA-3": {
+    "country": "PA",
+    "subdivision": "3"
+  },
+  "PE-AMA": {
+    "country": "PE",
+    "subdivision": "AMA"
+  },
+  "PE-ARE": {
+    "country": "PE",
+    "subdivision": "ARE"
+  },
+  "PE-AYA": {
+    "country": "PE",
+    "subdivision": "AYA"
+  },
+  "PE-CAJ": {
+    "country": "PE",
+    "subdivision": "CAJ"
+  },
+  "PE-CUS": {
+    "country": "PE",
+    "subdivision": "CUS"
+  },
+  "PE-HUV": {
+    "country": "PE",
+    "subdivision": "HUV"
+  },
+  "PE-ICA": {
+    "country": "PE",
+    "subdivision": "ICA"
+  },
+  "PE-LAL": {
+    "country": "PE",
+    "subdivision": "LAL"
+  },
+  "PE-LIM": {
+    "country": "PE",
+    "subdivision": "LIM"
+  },
+  "PE-LMA": {
+    "country": "PE",
+    "subdivision": "LMA"
+  },
+  "PE-LOR": {
+    "country": "PE",
+    "subdivision": "LOR"
+  },
+  "PG-NSB": {
+    "country": "PG",
+    "subdivision": "NSB"
+  },
+  "PH-ANT": {
+    "country": "PH",
+    "subdivision": "ANT"
+  },
+  "PH-BAS": {
+    "country": "PH",
+    "subdivision": "BAS"
+  },
+  "PH-CAG": {
+    "country": "PH",
+    "subdivision": "CAG"
+  },
+  "PH-CAM": {
+    "country": "PH",
+    "subdivision": "CAM"
+  },
+  "PH-CAT": {
+    "country": "PH",
+    "subdivision": "CAT"
+  },
+  "PH-DAO": {
+    "country": "PH",
+    "subdivision": "DAO"
+  },
+  "PH-ISA": {
+    "country": "PH",
+    "subdivision": "ISA"
+  },
+  "PH-LEY": {
+    "country": "PH",
+    "subdivision": "LEY"
+  },
+  "PH-MDC": {
+    "country": "PH",
+    "subdivision": "MDC"
+  },
+  "PH-MSC": {
+    "country": "PH",
+    "subdivision": "MSC"
+  },
+  "PH-NUE": {
+    "country": "PH",
+    "subdivision": "NUE"
+  },
+  "PH-PAN": {
+    "country": "PH",
+    "subdivision": "PAN"
+  },
+  "PH-QUI": {
+    "country": "PH",
+    "subdivision": "QUI"
+  },
+  "PH-SLE": {
+    "country": "PH",
+    "subdivision": "SLE"
+  },
+  "PH-SLU": {
+    "country": "PH",
+    "subdivision": "SLU"
+  },
+  "PH-SUN": {
+    "country": "PH",
+    "subdivision": "SUN"
+  },
+  "PH-TAW": {
+    "country": "PH",
+    "subdivision": "TAW"
+  },
+  "PK-BA": {
+    "country": "PK",
+    "subdivision": "BA"
+  },
+  "PK-KP": {
+    "country": "PK",
+    "subdivision": "KP"
+  },
+  "PK-PB": {
+    "country": "PK",
+    "subdivision": "PB"
+  },
+  "PK-SD": {
+    "country": "PK",
+    "subdivision": "SD"
+  },
+  "PK-TA": {
+    "country": "PK",
+    "subdivision": "TA",
+    "status": "withdrawn"
+  },
+  "PL-02": {
+    "country": "PL",
+    "subdivision": "02"
+  },
+  "PL-04": {
+    "country": "PL",
+    "subdivision": "04"
+  },
+  "PL-06": {
+    "country": "PL",
+    "subdivision": "06"
+  },
+  "PL-08": {
+    "country": "PL",
+    "subdivision": "08"
+  },
+  "PL-10": {
+    "country": "PL",
+    "subdivision": "10"
+  },
+  "PL-12": {
+    "country": "PL",
+    "subdivision": "12"
+  },
+  "PL-14": {
+    "country": "PL",
+    "subdivision": "14"
+  },
+  "PL-16": {
+    "country": "PL",
+    "subdivision": "16"
+  },
+  "PL-18": {
+    "country": "PL",
+    "subdivision": "18"
+  },
+  "PL-20": {
+    "country": "PL",
+    "subdivision": "20"
+  },
+  "PL-22": {
+    "country": "PL",
+    "subdivision": "22"
+  },
+  "PL-24": {
+    "country": "PL",
+    "subdivision": "24"
+  },
+  "PL-26": {
+    "country": "PL",
+    "subdivision": "26"
+  },
+  "PL-28": {
+    "country": "PL",
+    "subdivision": "28"
+  },
+  "PL-30": {
+    "country": "PL",
+    "subdivision": "30"
+  },
+  "PL-32": {
+    "country": "PL",
+    "subdivision": "32"
+  },
+  "PL-KI": {
+    "country": "PL",
+    "subdivision": "KI",
+    "status": "withdrawn"
+  },
+  "PT-20": {
+    "country": "PT",
+    "subdivision": "20"
+  },
+  "PT-30": {
+    "country": "PT",
+    "subdivision": "30"
+  },
+  "PY-ASU": {
+    "country": "PY",
+    "subdivision": "ASU"
+  },
+  "RO-AB": {
+    "country": "RO",
+    "subdivision": "AB"
+  },
+  "RO-B": {
+    "country": "RO",
+    "subdivision": "B"
+  },
+  "RO-BC": {
+    "country": "RO",
+    "subdivision": "BC"
+  },
+  "RO-BH": {
+    "country": "RO",
+    "subdivision": "BH"
+  },
+  "RO-BN": {
+    "country": "RO",
+    "subdivision": "BN"
+  },
+  "RO-BR": {
+    "country": "RO",
+    "subdivision": "BR"
+  },
+  "RO-BT": {
+    "country": "RO",
+    "subdivision": "BT"
+  },
+  "RO-CJ": {
+    "country": "RO",
+    "subdivision": "CJ"
+  },
+  "RO-CL": {
+    "country": "RO",
+    "subdivision": "CL"
+  },
+  "RO-CV": {
+    "country": "RO",
+    "subdivision": "CV"
+  },
+  "RO-DB": {
+    "country": "RO",
+    "subdivision": "DB"
+  },
+  "RO-DJ": {
+    "country": "RO",
+    "subdivision": "DJ"
+  },
+  "RO-GJ": {
+    "country": "RO",
+    "subdivision": "GJ"
+  },
+  "RO-GL": {
+    "country": "RO",
+    "subdivision": "GL"
+  },
+  "RO-GR": {
+    "country": "RO",
+    "subdivision": "GR"
+  },
+  "RO-HD": {
+    "country": "RO",
+    "subdivision": "HD"
+  },
+  "RO-HR": {
+    "country": "RO",
+    "subdivision": "HR"
+  },
+  "RO-IL": {
+    "country": "RO",
+    "subdivision": "IL"
+  },
+  "RO-IS": {
+    "country": "RO",
+    "subdivision": "IS"
+  },
+  "RO-MM": {
+    "country": "RO",
+    "subdivision": "MM"
+  },
+  "RO-MS": {
+    "country": "RO",
+    "subdivision": "MS"
+  },
+  "RO-NT": {
+    "country": "RO",
+    "subdivision": "NT"
+  },
+  "RO-PH": {
+    "country": "RO",
+    "subdivision": "PH"
+  },
+  "RO-SJ": {
+    "country": "RO",
+    "subdivision": "SJ"
+  },
+  "RO-TM": {
+    "country": "RO",
+    "subdivision": "TM"
+  },
+  "RO-TR": {
+    "country": "RO",
+    "subdivision": "TR"
+  },
+  "RO-VL": {
+    "country": "RO",
+    "subdivision": "VL"
+  },
+  "RO-VN": {
+    "country": "RO",
+    "subdivision": "VN"
+  },
+  "RO-VS": {
+    "country": "RO",
+    "subdivision": "VS"
+  },
+  "RS-01": {
+    "country": "RS",
+    "subdivision": "VO",
+    "polyfill": "regional"
+  },
+  "RS-02": {
+    "country": "RS",
+    "subdivision": "VO",
+    "polyfill": "regional"
+  },
+  "RS-03": {
+    "country": "RS",
+    "subdivision": "VO",
+    "polyfill": "regional"
+  },
+  "RS-04": {
+    "country": "RS",
+    "subdivision": "VO",
+    "polyfill": "regional"
+  },
+  "RS-05": {
+    "country": "RS",
+    "subdivision": "VO",
+    "polyfill": "regional"
+  },
+  "RS-06": {
+    "country": "RS",
+    "subdivision": "VO",
+    "polyfill": "regional"
+  },
+  "RS-07": {
+    "country": "RS",
+    "subdivision": "VO",
+    "polyfill": "regional"
+  },
+  "RS-VO": {
+    "country": "RS",
+    "subdivision": "VO"
+  },
+  "RU-AD": {
+    "country": "RU",
+    "subdivision": "AD"
+  },
+  "RU-AL": {
+    "country": "RU",
+    "subdivision": "AL"
+  },
+  "RU-ALT": {
+    "country": "RU",
+    "subdivision": "ALT"
+  },
+  "RU-AMU": {
+    "country": "RU",
+    "subdivision": "AMU"
+  },
+  "RU-ARK": {
+    "country": "RU",
+    "subdivision": "ARK"
+  },
+  "RU-AST": {
+    "country": "RU",
+    "subdivision": "AST"
+  },
+  "RU-BA": {
+    "country": "RU",
+    "subdivision": "BA"
+  },
+  "RU-BEL": {
+    "country": "RU",
+    "subdivision": "BEL"
+  },
+  "RU-BRY": {
+    "country": "RU",
+    "subdivision": "BRY"
+  },
+  "RU-BU": {
+    "country": "RU",
+    "subdivision": "BU"
+  },
+  "RU-CE": {
+    "country": "RU",
+    "subdivision": "CE"
+  },
+  "RU-CHE": {
+    "country": "RU",
+    "subdivision": "CHE"
+  },
+  "RU-CHU": {
+    "country": "RU",
+    "subdivision": "CHU"
+  },
+  "RU-CU": {
+    "country": "RU",
+    "subdivision": "CU"
+  },
+  "RU-DA": {
+    "country": "RU",
+    "subdivision": "DA"
+  },
+  "RU-IN": {
+    "country": "RU",
+    "subdivision": "IN"
+  },
+  "RU-IRK": {
+    "country": "RU",
+    "subdivision": "IRK"
+  },
+  "RU-IVA": {
+    "country": "RU",
+    "subdivision": "IVA"
+  },
+  "RU-KAM": {
+    "country": "RU",
+    "subdivision": "KAM"
+  },
+  "RU-KB": {
+    "country": "RU",
+    "subdivision": "KB"
+  },
+  "RU-KC": {
+    "country": "RU",
+    "subdivision": "KC"
+  },
+  "RU-KDA": {
+    "country": "RU",
+    "subdivision": "KDA"
+  },
+  "RU-KEM": {
+    "country": "RU",
+    "subdivision": "KEM"
+  },
+  "RU-KGD": {
+    "country": "RU",
+    "subdivision": "KGD"
+  },
+  "RU-KGN": {
+    "country": "RU",
+    "subdivision": "KGN"
+  },
+  "RU-KHA": {
+    "country": "RU",
+    "subdivision": "KHA"
+  },
+  "RU-KHM": {
+    "country": "RU",
+    "subdivision": "KHM"
+  },
+  "RU-KIR": {
+    "country": "RU",
+    "subdivision": "KIR"
+  },
+  "RU-KK": {
+    "country": "RU",
+    "subdivision": "KK"
+  },
+  "RU-KL": {
+    "country": "RU",
+    "subdivision": "KL"
+  },
+  "RU-KLU": {
+    "country": "RU",
+    "subdivision": "KLU"
+  },
+  "RU-KO": {
+    "country": "RU",
+    "subdivision": "KO"
+  },
+  "RU-KOS": {
+    "country": "RU",
+    "subdivision": "KOS"
+  },
+  "RU-KR": {
+    "country": "RU",
+    "subdivision": "KR"
+  },
+  "RU-KRS": {
+    "country": "RU",
+    "subdivision": "KRS"
+  },
+  "RU-KYA": {
+    "country": "RU",
+    "subdivision": "KYA"
+  },
+  "RU-LEN": {
+    "country": "RU",
+    "subdivision": "LEN"
+  },
+  "RU-LIP": {
+    "country": "RU",
+    "subdivision": "LIP"
+  },
+  "RU-MAG": {
+    "country": "RU",
+    "subdivision": "MAG"
+  },
+  "RU-ME": {
+    "country": "RU",
+    "subdivision": "ME"
+  },
+  "RU-MO": {
+    "country": "RU",
+    "subdivision": "MO"
+  },
+  "RU-MOS": {
+    "country": "RU",
+    "subdivision": "MOS"
+  },
+  "RU-MOW": {
+    "country": "RU",
+    "subdivision": "MOW"
+  },
+  "RU-MUR": {
+    "country": "RU",
+    "subdivision": "MUR"
+  },
+  "RU-NEN": {
+    "country": "RU",
+    "subdivision": "NEN"
+  },
+  "RU-NGR": {
+    "country": "RU",
+    "subdivision": "NGR"
+  },
+  "RU-NIZ": {
+    "country": "RU",
+    "subdivision": "NIZ"
+  },
+  "RU-NVS": {
+    "country": "RU",
+    "subdivision": "NVS"
+  },
+  "RU-OMS": {
+    "country": "RU",
+    "subdivision": "OMS"
+  },
+  "RU-ORE": {
+    "country": "RU",
+    "subdivision": "ORE"
+  },
+  "RU-ORL": {
+    "country": "RU",
+    "subdivision": "ORL"
+  },
+  "RU-PER": {
+    "country": "RU",
+    "subdivision": "PER"
+  },
+  "RU-PNZ": {
+    "country": "RU",
+    "subdivision": "PNZ"
+  },
+  "RU-PRI": {
+    "country": "RU",
+    "subdivision": "PRI"
+  },
+  "RU-PSK": {
+    "country": "RU",
+    "subdivision": "PSK"
+  },
+  "RU-ROS": {
+    "country": "RU",
+    "subdivision": "ROS"
+  },
+  "RU-RYA": {
+    "country": "RU",
+    "subdivision": "RYA"
+  },
+  "RU-SA": {
+    "country": "RU",
+    "subdivision": "SA"
+  },
+  "RU-SAK": {
+    "country": "RU",
+    "subdivision": "SAK"
+  },
+  "RU-SAM": {
+    "country": "RU",
+    "subdivision": "SAM"
+  },
+  "RU-SAR": {
+    "country": "RU",
+    "subdivision": "SAR"
+  },
+  "RU-SE": {
+    "country": "RU",
+    "subdivision": "SE"
+  },
+  "RU-SMO": {
+    "country": "RU",
+    "subdivision": "SMO"
+  },
+  "RU-SPE": {
+    "country": "RU",
+    "subdivision": "SPE"
+  },
+  "RU-STA": {
+    "country": "RU",
+    "subdivision": "STA"
+  },
+  "RU-SVE": {
+    "country": "RU",
+    "subdivision": "SVE"
+  },
+  "RU-TA": {
+    "country": "RU",
+    "subdivision": "TA"
+  },
+  "RU-TOM": {
+    "country": "RU",
+    "subdivision": "TOM"
+  },
+  "RU-TVE": {
+    "country": "RU",
+    "subdivision": "TVE"
+  },
+  "RU-TY": {
+    "country": "RU",
+    "subdivision": "TY"
+  },
+  "RU-TYU": {
+    "country": "RU",
+    "subdivision": "TYU"
+  },
+  "RU-UD": {
+    "country": "RU",
+    "subdivision": "UD"
+  },
+  "RU-ULY": {
+    "country": "RU",
+    "subdivision": "ULY"
+  },
+  "RU-VGG": {
+    "country": "RU",
+    "subdivision": "VGG"
+  },
+  "RU-VLA": {
+    "country": "RU",
+    "subdivision": "VLA"
+  },
+  "RU-VLG": {
+    "country": "RU",
+    "subdivision": "VLG"
+  },
+  "RU-VOR": {
+    "country": "RU",
+    "subdivision": "VOR"
+  },
+  "RU-YAN": {
+    "country": "RU",
+    "subdivision": "YAN"
+  },
+  "RU-YAR": {
+    "country": "RU",
+    "subdivision": "YAR"
+  },
+  "RU-YEV": {
+    "country": "RU",
+    "subdivision": "YEV"
+  },
+  "RU-ZAB": {
+    "country": "RU",
+    "subdivision": "ZAB"
+  },
+  "SD-KA": {
+    "country": "SD",
+    "subdivision": "KA"
+  },
+  "SE-AB": {
+    "country": "SE",
+    "subdivision": "AB"
+  },
+  "SE-AC": {
+    "country": "SE",
+    "subdivision": "AC"
+  },
+  "SE-BD": {
+    "country": "SE",
+    "subdivision": "BD"
+  },
+  "SE-C": {
+    "country": "SE",
+    "subdivision": "C"
+  },
+  "SE-D": {
+    "country": "SE",
+    "subdivision": "D"
+  },
+  "SE-E": {
+    "country": "SE",
+    "subdivision": "E"
+  },
+  "SE-F": {
+    "country": "SE",
+    "subdivision": "F"
+  },
+  "SE-G": {
+    "country": "SE",
+    "subdivision": "G"
+  },
+  "SE-H": {
+    "country": "SE",
+    "subdivision": "H"
+  },
+  "SE-I": {
+    "country": "SE",
+    "subdivision": "I"
+  },
+  "SE-K": {
+    "country": "SE",
+    "subdivision": "K"
+  },
+  "SE-M": {
+    "country": "SE",
+    "subdivision": "M"
+  },
+  "SE-N": {
+    "country": "SE",
+    "subdivision": "N"
+  },
+  "SE-O": {
+    "country": "SE",
+    "subdivision": "O"
+  },
+  "SE-S": {
+    "country": "SE",
+    "subdivision": "S"
+  },
+  "SE-T": {
+    "country": "SE",
+    "subdivision": "T"
+  },
+  "SE-U": {
+    "country": "SE",
+    "subdivision": "U"
+  },
+  "SE-W": {
+    "country": "SE",
+    "subdivision": "W"
+  },
+  "SE-X": {
+    "country": "SE",
+    "subdivision": "X"
+  },
+  "SE-Y": {
+    "country": "SE",
+    "subdivision": "Y"
+  },
+  "SE-Z": {
+    "country": "SE",
+    "subdivision": "Z"
+  },
+  "SH-AC": {
+    "country": "SH",
+    "subdivision": "AC"
+  },
+  "SH-HL": {
+    "country": "SH",
+    "subdivision": "HL"
+  },
+  "SH-TA": {
+    "country": "SH",
+    "subdivision": "TA"
+  },
+  "SI-011": {
+    "country": "SI",
+    "subdivision": "011"
+  },
+  "SI-017": {
+    "country": "SI",
+    "subdivision": "017"
+  },
+  "SI-041": {
+    "country": "SI",
+    "subdivision": "041"
+  },
+  "SI-043": {
+    "country": "SI",
+    "subdivision": "043"
+  },
+  "SI-050": {
+    "country": "SI",
+    "subdivision": "050"
+  },
+  "SI-054": {
+    "country": "SI",
+    "subdivision": "054"
+  },
+  "SI-058": {
+    "country": "SI",
+    "subdivision": "058"
+  },
+  "SI-061": {
+    "country": "SI",
+    "subdivision": "061"
+  },
+  "SI-070": {
+    "country": "SI",
+    "subdivision": "070"
+  },
+  "SI-090": {
+    "country": "SI",
+    "subdivision": "090"
+  },
+  "SI-129": {
+    "country": "SI",
+    "subdivision": "129"
+  },
+  "SK-BC": {
+    "country": "SK",
+    "subdivision": "BC"
+  },
+  "SK-BL": {
+    "country": "SK",
+    "subdivision": "BL"
+  },
+  "SK-KI": {
+    "country": "SK",
+    "subdivision": "KI"
+  },
+  "SK-NI": {
+    "country": "SK",
+    "subdivision": "NI"
+  },
+  "SK-PV": {
+    "country": "SK",
+    "subdivision": "PV"
+  },
+  "SK-TA": {
+    "country": "SK",
+    "subdivision": "TA"
+  },
+  "SK-TC": {
+    "country": "SK",
+    "subdivision": "TC"
+  },
+  "SK-ZI": {
+    "country": "SK",
+    "subdivision": "ZI"
+  },
+  "SM-01": {
+    "country": "SM",
+    "subdivision": "01"
+  },
+  "SM-02": {
+    "country": "SM",
+    "subdivision": "02"
+  },
+  "SM-03": {
+    "country": "SM",
+    "subdivision": "03"
+  },
+  "SM-04": {
+    "country": "SM",
+    "subdivision": "04"
+  },
+  "SM-05": {
+    "country": "SM",
+    "subdivision": "05"
+  },
+  "SM-06": {
+    "country": "SM",
+    "subdivision": "06"
+  },
+  "SM-07": {
+    "country": "SM",
+    "subdivision": "07"
+  },
+  "SM-08": {
+    "country": "SM",
+    "subdivision": "08"
+  },
+  "SM-09": {
+    "country": "SM",
+    "subdivision": "09"
+  },
+  "SV-SS": {
+    "country": "SV",
+    "subdivision": "SS"
+  },
+  "SX": {
+    "country": "SX",
+    "subdivision": null
+  },
+  "TD-ND": {
+    "country": "TD",
+    "subdivision": "ND"
+  },
+  "TM-S": {
+    "country": "TM",
+    "subdivision": "S"
+  },
+  "TN-81": {
+    "country": "TN",
+    "subdivision": "81"
+  },
+  "TW-CHA": {
+    "country": "TW",
+    "subdivision": "CHA"
+  },
+  "TW-CYI": {
+    "country": "TW",
+    "subdivision": "CYI"
+  },
+  "TW-CYQ": {
+    "country": "TW",
+    "subdivision": "CYQ"
+  },
+  "TW-HSQ": {
+    "country": "TW",
+    "subdivision": "HSQ"
+  },
+  "TW-HSZ": {
+    "country": "TW",
+    "subdivision": "HSZ"
+  },
+  "TW-HUA": {
+    "country": "TW",
+    "subdivision": "HUA"
+  },
+  "TW-KEE": {
+    "country": "TW",
+    "subdivision": "KEE"
+  },
+  "TW-KIN": {
+    "country": "TW",
+    "subdivision": "KIN"
+  },
+  "TW-MIA": {
+    "country": "TW",
+    "subdivision": "MIA"
+  },
+  "TW-NAN": {
+    "country": "TW",
+    "subdivision": "NAN"
+  },
+  "TW-NWT": {
+    "country": "TW",
+    "subdivision": "NWT"
+  },
+  "TW-PEN": {
+    "country": "TW",
+    "subdivision": "PEN"
+  },
+  "TW-PIF": {
+    "country": "TW",
+    "subdivision": "PIF"
+  },
+  "TW-TAO": {
+    "country": "TW",
+    "subdivision": "TAO"
+  },
+  "TW-TNN": {
+    "country": "TW",
+    "subdivision": "TNN"
+  },
+  "TW-TPE": {
+    "country": "TW",
+    "subdivision": "TPE"
+  },
+  "TW-TTT": {
+    "country": "TW",
+    "subdivision": "TTT"
+  },
+  "TW-TXG": {
+    "country": "TW",
+    "subdivision": "TXG"
+  },
+  "TW-YUN": {
+    "country": "TW",
+    "subdivision": "YUN"
+  },
+  "UA-05": {
+    "country": "UA",
+    "subdivision": "05"
+  },
+  "UA-07": {
+    "country": "UA",
+    "subdivision": "07"
+  },
+  "UA-09": {
+    "country": "UA",
+    "subdivision": "09"
+  },
+  "UA-12": {
+    "country": "UA",
+    "subdivision": "12"
+  },
+  "UA-14": {
+    "country": "UA",
+    "subdivision": "14"
+  },
+  "UA-18": {
+    "country": "UA",
+    "subdivision": "18"
+  },
+  "UA-21": {
+    "country": "UA",
+    "subdivision": "21"
+  },
+  "UA-23": {
+    "country": "UA",
+    "subdivision": "23"
+  },
+  "UA-26": {
+    "country": "UA",
+    "subdivision": "26"
+  },
+  "UA-30": {
+    "country": "UA",
+    "subdivision": "30"
+  },
+  "UA-32": {
+    "country": "UA",
+    "subdivision": "32"
+  },
+  "UA-35": {
+    "country": "UA",
+    "subdivision": "35"
+  },
+  "UA-40": {
+    "country": "UA",
+    "subdivision": "40"
+  },
+  "UA-43": {
+    "country": "UA",
+    "subdivision": "43"
+  },
+  "UA-46": {
+    "country": "UA",
+    "subdivision": "46"
+  },
+  "UA-48": {
+    "country": "UA",
+    "subdivision": "48"
+  },
+  "UA-51": {
+    "country": "UA",
+    "subdivision": "51"
+  },
+  "UA-53": {
+    "country": "UA",
+    "subdivision": "53"
+  },
+  "UA-56": {
+    "country": "UA",
+    "subdivision": "56"
+  },
+  "UA-59": {
+    "country": "UA",
+    "subdivision": "59"
+  },
+  "UA-61": {
+    "country": "UA",
+    "subdivision": "61"
+  },
+  "UA-63": {
+    "country": "UA",
+    "subdivision": "63"
+  },
+  "UA-65": {
+    "country": "UA",
+    "subdivision": "65"
+  },
+  "UA-68": {
+    "country": "UA",
+    "subdivision": "68"
+  },
+  "UA-71": {
+    "country": "UA",
+    "subdivision": "71"
+  },
+  "UA-74": {
+    "country": "UA",
+    "subdivision": "74"
+  },
+  "UA-77": {
+    "country": "UA",
+    "subdivision": "77"
+  },
+  "UM-67": {
+    "country": "UM",
+    "subdivision": "67"
+  },
+  "UM-79": {
+    "country": "UM",
+    "subdivision": "79"
+  },
+  "US-AK": {
+    "country": "US",
+    "subdivision": "AK"
+  },
+  "US-AL": {
+    "country": "US",
+    "subdivision": "AL"
+  },
+  "US-AS": {
+    "country": "US",
+    "subdivision": "AS"
+  },
+  "US-CO": {
+    "country": "US",
+    "subdivision": "CO"
+  },
+  "US-CT": {
+    "country": "US",
+    "subdivision": "CT"
+  },
+  "US-DE": {
+    "country": "US",
+    "subdivision": "DE"
+  },
+  "US-FL": {
+    "country": "US",
+    "subdivision": "FL"
+  },
+  "US-GA": {
+    "country": "US",
+    "subdivision": "GA"
+  },
+  "US-GU": {
+    "country": "US",
+    "subdivision": "GU"
+  },
+  "US-HI": {
+    "country": "US",
+    "subdivision": "HI"
+  },
+  "US-MA": {
+    "country": "US",
+    "subdivision": "MA"
+  },
+  "US-MD": {
+    "country": "US",
+    "subdivision": "MD"
+  },
+  "US-ME": {
+    "country": "US",
+    "subdivision": "ME"
+  },
+  "US-MI": {
+    "country": "US",
+    "subdivision": "MI"
+  },
+  "US-MO": {
+    "country": "US",
+    "subdivision": "MO"
+  },
+  "US-MP": {
+    "country": "US",
+    "subdivision": "MP"
+  },
+  "US-MS": {
+    "country": "US",
+    "subdivision": "MS"
+  },
+  "US-MT": {
+    "country": "US",
+    "subdivision": "MT"
+  },
+  "US-ND": {
+    "country": "US",
+    "subdivision": "ND"
+  },
+  "US-NJ": {
+    "country": "US",
+    "subdivision": "NJ"
+  },
+  "US-NV": {
+    "country": "US",
+    "subdivision": "NV"
+  },
+  "US-NY": {
+    "country": "US",
+    "subdivision": "NY"
+  },
+  "US-OH": {
+    "country": "US",
+    "subdivision": "OH"
+  },
+  "US-PA": {
+    "country": "US",
+    "subdivision": "PA"
+  },
+  "US-PR": {
+    "country": "US",
+    "subdivision": "PR"
+  },
+  "US-RI": {
+    "country": "US",
+    "subdivision": "RI"
+  },
+  "US-SD": {
+    "country": "US",
+    "subdivision": "SD"
+  },
+  "US-TX": {
+    "country": "US",
+    "subdivision": "TX"
+  },
+  "US-UT": {
+    "country": "US",
+    "subdivision": "UT"
+  },
+  "US-VT": {
+    "country": "US",
+    "subdivision": "VT"
+  },
+  "US-WI": {
+    "country": "US",
+    "subdivision": "WI"
+  },
+  "US-WV": {
+    "country": "US",
+    "subdivision": "WV"
+  },
+  "UY-AR": {
+    "country": "UY",
+    "subdivision": "AR"
+  },
+  "UY-CA": {
+    "country": "UY",
+    "subdivision": "CA"
+  },
+  "UY-CO": {
+    "country": "UY",
+    "subdivision": "CO"
+  },
+  "UY-MO": {
+    "country": "UY",
+    "subdivision": "MO"
+  },
+  "UY-SA": {
+    "country": "UY",
+    "subdivision": "SA"
+  },
+  "UZ-QR": {
+    "country": "UZ",
+    "subdivision": "QR"
+  },
+  "UZ-TK": {
+    "country": "UZ",
+    "subdivision": "TK"
+  },
+  "VE-B": {
+    "country": "VE",
+    "subdivision": "B"
+  },
+  "VE-C": {
+    "country": "VE",
+    "subdivision": "C"
+  },
+  "VE-D": {
+    "country": "VE",
+    "subdivision": "D"
+  },
+  "VE-E": {
+    "country": "VE",
+    "subdivision": "E"
+  },
+  "VE-G": {
+    "country": "VE",
+    "subdivision": "G"
+  },
+  "VE-H": {
+    "country": "VE",
+    "subdivision": "H"
+  },
+  "VE-J": {
+    "country": "VE",
+    "subdivision": "J"
+  },
+  "VE-L": {
+    "country": "VE",
+    "subdivision": "L"
+  },
+  "VE-N": {
+    "country": "VE",
+    "subdivision": "N"
+  },
+  "VE-O": {
+    "country": "VE",
+    "subdivision": "O"
+  },
+  "VE-P": {
+    "country": "VE",
+    "subdivision": "P"
+  },
+  "VE-R": {
+    "country": "VE",
+    "subdivision": "R"
+  },
+  "VE-T": {
+    "country": "VE",
+    "subdivision": "T"
+  },
+  "VE-Y": {
+    "country": "VE",
+    "subdivision": "Y"
+  },
+  "VE-Z": {
+    "country": "VE",
+    "subdivision": "Z"
+  },
+  "VG": {
+    "country": "VG",
+    "subdivision": null
+  },
+  "VI": {
+    "country": "VI",
+    "subdivision": null
+  },
+  "VN-34": {
+    "country": "VN",
+    "subdivision": "34"
+  },
+  "VN-37": {
+    "country": "VN",
+    "subdivision": "37"
+  },
+  "VN-CT": {
+    "country": "VN",
+    "subdivision": "CT"
+  },
+  "VN-DN": {
+    "country": "VN",
+    "subdivision": "DN"
+  },
+  "VN-HN": {
+    "country": "VN",
+    "subdivision": "HN"
+  },
+  "WF-UV": {
+    "country": "WF",
+    "subdivision": "UV"
+  },
+  "YU-CG": {
+    "country": "YU",
+    "subdivision": "CG",
+    "status": "withdrawn"
+  },
+  "YU-SR": {
+    "country": "YU",
+    "subdivision": "SR",
+    "status": "withdrawn"
+  }
+}
