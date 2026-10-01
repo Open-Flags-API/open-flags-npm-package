@@ -112,6 +112,46 @@ function nameFromSource(source: string | null | undefined): string | undefined {
   return name || undefined;
 }
 
+/**
+ * The Open Flags API's zh-TW file uses '乔' — a Simplified-only character that never appears in
+ * Traditional Chinese text — as a placeholder in ~65 corrupted names (e.g. CY "乔浦路斯").
+ * Such names are dropped so the Debian translation (or the runtime fallback) is used instead.
+ */
+function plausibleName(locale: Locale, value: string): boolean {
+  return !(locale === 'zh-TW' && value.includes('乔'));
+}
+
+/** Drops corrupted aliases that splice Latin letters into a non-Latin word (e.g. AM "հայաdelays"). */
+function plausibleAlias(alias: string): boolean {
+  let latin = false;
+  let other = false;
+  for (const ch of alias) {
+    if (!/\p{L}/u.test(ch)) continue;
+    if (/\p{Script=Latin}/u.test(ch)) latin = true;
+    else other = true;
+  }
+  return !(latin && other);
+}
+
+const dropped = { names: [] as string[], aliases: [] as string[] };
+
+function cleanName(locale: Locale, code: string, value: string | undefined): string | undefined {
+  if (value === undefined) return undefined;
+  if (plausibleName(locale, value)) return value;
+  dropped.names.push(`${locale} ${code} ${value}`);
+  return undefined;
+}
+
+function cleanAliases(code: string, aliases: string[] | undefined): string[] | undefined {
+  if (!aliases) return undefined;
+  const kept = aliases.filter(a => {
+    if (plausibleAlias(a)) return true;
+    dropped.aliases.push(`${code} ${a}`);
+    return false;
+  });
+  return kept.length ? kept : undefined;
+}
+
 function sortObject<T>(obj: Record<string, T>): Record<string, T> {
   return Object.fromEntries(Object.entries(obj).sort(([a], [b]) => a.localeCompare(b)));
 }
@@ -172,12 +212,13 @@ async function main(): Promise<void> {
     const names: Names = { en: api?.name ?? c.common_name ?? c.name };
     for (const locale of TRANSLATED) {
       const t =
-        apiI18n[locale]?._countries?.[c.alpha_2] ??
+        cleanName(locale, c.alpha_2, apiI18n[locale]?._countries?.[c.alpha_2]) ??
         (c.common_name ? po1[locale]?.[c.common_name] : undefined) ??
         po1[locale]?.[c.name];
       if (t) names[locale] = t;
     }
-    countries[c.alpha_2] = { status: 'current', names, ...(api?.aliases?.length ? { aliases: api.aliases } : {}) };
+    const aliases = cleanAliases(c.alpha_2, api?.aliases);
+    countries[c.alpha_2] = { status: 'current', names, ...(aliases ? { aliases } : {}) };
   }
 
   // --- Subdivisions ---------------------------------------------------------
@@ -187,17 +228,18 @@ async function main(): Promise<void> {
     const api = apiSubName(s.code);
     const names: Names = { en: api?.name ?? s.name };
     for (const locale of TRANSLATED) {
-      const t = apiSubTranslation(locale, s.code) ?? po2[locale]?.[s.name];
+      const t = cleanName(locale, s.code, apiSubTranslation(locale, s.code)) ?? po2[locale]?.[s.name];
       if (t) names[locale] = t;
     }
     const parent = s.parent ? (s.parent.includes('-') ? s.parent : `${country}-${s.parent}`) : undefined;
+    const subAliases = cleanAliases(s.code, api?.aliases);
     subdivisions[s.code] = {
       country,
       status: 'current',
       type: s.type,
       ...(parent ? { parent } : {}),
       names,
-      ...(api?.aliases?.length ? { aliases: api.aliases } : {}),
+      ...(subAliases ? { aliases: subAliases } : {}),
     };
   }
 
@@ -227,7 +269,7 @@ async function main(): Promise<void> {
       const api = apiEn._countries?.[code];
       const names: Names = { en: api?.name ?? withdrawnCountryName(code) ?? nameFromSource(m.flag?.source) ?? code };
       for (const locale of TRANSLATED) {
-        const t = apiI18n[locale]?._countries?.[code];
+        const t = cleanName(locale, code, apiI18n[locale]?._countries?.[code]);
         if (t) names[locale] = t;
       }
       countries[code] = { status: code === 'XK' ? 'user-assigned' : 'withdrawn', names };
@@ -242,7 +284,7 @@ async function main(): Promise<void> {
         en: apiSubName(code)?.name ?? nameFromSource(m.flag?.source) ?? nameFromSource(m.coat?.source) ?? code,
       };
       for (const locale of TRANSLATED) {
-        const t = apiSubTranslation(locale, code);
+        const t = cleanName(locale, code, apiSubTranslation(locale, code));
         if (t) names[locale] = t;
       }
       subdivisions[code] = { country: cc, status: 'withdrawn', names };
@@ -274,6 +316,7 @@ async function main(): Promise<void> {
   );
   for (const l of LOCALES) console.log(`  ${l.padEnd(5)} countries ${count(countries, l)}, subdivisions ${count(subdivisions, l)}`);
   console.log(`  subdivisions with a parent: ${Object.values(subdivisions).filter(s => s.parent).length}`);
+  console.log(`  dropped corrupted API names: ${dropped.names.length}, aliases: ${dropped.aliases.length}${dropped.aliases.length ? ` (${dropped.aliases.join('; ')})` : ''}`);
 }
 
 main().catch(err => {

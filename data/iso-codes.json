@@ -86,10 +86,7 @@
         "es": "Armenia",
         "zh-CN": "亚美尼亚",
         "zh-TW": "亞美尼亞"
-      },
-      "aliases": [
-        "հայաdelays"
-      ]
+      }
     },
     "AO": {
       "status": "current",
@@ -497,7 +494,7 @@
         "en": "Ivory Coast",
         "es": "Costa de Marfil",
         "zh-CN": "科特迪瓦",
-        "zh-TW": "乔特迪瓦"
+        "zh-TW": "象牙海岸"
       },
       "aliases": [
         "côte d'ivoire",
@@ -600,7 +597,7 @@
         "en": "Curacao",
         "es": "Curazao",
         "zh-CN": "库拉索",
-        "zh-TW": "乔拉索"
+        "zh-TW": "古拉索"
       },
       "aliases": [
         "curaçao"
@@ -621,7 +618,7 @@
         "en": "Cyprus",
         "es": "Chipre",
         "zh-CN": "塞浦路斯",
-        "zh-TW": "乔浦路斯"
+        "zh-TW": "賽普勒斯"
       },
       "aliases": [
         "κύπρος",
@@ -762,7 +759,7 @@
         "en": "Eritrea",
         "es": "Eritrea",
         "zh-CN": "厄立特里亚",
-        "zh-TW": "乔立乔亞"
+        "zh-TW": "厄利垂亞"
       }
     },
     "ES": {
@@ -1020,7 +1017,7 @@
         "en": "South Georgia",
         "es": "Islas Georgias del Sur y Sándwich del Sur",
         "zh-CN": "南乔治亚和南桑威奇群岛",
-        "zh-TW": "南乔治亞與南桑威奇群島"
+        "zh-TW": "南喬治亞及南三明治群島"
       }
     },
     "GT": {
@@ -1047,7 +1044,7 @@
         "en": "Guinea-Bissau",
         "es": "Guinea-Bisáu",
         "zh-CN": "几内亚比绍",
-        "zh-TW": "幾內亞比乔"
+        "zh-TW": "幾內亞比索"
       }
     },
     "GY": {
@@ -2007,7 +2004,7 @@
         "en": "Saint Pierre and Miquelon",
         "es": "San Pedro y Miquelon",
         "zh-CN": "圣皮埃尔和密克隆",
-        "zh-TW": "聖乔乔與密克隆"
+        "zh-TW": "聖皮耶及密克隆群島"
       }
     },
     "PN": {
@@ -2016,7 +2013,7 @@
         "en": "Pitcairn",
         "es": "Pitcairn",
         "zh-CN": "皮特凯恩群岛",
-        "zh-TW": "乔乔乔恩群島"
+        "zh-TW": "皮特肯島"
       }
     },
     "PR": {
@@ -2223,7 +2220,7 @@
         "en": "Slovenia",
         "es": "Eslovenia",
         "zh-CN": "斯洛文尼亚",
-        "zh-TW": "斯洛乔尼亞"
+        "zh-TW": "斯洛維尼亞"
       },
       "aliases": [
         "slovenija"
@@ -2235,7 +2232,7 @@
         "en": "Svalbard",
         "es": "Svalbard y Jan Mayen",
         "zh-CN": "斯瓦尔巴和扬马延",
-        "zh-TW": "斯瓦巴與乔馬延"
+        "zh-TW": "冷岸群島及央棉"
       }
     },
     "SK": {
@@ -2256,7 +2253,7 @@
         "en": "Sierra Leone",
         "es": "Sierra Leona",
         "zh-CN": "塞拉利昂",
-        "zh-TW": "乔子山"
+        "zh-TW": "獅子山"
       }
     },
     "SM": {
@@ -2286,7 +2283,7 @@
         "en": "Somalia",
         "es": "Somalia",
         "zh-CN": "索马里",
-        "zh-TW": "索馬乔"
+        "zh-TW": "索馬利亞"
       },
       "aliases": [
         "soomaaliya"
@@ -2316,7 +2313,7 @@
         "en": "Sao Tome and Principe",
         "es": "Santo Tomé y Príncipe",
         "zh-CN": "圣多美和普林西比",
-        "zh-TW": "聖多美與乔林西比"
+        "zh-TW": "聖多美及普林西比"
       },
       "aliases": [
         "são tomé e príncipe"
@@ -2371,7 +2368,7 @@
         "en": "Turks and Caicos Islands",
         "es": "Islas Turcas y Caicos",
         "zh-CN": "特克斯和凯科斯群岛",
-        "zh-TW": "乔克斯與凱科斯群島"
+        "zh-TW": "土克凱可群島"
       }
     },
     "TD": {
@@ -2675,7 +2672,7 @@
         "en": "Vanuatu",
         "es": "Vanuatu",
         "zh-CN": "瓦努阿图",
-        "zh-TW": "乔努阿圖"
+        "zh-TW": "萬那杜"
       }
     },
     "WF": {
@@ -2723,7 +2720,7 @@
         "en": "Mayotte",
         "es": "Mayotte",
         "zh-CN": "马约特",
-        "zh-TW": "馬約乔"
+        "zh-TW": "馬約特"
       }
     },
     "YU": {
@@ -2859,8 +2856,7 @@
       "names": {
         "en": "Abū Z̧aby",
         "es": "Abu Dabi",
-        "zh-CN": "阿布扎比",
-        "zh-TW": "阿布乔比"
+        "zh-CN": "阿布扎比"
       }
     },
     "AE-DU": {
@@ -7444,7 +7440,7 @@
         "en": "Espirito Santo",
         "es": "Espírito Santo",
         "zh-CN": "圣埃斯皮里图州",
-        "zh-TW": "聖艾斯乔里圖州"
+        "zh-TW": "聖林城"
       }
     },
     "BR-GO": {
@@ -7654,8 +7650,7 @@
       "names": {
         "en": "Sergipe",
         "es": "Sergipe",
-        "zh-CN": "塞尔希培州",
-        "zh-TW": "塞爾希乔州"
+        "zh-CN": "塞尔希培州"
       }
     },
     "BR-SP": {
@@ -8551,7 +8546,7 @@
         "en": "Nunavut",
         "es": "Nunavut",
         "zh-CN": "努纳武特地区",
-        "zh-TW": "努納武乔地區"
+        "zh-TW": "紐納武特"
       },
       "aliases": [
         "ᓄᓇᕗᑦ"
@@ -9953,8 +9948,7 @@
       "names": {
         "en": "Hong Kong",
         "es": "Hong Kong",
-        "zh-CN": "香港特别行政区",
-        "zh-TW": "香港乔別行政區"
+        "zh-CN": "香港特别行政区"
       },
       "aliases": [
         "香港"
@@ -10051,8 +10045,7 @@
       "names": {
         "en": "Macau",
         "es": "Macao",
-        "zh-CN": "澳门特别行政区",
-        "zh-TW": "澳門乔別行政區"
+        "zh-CN": "澳门特别行政区"
       },
       "aliases": [
         "澳门",
@@ -12286,8 +12279,7 @@
       "names": {
         "en": "North Rhine-Westphalia",
         "es": "Renania del Norte-Westfalia",
-        "zh-CN": "北莱茵-威斯特法伦",
-        "zh-TW": "北萊茵-威斯乔法倫"
+        "zh-CN": "北莱茵-威斯特法伦"
       },
       "aliases": [
         "nordrhein-westfalen",
@@ -12351,8 +12343,7 @@
       "names": {
         "en": "Saxony-Anhalt",
         "es": "Sajonia-Anhalt",
-        "zh-CN": "萨克森-安哈尔特",
-        "zh-TW": "薩克森-安哈爾乔"
+        "zh-CN": "萨克森-安哈尔特"
       },
       "aliases": [
         "sachsen-anhalt"
@@ -15327,8 +15318,7 @@
       "names": {
         "en": "Extremadura",
         "es": "Extremadura",
-        "zh-CN": "埃斯特雷马杜拉",
-        "zh-TW": "埃斯乔雷馬杜拉"
+        "zh-CN": "埃斯特雷马杜拉"
       }
     },
     "ES-GA": {
@@ -15562,8 +15552,7 @@
       "names": {
         "en": "Navarre",
         "es": "Navarra",
-        "zh-CN": "纳瓦拉",
-        "zh-TW": "納乔拉"
+        "zh-CN": "纳瓦拉"
       },
       "aliases": [
         "navarra"
@@ -15784,8 +15773,7 @@
       "names": {
         "en": "Valencia",
         "es": "Comunidad Valenciana",
-        "zh-CN": "巴伦西亚",
-        "zh-TW": "乔倫西亞"
+        "zh-CN": "巴伦西亚"
       },
       "aliases": [
         "comunidad valenciana"
@@ -17512,8 +17500,7 @@
       "names": {
         "en": "Auvergne-Rhone-Alpes",
         "es": "Auvernia-Ródano-Alpes",
-        "zh-CN": "奥弗涅-罗纳-阿尔卑斯",
-        "zh-TW": "奧乔涅-隆河-阿爾卑斯"
+        "zh-CN": "奥弗涅-罗纳-阿尔卑斯"
       }
     },
     "FR-B": {
@@ -23806,8 +23793,7 @@
       "names": {
         "en": "Daman and Diu",
         "es": "Damán y Diu",
-        "zh-CN": "达德拉-纳加尔哈维利和达曼-第乌",
-        "zh-TW": "達德拉-納加爾哈乔利和達曼-第烏"
+        "zh-CN": "达德拉-纳加尔哈维利和达曼-第乌"
       }
     },
     "IN-DH": {
@@ -23855,8 +23841,7 @@
       "names": {
         "en": "Gujarat",
         "es": "Guyarat",
-        "zh-CN": "古吉拉特邦",
-        "zh-TW": "古吉拉乔邦"
+        "zh-CN": "古吉拉特邦"
       },
       "aliases": [
         "ગુજરાત"
@@ -23983,8 +23968,7 @@
       "names": {
         "en": "Maharashtra",
         "es": "Maharashtra",
-        "zh-CN": "马哈拉施特拉邦",
-        "zh-TW": "馬哈拉施乔拉邦"
+        "zh-CN": "马哈拉施特拉邦"
       },
       "aliases": [
         "महाराष्ट्र"
@@ -24149,8 +24133,7 @@
       "names": {
         "en": "Tripura",
         "es": "Tripura",
-        "zh-CN": "特里普拉邦",
-        "zh-TW": "乔里普拉邦"
+        "zh-CN": "特里普拉邦"
       },
       "aliases": [
         "ত্রিপুরা"
@@ -25417,8 +25400,7 @@
       "names": {
         "en": "Piedmont",
         "es": "Piamonte",
-        "zh-CN": "皮埃蒙特",
-        "zh-TW": "皮埃蒙乔"
+        "zh-CN": "皮埃蒙特"
       },
       "aliases": [
         "piemonte"
@@ -25431,8 +25413,7 @@
       "names": {
         "en": "Aosta Valley",
         "es": "Valle de Aosta",
-        "zh-CN": "瓦莱达奥斯塔",
-        "zh-TW": "乔萊達奧斯塔"
+        "zh-CN": "瓦莱达奥斯塔"
       },
       "aliases": [
         "valle d'aosta"
@@ -25459,8 +25440,7 @@
       "names": {
         "en": "Trentino-Alto Adige",
         "es": "Trentino-Alto Adigio",
-        "zh-CN": "特伦蒂诺-上阿迪杰",
-        "zh-TW": "乔倫蒂諾-上阿迪杰"
+        "zh-CN": "特伦蒂诺-上阿迪杰"
       },
       "aliases": [
         "südtirol"
@@ -25473,8 +25453,7 @@
       "names": {
         "en": "Veneto",
         "es": "Véneto",
-        "zh-CN": "威尼托",
-        "zh-TW": "乔內托"
+        "zh-CN": "威尼托"
       }
     },
     "IT-36": {
@@ -25484,8 +25463,7 @@
       "names": {
         "en": "Friuli Venezia Giulia",
         "es": "Friuli-Venecia Julia",
-        "zh-CN": "弗留利-威尼斯朱利亚",
-        "zh-TW": "弗留利-乔尼斯朱利亞"
+        "zh-CN": "弗留利-威尼斯朱利亚"
       }
     },
     "IT-42": {
@@ -28875,8 +28853,7 @@
       "names": {
         "en": "Seoul-teukbyeolsi",
         "es": "Seúl",
-        "zh-CN": "首尔特别市",
-        "zh-TW": "首爾乔別市"
+        "zh-CN": "首尔特别市"
       }
     },
     "KR-26": {
@@ -29040,8 +29017,7 @@
       "names": {
         "en": "Jeju-teukbyeoljachido",
         "es": "Provincia de Jeju",
-        "zh-CN": "济州特别自治道",
-        "zh-TW": "濟州乔別自治道"
+        "zh-CN": "济州特别自治道"
       }
     },
     "KR-50": {
@@ -29051,8 +29027,7 @@
       "names": {
         "en": "Sejong",
         "es": "Sejong",
-        "zh-CN": "世宗特别自治市",
-        "zh-TW": "世宗乔別自治市"
+        "zh-CN": "世宗特别自治市"
       }
     },
     "KW-AH": {
@@ -36579,8 +36554,7 @@
       "names": {
         "en": "Aguascalientes",
         "es": "Aguascalientes",
-        "zh-CN": "阿瓜斯卡连特斯州",
-        "zh-TW": "阿瓜斯卡連乔斯州"
+        "zh-CN": "阿瓜斯卡连特斯州"
       }
     },
     "MX-BCN": {
@@ -36612,8 +36586,7 @@
       "names": {
         "en": "Campeche",
         "es": "Campeche",
-        "zh-CN": "坎佩切州",
-        "zh-TW": "坎乔切州"
+        "zh-CN": "坎佩切州"
       }
     },
     "MX-CHH": {
@@ -36778,7 +36751,7 @@
         "en": "Nayarit",
         "es": "Nayarit",
         "zh-CN": "纳亚里特州",
-        "zh-TW": "納亞里乔州"
+        "zh-TW": "納雅里特"
       }
     },
     "MX-NLE": {
@@ -36905,7 +36878,7 @@
         "en": "Tlaxcala",
         "es": "Tlaxcala",
         "zh-CN": "特拉斯卡拉州",
-        "zh-TW": "乔拉斯卡拉州"
+        "zh-TW": "特拉克斯卡拉"
       }
     },
     "MX-VER": {
@@ -36915,8 +36888,7 @@
       "names": {
         "en": "Veracruz",
         "es": "Veracruz",
-        "zh-CN": "韦拉克鲁斯州",
-        "zh-TW": "乔拉克魯斯州"
+        "zh-CN": "韦拉克鲁斯州"
       }
     },
     "MX-YUC": {
@@ -36940,8 +36912,7 @@
       "names": {
         "en": "Zacatecas",
         "es": "Zacatecas",
-        "zh-CN": "萨卡特卡斯州",
-        "zh-TW": "薩卡乔卡斯州"
+        "zh-CN": "萨卡特卡斯州"
       }
     },
     "MY-01": {
@@ -37950,8 +37921,7 @@
       "type": "Province",
       "names": {
         "en": "Drenthe",
-        "zh-CN": "德伦特",
-        "zh-TW": "德倫乔"
+        "zh-CN": "德伦特"
       }
     },
     "NL-FL": {
@@ -38011,8 +37981,7 @@
       "type": "Province",
       "names": {
         "en": "Noord-Brabant",
-        "zh-CN": "北布拉班特",
-        "zh-TW": "北布拉班乔"
+        "zh-CN": "北布拉班特"
       }
     },
     "NL-NH": {
@@ -41888,8 +41857,7 @@
       "type": "Administrative region",
       "names": {
         "en": "Astrakhanskaya oblast'",
-        "zh-CN": "阿斯特拉罕州",
-        "zh-TW": "阿斯乔拉罕州"
+        "zh-CN": "阿斯特拉罕州"
       }
     },
     "RU-BA": {
@@ -41931,8 +41899,7 @@
       "type": "Republic",
       "names": {
         "en": "Buryatiya, Respublika",
-        "zh-CN": "布里亚特共和国",
-        "zh-TW": "布里亞乔共和國"
+        "zh-CN": "布里亚特共和国"
       }
     },
     "RU-CE": {
@@ -42019,8 +41986,7 @@
       "type": "Administrative region",
       "names": {
         "en": "Ivanovskaya oblast'",
-        "zh-CN": "伊万诺沃州",
-        "zh-TW": "伊乔諾沃州"
+        "zh-CN": "伊万诺沃州"
       }
     },
     "RU-KAM": {
@@ -42110,8 +42076,7 @@
       "names": {
         "en": "Khanty-Mansiyskiy avtonomnyy okrug",
         "es": "Distrito autónomo de Khanty-Mansiysk",
-        "zh-CN": "汉特-曼西自治区",
-        "zh-TW": "漢乔-曼西自治區"
+        "zh-CN": "汉特-曼西自治区"
       }
     },
     "RU-KIR": {
@@ -42171,8 +42136,7 @@
       "type": "Administrative region",
       "names": {
         "en": "Kostromskaya oblast'",
-        "zh-CN": "科斯特罗马州",
-        "zh-TW": "科斯乔羅馬州"
+        "zh-CN": "科斯特罗马州"
       }
     },
     "RU-KR": {
@@ -42221,8 +42185,7 @@
       "type": "Administrative region",
       "names": {
         "en": "Lipetskaya oblast'",
-        "zh-CN": "利佩茨克州",
-        "zh-TW": "利乔茨克州"
+        "zh-CN": "利佩茨克州"
       }
     },
     "RU-MAG": {
@@ -42251,8 +42214,7 @@
       "type": "Republic",
       "names": {
         "en": "Mordoviya, Respublika",
-        "zh-CN": "莫尔多瓦共和国",
-        "zh-TW": "莫爾多乔共和國"
+        "zh-CN": "莫尔多瓦共和国"
       }
     },
     "RU-MOS": {
@@ -42510,8 +42472,7 @@
       "type": "Administrative region",
       "names": {
         "en": "Sverdlovskaya oblast'",
-        "zh-CN": "斯维尔德洛夫斯克州",
-        "zh-TW": "斯乔爾德洛夫斯克州"
+        "zh-CN": "斯维尔德洛夫斯克州"
       }
     },
     "RU-TA": {
@@ -42563,8 +42524,7 @@
       "type": "Administrative region",
       "names": {
         "en": "Tverskaya oblast'",
-        "zh-CN": "特维尔州",
-        "zh-TW": "乔乔爾州"
+        "zh-CN": "特维尔州"
       }
     },
     "RU-TY": {
@@ -42573,8 +42533,7 @@
       "type": "Republic",
       "names": {
         "en": "Tyva, Respublika",
-        "zh-CN": "图瓦共和国",
-        "zh-TW": "圖乔共和國"
+        "zh-CN": "图瓦共和国"
       }
     },
     "RU-TYU": {
@@ -42593,8 +42552,7 @@
       "type": "Republic",
       "names": {
         "en": "Udmurtskaya Respublika",
-        "zh-CN": "乌德穆尔特共和国",
-        "zh-TW": "烏德穆爾乔共和國"
+        "zh-CN": "乌德穆尔特共和国"
       }
     },
     "RU-ULY": {
@@ -51004,7 +50962,7 @@
         "en": "Connecticut",
         "es": "Connecticut",
         "zh-CN": "康涅狄格州",
-        "zh-TW": "康乔乔格州"
+        "zh-TW": "康乃狄格"
       },
       "aliases": [
         "constitution state",
@@ -51019,7 +50977,7 @@
         "en": "District of Columbia",
         "es": "Distrito de Columbia",
         "zh-CN": "华盛顿哥伦比亚特区",
-        "zh-TW": "華盛頓哥倫比亞乔區"
+        "zh-TW": "哥倫比亞特區"
       },
       "aliases": [
         "washington dc",
@@ -51629,7 +51587,7 @@
         "en": "Vermont",
         "es": "Vermont",
         "zh-CN": "佛蒙特州",
-        "zh-TW": "佛蒙乔州"
+        "zh-TW": "佛蒙特"
       },
       "aliases": [
         "green mountain state"
