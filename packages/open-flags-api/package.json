@@ -1,0 +1,6 @@
+{
+  "name": "open-flags-api",
+  "version": "0.1.0",
+  "description": "Open Flags API client: flag, coat of arms and PNG URLs keyed by ISO 3166 codes, with polyfills and en/es/zh name lookup",
+  "license": "GPL-3.0-only"
+}
