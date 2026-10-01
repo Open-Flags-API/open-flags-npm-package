@@ -1,47 +1,47 @@
-import brazil_acre_svg from './brazil/acre.svg';
-import brazil_alagoas_svg from './brazil/alagoas.svg';
-import brazil_amap__svg from './brazil/amapá.svg';
-import brazil_amazonas_svg from './brazil/amazonas.svg';
-import brazil_bahia_svg from './brazil/bahia.svg';
-import brazil_brazil_svg from './brazil/brazil.svg';
-import brazil_cear__svg from './brazil/ceará.svg';
-import brazil_distrito_federal_svg from './brazil/distrito-federal.svg';
-import brazil_esp_rito_santo_svg from './brazil/espírito-santo.svg';
-import brazil_estado_rio_de_janeiro_svg from './brazil/estado-rio-de-janeiro.svg';
-import brazil_goi_s_svg from './brazil/goiás.svg';
-import brazil_maranh_o_svg from './brazil/maranhão.svg';
-import brazil_mato_grosso_do_sul_svg from './brazil/mato-grosso-do-sul.svg';
-import brazil_mato_grosso_svg from './brazil/mato-grosso.svg';
-import brazil_minas_gerais_svg from './brazil/minas-gerais.svg';
-import brazil_paran__svg from './brazil/paraná.svg';
-import brazil_para_ba_svg from './brazil/paraíba.svg';
-import brazil_par__svg from './brazil/pará.svg';
-import brazil_pernambuco_svg from './brazil/pernambuco.svg';
-import brazil_piau__svg from './brazil/piauí.svg';
-import brazil_rio_grande_do_norte_svg from './brazil/rio-grande-do-norte.svg';
-import brazil_rio_grande_do_sul_svg from './brazil/rio-grande-do-sul.svg';
-import brazil_rond_nia_svg from './brazil/rondônia.svg';
-import brazil_roraima_svg from './brazil/roraima.svg';
-import brazil_santa_catarina_svg from './brazil/santa-catarina.svg';
-import brazil_sergipe_svg from './brazil/sergipe.svg';
-import brazil_s_o_paulo_svg from './brazil/são-paulo.svg';
-import brazil_tocantins_svg from './brazil/tocantins.svg';
-import canada_alberta_svg from './canada/alberta.svg';
-import canada_british_columbia_svg from './canada/british-columbia.svg';
-import canada_canada_svg from './canada/canada.svg';
-import canada_governor_general_of_canada_svg from './canada/governor-general-of-canada.svg';
-import canada_manitoba_svg from './canada/manitoba.svg';
-import canada_new_brunswick_svg from './canada/new-brunswick.svg';
-import canada_newfoundland_and_labrador_svg from './canada/newfoundland-and-labrador.svg';
-import canada_northwest_territories_svg from './canada/northwest-territories.svg';
-import canada_nova_scotia_svg from './canada/nova-scotia.svg';
-import canada_nunavut_svg from './canada/nunavut.svg';
-import canada_ontario_svg from './canada/ontario.svg';
-import canada_prince_edward_island_svg from './canada/prince-edward-island.svg';
-import canada_quebec_svg from './canada/quebec.svg';
-import canada_royal_standard_members_canadian_royal_family_svg from './canada/royal-standard-members-canadian-royal-family.svg';
-import canada_saskatchewan_svg from './canada/saskatchewan.svg';
-import canada_yukon_svg from './canada/yukon.svg';
+import BR_AC_svg from './BR/AC.svg';
+import BR_AL_svg from './BR/AL.svg';
+import BR_AM_svg from './BR/AM.svg';
+import BR_AP_svg from './BR/AP.svg';
+import BR_BA_svg from './BR/BA.svg';
+import BR_CE_svg from './BR/CE.svg';
+import BR_DF_svg from './BR/DF.svg';
+import BR_ES_svg from './BR/ES.svg';
+import BR_GO_svg from './BR/GO.svg';
+import BR_MA_svg from './BR/MA.svg';
+import BR_MG_svg from './BR/MG.svg';
+import BR_MS_svg from './BR/MS.svg';
+import BR_MT_svg from './BR/MT.svg';
+import BR_PA_svg from './BR/PA.svg';
+import BR_PB_svg from './BR/PB.svg';
+import BR_PE_svg from './BR/PE.svg';
+import BR_PI_svg from './BR/PI.svg';
+import BR_PR_svg from './BR/PR.svg';
+import BR_RJ_svg from './BR/RJ.svg';
+import BR_RN_svg from './BR/RN.svg';
+import BR_RO_svg from './BR/RO.svg';
+import BR_RR_svg from './BR/RR.svg';
+import BR_RS_svg from './BR/RS.svg';
+import BR_SC_svg from './BR/SC.svg';
+import BR_SE_svg from './BR/SE.svg';
+import BR_SP_svg from './BR/SP.svg';
+import BR_TO_svg from './BR/TO.svg';
+import BR_svg from './BR.svg';
+import CA_AB_svg from './CA/AB.svg';
+import CA_BC_svg from './CA/BC.svg';
+import CA_MB_svg from './CA/MB.svg';
+import CA_NB_svg from './CA/NB.svg';
+import CA_NL_svg from './CA/NL.svg';
+import CA_NS_svg from './CA/NS.svg';
+import CA_NT_svg from './CA/NT.svg';
+import CA_NU_svg from './CA/NU.svg';
+import CA_ON_svg from './CA/ON.svg';
+import CA_PE_svg from './CA/PE.svg';
+import CA_QC_svg from './CA/QC.svg';
+import CA_SK_svg from './CA/SK.svg';
+import CA_YK_svg from './CA/YK.svg';
+import CA_governor_general_svg from './CA-governor-general.svg';
+import CA_royal_standard_members_canadian_royal_family_svg from './CA-royal-standard-members-canadian-royal-family.svg';
+import CA_svg from './CA.svg';
 import england_bedfordshire_svg from './england/bedfordshire.svg';
 import england_berkshire_svg from './england/berkshire.svg';
 import england_birmingham_svg from './england/birmingham.svg';
@@ -283,115 +283,115 @@ import south_korea_south_gyeongsang_svg from './south-korea/south-gyeongsang.svg
 import south_korea_south_jeolla_svg from './south-korea/south-jeolla.svg';
 import south_korea_south_korea_svg from './south-korea/south-korea.svg';
 import south_korea_ulsan_svg from './south-korea/ulsan.svg';
-import usa_alabama_svg from './usa/alabama.svg';
-import usa_alaska_svg from './usa/alaska.svg';
-import usa_american_samoa_svg from './usa/american-samoa.svg';
-import usa_arizona_svg from './usa/arizona.svg';
-import usa_arkansas_svg from './usa/arkansas.svg';
-import usa_california_svg from './usa/california.svg';
-import usa_colorado_svg from './usa/colorado.svg';
-import usa_connecticut_svg from './usa/connecticut.svg';
-import usa_delaware_svg from './usa/delaware.svg';
-import usa_district_of_columbia_svg from './usa/district-of-columbia.svg';
-import usa_florida_svg from './usa/florida.svg';
-import usa_georgia_svg from './usa/georgia.svg';
-import usa_georgiaClassic_svg from './usa/georgiaClassic.svg';
-import usa_georgiaClassic1_svg from './usa/georgiaClassic1.svg';
-import usa_guam_svg from './usa/guam.svg';
-import usa_hawaii_svg from './usa/hawaii.svg';
-import usa_idaho_svg from './usa/idaho.svg';
-import usa_illinois_svg from './usa/illinois.svg';
-import usa_indiana_svg from './usa/indiana.svg';
-import usa_iowa_svg from './usa/iowa.svg';
-import usa_kansas_svg from './usa/kansas.svg';
-import usa_kentucky_svg from './usa/kentucky.svg';
-import usa_louisiana_svg from './usa/louisiana.svg';
-import usa_maine_svg from './usa/maine.svg';
-import usa_maryland_svg from './usa/maryland.svg';
-import usa_massachusetts_svg from './usa/massachusetts.svg';
-import usa_michigan_svg from './usa/michigan.svg';
-import usa_minnesota_svg from './usa/minnesota.svg';
-import usa_minnesotaClassic_svg from './usa/minnesotaClassic.svg';
-import usa_mississippi_svg from './usa/mississippi.svg';
-import usa_mississippiClassic_svg from './usa/mississippiClassic.svg';
-import usa_missouri_svg from './usa/missouri.svg';
-import usa_montana_svg from './usa/montana.svg';
-import usa_nebraska_svg from './usa/nebraska.svg';
-import usa_nevada_svg from './usa/nevada.svg';
-import usa_new_hampshire_svg from './usa/new-hampshire.svg';
-import usa_new_jersey_svg from './usa/new-jersey.svg';
-import usa_new_mexico_svg from './usa/new-mexico.svg';
-import usa_new_york_svg from './usa/new-york.svg';
-import usa_north_carolina_svg from './usa/north-carolina.svg';
-import usa_north_dakota_svg from './usa/north-dakota.svg';
-import usa_northern_mariana_islands_svg from './usa/northern-mariana-islands.svg';
-import usa_ohio_svg from './usa/ohio.svg';
-import usa_oklahoma_svg from './usa/oklahoma.svg';
-import usa_oregon_back_svg from './usa/oregon-back.svg';
-import usa_oregon_svg from './usa/oregon.svg';
-import usa_pennsylvania_svg from './usa/pennsylvania.svg';
-import usa_puerto_rico_svg from './usa/puerto-rico.svg';
-import usa_rhode_island_svg from './usa/rhode-island.svg';
-import usa_south_carolina_svg from './usa/south-carolina.svg';
-import usa_south_dakota_svg from './usa/south-dakota.svg';
-import usa_tennessee_svg from './usa/tennessee.svg';
-import usa_texas_svg from './usa/texas.svg';
-import usa_usa_svg from './usa/usa.svg';
-import usa_utah_svg from './usa/utah.svg';
-import usa_utahClassic_svg from './usa/utahClassic.svg';
-import usa_vermont_svg from './usa/vermont.svg';
-import usa_virgin_islands_svg from './usa/virgin-islands.svg';
-import usa_virginia_svg from './usa/virginia.svg';
-import usa_washington_svg from './usa/washington.svg';
-import usa_west_virginia_svg from './usa/west-virginia.svg';
-import usa_wisconsin_svg from './usa/wisconsin.svg';
-import usa_wyoming_svg from './usa/wyoming.svg';
+import US_AK_svg from './US/AK.svg';
+import US_AL_svg from './US/AL.svg';
+import US_AR_svg from './US/AR.svg';
+import US_AS_svg from './US/AS.svg';
+import US_AZ_svg from './US/AZ.svg';
+import US_CA_svg from './US/CA.svg';
+import US_CO_svg from './US/CO.svg';
+import US_CT_svg from './US/CT.svg';
+import US_DC_svg from './US/DC.svg';
+import US_DE_svg from './US/DE.svg';
+import US_FL_svg from './US/FL.svg';
+import US_GA_Classic_svg from './US/GA-Classic.svg';
+import US_GA_Classic1_svg from './US/GA-Classic1.svg';
+import US_GA_svg from './US/GA.svg';
+import US_GU_svg from './US/GU.svg';
+import US_HI_svg from './US/HI.svg';
+import US_IA_svg from './US/IA.svg';
+import US_ID_svg from './US/ID.svg';
+import US_IL_svg from './US/IL.svg';
+import US_IN_svg from './US/IN.svg';
+import US_KS_svg from './US/KS.svg';
+import US_KY_svg from './US/KY.svg';
+import US_LA_svg from './US/LA.svg';
+import US_MA_svg from './US/MA.svg';
+import US_MD_svg from './US/MD.svg';
+import US_ME_svg from './US/ME.svg';
+import US_MI_svg from './US/MI.svg';
+import US_MN_Classic_svg from './US/MN-Classic.svg';
+import US_MN_svg from './US/MN.svg';
+import US_MO_svg from './US/MO.svg';
+import US_MP_svg from './US/MP.svg';
+import US_MS_Classic_svg from './US/MS-Classic.svg';
+import US_MS_svg from './US/MS.svg';
+import US_MT_svg from './US/MT.svg';
+import US_NC_svg from './US/NC.svg';
+import US_ND_svg from './US/ND.svg';
+import US_NE_svg from './US/NE.svg';
+import US_NH_svg from './US/NH.svg';
+import US_NJ_svg from './US/NJ.svg';
+import US_NM_svg from './US/NM.svg';
+import US_NV_svg from './US/NV.svg';
+import US_NY_svg from './US/NY.svg';
+import US_OH_svg from './US/OH.svg';
+import US_OK_svg from './US/OK.svg';
+import US_OR_B_svg from './US/OR-B.svg';
+import US_OR_svg from './US/OR.svg';
+import US_PA_svg from './US/PA.svg';
+import US_PR_svg from './US/PR.svg';
+import US_RI_svg from './US/RI.svg';
+import US_SC_svg from './US/SC.svg';
+import US_SD_svg from './US/SD.svg';
+import US_TN_svg from './US/TN.svg';
+import US_TX_svg from './US/TX.svg';
+import US_UT_Classic_svg from './US/UT-Classic.svg';
+import US_UT_svg from './US/UT.svg';
+import US_VA_svg from './US/VA.svg';
+import US_VI_svg from './US/VI.svg';
+import US_VT_svg from './US/VT.svg';
+import US_WA_svg from './US/WA.svg';
+import US_WI_svg from './US/WI.svg';
+import US_WV_svg from './US/WV.svg';
+import US_WY_svg from './US/WY.svg';
+import US_svg from './US.svg';
 
 export const flags: Record<string, string> = {
-  "brazil/acre": brazil_acre_svg,
-  "brazil/alagoas": brazil_alagoas_svg,
-  "brazil/amapá": brazil_amap__svg,
-  "brazil/amazonas": brazil_amazonas_svg,
-  "brazil/bahia": brazil_bahia_svg,
-  "brazil/brazil": brazil_brazil_svg,
-  "brazil/ceará": brazil_cear__svg,
-  "brazil/distrito-federal": brazil_distrito_federal_svg,
-  "brazil/espírito-santo": brazil_esp_rito_santo_svg,
-  "brazil/estado-rio-de-janeiro": brazil_estado_rio_de_janeiro_svg,
-  "brazil/goiás": brazil_goi_s_svg,
-  "brazil/maranhão": brazil_maranh_o_svg,
-  "brazil/mato-grosso-do-sul": brazil_mato_grosso_do_sul_svg,
-  "brazil/mato-grosso": brazil_mato_grosso_svg,
-  "brazil/minas-gerais": brazil_minas_gerais_svg,
-  "brazil/paraná": brazil_paran__svg,
-  "brazil/paraíba": brazil_para_ba_svg,
-  "brazil/pará": brazil_par__svg,
-  "brazil/pernambuco": brazil_pernambuco_svg,
-  "brazil/piauí": brazil_piau__svg,
-  "brazil/rio-grande-do-norte": brazil_rio_grande_do_norte_svg,
-  "brazil/rio-grande-do-sul": brazil_rio_grande_do_sul_svg,
-  "brazil/rondônia": brazil_rond_nia_svg,
-  "brazil/roraima": brazil_roraima_svg,
-  "brazil/santa-catarina": brazil_santa_catarina_svg,
-  "brazil/sergipe": brazil_sergipe_svg,
-  "brazil/são-paulo": brazil_s_o_paulo_svg,
-  "brazil/tocantins": brazil_tocantins_svg,
-  "canada/alberta": canada_alberta_svg,
-  "canada/british-columbia": canada_british_columbia_svg,
-  "canada/canada": canada_canada_svg,
-  "canada/governor-general-of-canada": canada_governor_general_of_canada_svg,
-  "canada/manitoba": canada_manitoba_svg,
-  "canada/new-brunswick": canada_new_brunswick_svg,
-  "canada/newfoundland-and-labrador": canada_newfoundland_and_labrador_svg,
-  "canada/northwest-territories": canada_northwest_territories_svg,
-  "canada/nova-scotia": canada_nova_scotia_svg,
-  "canada/nunavut": canada_nunavut_svg,
-  "canada/ontario": canada_ontario_svg,
-  "canada/prince-edward-island": canada_prince_edward_island_svg,
-  "canada/quebec": canada_quebec_svg,
-  "canada/royal-standard-members-canadian-royal-family": canada_royal_standard_members_canadian_royal_family_svg,
-  "canada/saskatchewan": canada_saskatchewan_svg,
-  "canada/yukon": canada_yukon_svg,
+  "BR/AC": BR_AC_svg,
+  "BR/AL": BR_AL_svg,
+  "BR/AM": BR_AM_svg,
+  "BR/AP": BR_AP_svg,
+  "BR/BA": BR_BA_svg,
+  "BR/CE": BR_CE_svg,
+  "BR/DF": BR_DF_svg,
+  "BR/ES": BR_ES_svg,
+  "BR/GO": BR_GO_svg,
+  "BR/MA": BR_MA_svg,
+  "BR/MG": BR_MG_svg,
+  "BR/MS": BR_MS_svg,
+  "BR/MT": BR_MT_svg,
+  "BR/PA": BR_PA_svg,
+  "BR/PB": BR_PB_svg,
+  "BR/PE": BR_PE_svg,
+  "BR/PI": BR_PI_svg,
+  "BR/PR": BR_PR_svg,
+  "BR/RJ": BR_RJ_svg,
+  "BR/RN": BR_RN_svg,
+  "BR/RO": BR_RO_svg,
+  "BR/RR": BR_RR_svg,
+  "BR/RS": BR_RS_svg,
+  "BR/SC": BR_SC_svg,
+  "BR/SE": BR_SE_svg,
+  "BR/SP": BR_SP_svg,
+  "BR/TO": BR_TO_svg,
+  "BR": BR_svg,
+  "CA/AB": CA_AB_svg,
+  "CA/BC": CA_BC_svg,
+  "CA/MB": CA_MB_svg,
+  "CA/NB": CA_NB_svg,
+  "CA/NL": CA_NL_svg,
+  "CA/NS": CA_NS_svg,
+  "CA/NT": CA_NT_svg,
+  "CA/NU": CA_NU_svg,
+  "CA/ON": CA_ON_svg,
+  "CA/PE": CA_PE_svg,
+  "CA/QC": CA_QC_svg,
+  "CA/SK": CA_SK_svg,
+  "CA/YK": CA_YK_svg,
+  "CA-governor-general": CA_governor_general_svg,
+  "CA-royal-standard-members-canadian-royal-family": CA_royal_standard_members_canadian_royal_family_svg,
+  "CA": CA_svg,
   "england/bedfordshire": england_bedfordshire_svg,
   "england/berkshire": england_berkshire_svg,
   "england/birmingham": england_birmingham_svg,
@@ -633,116 +633,116 @@ export const flags: Record<string, string> = {
   "south-korea/south-jeolla": south_korea_south_jeolla_svg,
   "south-korea/south-korea": south_korea_south_korea_svg,
   "south-korea/ulsan": south_korea_ulsan_svg,
-  "usa/alabama": usa_alabama_svg,
-  "usa/alaska": usa_alaska_svg,
-  "usa/american-samoa": usa_american_samoa_svg,
-  "usa/arizona": usa_arizona_svg,
-  "usa/arkansas": usa_arkansas_svg,
-  "usa/california": usa_california_svg,
-  "usa/colorado": usa_colorado_svg,
-  "usa/connecticut": usa_connecticut_svg,
-  "usa/delaware": usa_delaware_svg,
-  "usa/district-of-columbia": usa_district_of_columbia_svg,
-  "usa/florida": usa_florida_svg,
-  "usa/georgia": usa_georgia_svg,
-  "usa/georgiaClassic": usa_georgiaClassic_svg,
-  "usa/georgiaClassic1": usa_georgiaClassic1_svg,
-  "usa/guam": usa_guam_svg,
-  "usa/hawaii": usa_hawaii_svg,
-  "usa/idaho": usa_idaho_svg,
-  "usa/illinois": usa_illinois_svg,
-  "usa/indiana": usa_indiana_svg,
-  "usa/iowa": usa_iowa_svg,
-  "usa/kansas": usa_kansas_svg,
-  "usa/kentucky": usa_kentucky_svg,
-  "usa/louisiana": usa_louisiana_svg,
-  "usa/maine": usa_maine_svg,
-  "usa/maryland": usa_maryland_svg,
-  "usa/massachusetts": usa_massachusetts_svg,
-  "usa/michigan": usa_michigan_svg,
-  "usa/minnesota": usa_minnesota_svg,
-  "usa/minnesotaClassic": usa_minnesotaClassic_svg,
-  "usa/mississippi": usa_mississippi_svg,
-  "usa/mississippiClassic": usa_mississippiClassic_svg,
-  "usa/missouri": usa_missouri_svg,
-  "usa/montana": usa_montana_svg,
-  "usa/nebraska": usa_nebraska_svg,
-  "usa/nevada": usa_nevada_svg,
-  "usa/new-hampshire": usa_new_hampshire_svg,
-  "usa/new-jersey": usa_new_jersey_svg,
-  "usa/new-mexico": usa_new_mexico_svg,
-  "usa/new-york": usa_new_york_svg,
-  "usa/north-carolina": usa_north_carolina_svg,
-  "usa/north-dakota": usa_north_dakota_svg,
-  "usa/northern-mariana-islands": usa_northern_mariana_islands_svg,
-  "usa/ohio": usa_ohio_svg,
-  "usa/oklahoma": usa_oklahoma_svg,
-  "usa/oregon-back": usa_oregon_back_svg,
-  "usa/oregon": usa_oregon_svg,
-  "usa/pennsylvania": usa_pennsylvania_svg,
-  "usa/puerto-rico": usa_puerto_rico_svg,
-  "usa/rhode-island": usa_rhode_island_svg,
-  "usa/south-carolina": usa_south_carolina_svg,
-  "usa/south-dakota": usa_south_dakota_svg,
-  "usa/tennessee": usa_tennessee_svg,
-  "usa/texas": usa_texas_svg,
-  "usa/usa": usa_usa_svg,
-  "usa/utah": usa_utah_svg,
-  "usa/utahClassic": usa_utahClassic_svg,
-  "usa/vermont": usa_vermont_svg,
-  "usa/virgin-islands": usa_virgin_islands_svg,
-  "usa/virginia": usa_virginia_svg,
-  "usa/washington": usa_washington_svg,
-  "usa/west-virginia": usa_west_virginia_svg,
-  "usa/wisconsin": usa_wisconsin_svg,
-  "usa/wyoming": usa_wyoming_svg,
+  "US/AK": US_AK_svg,
+  "US/AL": US_AL_svg,
+  "US/AR": US_AR_svg,
+  "US/AS": US_AS_svg,
+  "US/AZ": US_AZ_svg,
+  "US/CA": US_CA_svg,
+  "US/CO": US_CO_svg,
+  "US/CT": US_CT_svg,
+  "US/DC": US_DC_svg,
+  "US/DE": US_DE_svg,
+  "US/FL": US_FL_svg,
+  "US/GA-Classic": US_GA_Classic_svg,
+  "US/GA-Classic1": US_GA_Classic1_svg,
+  "US/GA": US_GA_svg,
+  "US/GU": US_GU_svg,
+  "US/HI": US_HI_svg,
+  "US/IA": US_IA_svg,
+  "US/ID": US_ID_svg,
+  "US/IL": US_IL_svg,
+  "US/IN": US_IN_svg,
+  "US/KS": US_KS_svg,
+  "US/KY": US_KY_svg,
+  "US/LA": US_LA_svg,
+  "US/MA": US_MA_svg,
+  "US/MD": US_MD_svg,
+  "US/ME": US_ME_svg,
+  "US/MI": US_MI_svg,
+  "US/MN-Classic": US_MN_Classic_svg,
+  "US/MN": US_MN_svg,
+  "US/MO": US_MO_svg,
+  "US/MP": US_MP_svg,
+  "US/MS-Classic": US_MS_Classic_svg,
+  "US/MS": US_MS_svg,
+  "US/MT": US_MT_svg,
+  "US/NC": US_NC_svg,
+  "US/ND": US_ND_svg,
+  "US/NE": US_NE_svg,
+  "US/NH": US_NH_svg,
+  "US/NJ": US_NJ_svg,
+  "US/NM": US_NM_svg,
+  "US/NV": US_NV_svg,
+  "US/NY": US_NY_svg,
+  "US/OH": US_OH_svg,
+  "US/OK": US_OK_svg,
+  "US/OR-B": US_OR_B_svg,
+  "US/OR": US_OR_svg,
+  "US/PA": US_PA_svg,
+  "US/PR": US_PR_svg,
+  "US/RI": US_RI_svg,
+  "US/SC": US_SC_svg,
+  "US/SD": US_SD_svg,
+  "US/TN": US_TN_svg,
+  "US/TX": US_TX_svg,
+  "US/UT-Classic": US_UT_Classic_svg,
+  "US/UT": US_UT_svg,
+  "US/VA": US_VA_svg,
+  "US/VI": US_VI_svg,
+  "US/VT": US_VT_svg,
+  "US/WA": US_WA_svg,
+  "US/WI": US_WI_svg,
+  "US/WV": US_WV_svg,
+  "US/WY": US_WY_svg,
+  "US": US_svg,
 };
 
 export const flagList: string[] = [
-"brazil/acre",
-"brazil/alagoas",
-"brazil/amapá",
-"brazil/amazonas",
-"brazil/bahia",
-"brazil/brazil",
-"brazil/ceará",
-"brazil/distrito-federal",
-"brazil/espírito-santo",
-"brazil/estado-rio-de-janeiro",
-"brazil/goiás",
-"brazil/maranhão",
-"brazil/mato-grosso-do-sul",
-"brazil/mato-grosso",
-"brazil/minas-gerais",
-"brazil/paraná",
-"brazil/paraíba",
-"brazil/pará",
-"brazil/pernambuco",
-"brazil/piauí",
-"brazil/rio-grande-do-norte",
-"brazil/rio-grande-do-sul",
-"brazil/rondônia",
-"brazil/roraima",
-"brazil/santa-catarina",
-"brazil/sergipe",
-"brazil/são-paulo",
-"brazil/tocantins",
-"canada/alberta",
-"canada/british-columbia",
-"canada/canada",
-"canada/governor-general-of-canada",
-"canada/manitoba",
-"canada/new-brunswick",
-"canada/newfoundland-and-labrador",
-"canada/northwest-territories",
-"canada/nova-scotia",
-"canada/nunavut",
-"canada/ontario",
-"canada/prince-edward-island",
-"canada/quebec",
-"canada/royal-standard-members-canadian-royal-family",
-"canada/saskatchewan",
-"canada/yukon",
+"BR/AC",
+"BR/AL",
+"BR/AM",
+"BR/AP",
+"BR/BA",
+"BR/CE",
+"BR/DF",
+"BR/ES",
+"BR/GO",
+"BR/MA",
+"BR/MG",
+"BR/MS",
+"BR/MT",
+"BR/PA",
+"BR/PB",
+"BR/PE",
+"BR/PI",
+"BR/PR",
+"BR/RJ",
+"BR/RN",
+"BR/RO",
+"BR/RR",
+"BR/RS",
+"BR/SC",
+"BR/SE",
+"BR/SP",
+"BR/TO",
+"BR",
+"CA/AB",
+"CA/BC",
+"CA/MB",
+"CA/NB",
+"CA/NL",
+"CA/NS",
+"CA/NT",
+"CA/NU",
+"CA/ON",
+"CA/PE",
+"CA/QC",
+"CA/SK",
+"CA/YK",
+"CA-governor-general",
+"CA-royal-standard-members-canadian-royal-family",
+"CA",
 "england/bedfordshire",
 "england/berkshire",
 "england/birmingham",
@@ -984,67 +984,67 @@ export const flagList: string[] = [
 "south-korea/south-jeolla",
 "south-korea/south-korea",
 "south-korea/ulsan",
-"usa/alabama",
-"usa/alaska",
-"usa/american-samoa",
-"usa/arizona",
-"usa/arkansas",
-"usa/california",
-"usa/colorado",
-"usa/connecticut",
-"usa/delaware",
-"usa/district-of-columbia",
-"usa/florida",
-"usa/georgia",
-"usa/georgiaClassic",
-"usa/georgiaClassic1",
-"usa/guam",
-"usa/hawaii",
-"usa/idaho",
-"usa/illinois",
-"usa/indiana",
-"usa/iowa",
-"usa/kansas",
-"usa/kentucky",
-"usa/louisiana",
-"usa/maine",
-"usa/maryland",
-"usa/massachusetts",
-"usa/michigan",
-"usa/minnesota",
-"usa/minnesotaClassic",
-"usa/mississippi",
-"usa/mississippiClassic",
-"usa/missouri",
-"usa/montana",
-"usa/nebraska",
-"usa/nevada",
-"usa/new-hampshire",
-"usa/new-jersey",
-"usa/new-mexico",
-"usa/new-york",
-"usa/north-carolina",
-"usa/north-dakota",
-"usa/northern-mariana-islands",
-"usa/ohio",
-"usa/oklahoma",
-"usa/oregon-back",
-"usa/oregon",
-"usa/pennsylvania",
-"usa/puerto-rico",
-"usa/rhode-island",
-"usa/south-carolina",
-"usa/south-dakota",
-"usa/tennessee",
-"usa/texas",
-"usa/usa",
-"usa/utah",
-"usa/utahClassic",
-"usa/vermont",
-"usa/virgin-islands",
-"usa/virginia",
-"usa/washington",
-"usa/west-virginia",
-"usa/wisconsin",
-"usa/wyoming"
+"US/AK",
+"US/AL",
+"US/AR",
+"US/AS",
+"US/AZ",
+"US/CA",
+"US/CO",
+"US/CT",
+"US/DC",
+"US/DE",
+"US/FL",
+"US/GA-Classic",
+"US/GA-Classic1",
+"US/GA",
+"US/GU",
+"US/HI",
+"US/IA",
+"US/ID",
+"US/IL",
+"US/IN",
+"US/KS",
+"US/KY",
+"US/LA",
+"US/MA",
+"US/MD",
+"US/ME",
+"US/MI",
+"US/MN-Classic",
+"US/MN",
+"US/MO",
+"US/MP",
+"US/MS-Classic",
+"US/MS",
+"US/MT",
+"US/NC",
+"US/ND",
+"US/NE",
+"US/NH",
+"US/NJ",
+"US/NM",
+"US/NV",
+"US/NY",
+"US/OH",
+"US/OK",
+"US/OR-B",
+"US/OR",
+"US/PA",
+"US/PR",
+"US/RI",
+"US/SC",
+"US/SD",
+"US/TN",
+"US/TX",
+"US/UT-Classic",
+"US/UT",
+"US/VA",
+"US/VI",
+"US/VT",
+"US/WA",
+"US/WI",
+"US/WV",
+"US/WY",
+"US"
 ];
