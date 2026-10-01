@@ -62,10 +62,19 @@ function arg(name: string): string | undefined {
   return i > -1 ? process.argv[i + 1] : undefined;
 }
 
+/**
+ * Windows reserves device names as file names (with any extension) and git for Windows refuses to
+ * check them out, so a subdivision whose ISO suffix is one of them is stored as "<SUB>_.svg"
+ * (e.g. Cornwall, GB-CON -> flags/GB/CON_.svg). Its flag key is still "GB/CON".
+ */
+const WINDOWS_RESERVED = /^(CON|PRN|AUX|NUL|COM[0-9¹²³]|LPT[0-9¹²³])$/i;
+
 function targetFor(code: string, kind: 'flag' | 'coat'): string {
   const suffix = kind === 'coat' ? '-COA' : '';
   const dash = code.indexOf('-');
-  return dash === -1 ? `${code}${suffix}.svg` : `${code.slice(0, dash)}/${code.slice(dash + 1)}${suffix}.svg`;
+  if (dash === -1) return `${code}${suffix}.svg`;
+  const base = `${code.slice(dash + 1)}${suffix}`;
+  return `${code.slice(0, dash)}/${WINDOWS_RESERVED.test(base) ? `${base}_` : base}.svg`;
 }
 
 /** SVGO runs in plain-JS worker threads so the import finishes in minutes rather than an hour. */
