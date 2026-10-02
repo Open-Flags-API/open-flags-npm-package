@@ -1,0 +1,10 @@
+# Artwork, generated sources and data are always checked out with LF, so the generator ("Wrote 0 files")
+# and the build (data URIs are built from the SVG bytes) give byte-identical results on every OS,
+# including Windows checkouts with core.autocrlf=true.
+*.svg                                   text eol=lf
+flags/index.ts                          text eol=lf
+src/generated/**                        text eol=lf
+src/i18n/*.json                         text eol=lf
+src/*-mapping.json                      text eol=lf
+data/*.json                             text eol=lf
+packages/open-flags-api/src/generated/* text eol=lf
