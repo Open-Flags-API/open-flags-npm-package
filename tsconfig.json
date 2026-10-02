@@ -11,6 +11,19 @@
     "allowSyntheticDefaultImports": true,
     "resolveJsonModule": true
   },
-  "include": ["src", "flags", "__tests__", "scripts", "declaration.d.ts"],
-  "exclude": ["node_modules"]
+  "include": [
+    "src",
+    "flags",
+    "__tests__",
+    "scripts",
+    "declaration.d.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  }
 }

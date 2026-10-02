@@ -1,0 +1,1234 @@
+{
+  "AE": [
+    "uae",
+    "emirates",
+    "الإمارات"
+  ],
+  "AF": [
+    "افغانستان"
+  ],
+  "AL": [
+    "shqipëri"
+  ],
+  "AT": [
+    "österreich",
+    "oesterreich"
+  ],
+  "AU": [
+    "aussie",
+    "oz"
+  ],
+  "AU-ACT": [
+    "canberra"
+  ],
+  "AU-TAS": [
+    "tassie"
+  ],
+  "AX": [
+    "åland"
+  ],
+  "AZ": [
+    "azərbaycan"
+  ],
+  "BA": [
+    "bosna i hercegovina",
+    "bosnia"
+  ],
+  "BD": [
+    "বাংলাদেশ"
+  ],
+  "BE": [
+    "belgique",
+    "belgië",
+    "belgien"
+  ],
+  "BG": [
+    "българия"
+  ],
+  "BH": [
+    "البحرين"
+  ],
+  "BJ": [
+    "bénin"
+  ],
+  "BL": [
+    "st barts",
+    "saint-barthélemy"
+  ],
+  "BN": [
+    "brunei darussalam"
+  ],
+  "BQ": [
+    "caribbean netherlands"
+  ],
+  "BR": [
+    "brasil"
+  ],
+  "BR-AP": [
+    "amapá"
+  ],
+  "BR-CE": [
+    "ceará"
+  ],
+  "BR-DF": [
+    "brasilia"
+  ],
+  "BR-GO": [
+    "goiás"
+  ],
+  "BR-MA": [
+    "maranhão"
+  ],
+  "BR-PA": [
+    "pará"
+  ],
+  "BR-PB": [
+    "paraíba"
+  ],
+  "BR-PI": [
+    "piauí"
+  ],
+  "BR-PR": [
+    "paraná"
+  ],
+  "BR-RJ": [
+    "rio"
+  ],
+  "BR-RO": [
+    "rondônia"
+  ],
+  "BR-SP": [
+    "são paulo"
+  ],
+  "BT": [
+    "འབྲུག"
+  ],
+  "BY": [
+    "беларусь",
+    "byelorussia"
+  ],
+  "CA-BC": [
+    "bc",
+    "colombie-britannique"
+  ],
+  "CA-NB": [
+    "nouveau-brunswick"
+  ],
+  "CA-NL": [
+    "terre-neuve-et-labrador"
+  ],
+  "CA-NS": [
+    "nouvelle-écosse"
+  ],
+  "CA-NT": [
+    "territoires du nord-ouest"
+  ],
+  "CA-NU": [
+    "ᓄᓇᕗᑦ"
+  ],
+  "CA-PE": [
+    "île-du-prince-édouard",
+    "pei"
+  ],
+  "CA-QC": [
+    "québec"
+  ],
+  "CC": [
+    "keeling islands"
+  ],
+  "CD": [
+    "drc",
+    "congo kinshasa",
+    "zaire"
+  ],
+  "CF": [
+    "car",
+    "centrafrique"
+  ],
+  "CG": [
+    "congo brazzaville"
+  ],
+  "CH": [
+    "schweiz",
+    "suisse",
+    "svizzera",
+    "swiss"
+  ],
+  "CI": [
+    "côte d'ivoire",
+    "cote d'ivoire"
+  ],
+  "CM": [
+    "cameroun"
+  ],
+  "CN": [
+    "中国",
+    "zhongguo",
+    "prc",
+    "people's republic of china"
+  ],
+  "CN-AH": [
+    "安徽"
+  ],
+  "CN-BJ": [
+    "北京",
+    "peking"
+  ],
+  "CN-CQ": [
+    "重庆"
+  ],
+  "CN-FJ": [
+    "福建"
+  ],
+  "CN-GD": [
+    "广东",
+    "canton"
+  ],
+  "CN-GS": [
+    "甘肃"
+  ],
+  "CN-GX": [
+    "广西"
+  ],
+  "CN-GZ": [
+    "贵州"
+  ],
+  "CN-HA": [
+    "河南"
+  ],
+  "CN-HB": [
+    "湖北"
+  ],
+  "CN-HE": [
+    "河北"
+  ],
+  "CN-HI": [
+    "海南"
+  ],
+  "CN-HK": [
+    "香港"
+  ],
+  "CN-HL": [
+    "黑龙江"
+  ],
+  "CN-HN": [
+    "湖南"
+  ],
+  "CN-JL": [
+    "吉林"
+  ],
+  "CN-JS": [
+    "江苏"
+  ],
+  "CN-JX": [
+    "江西"
+  ],
+  "CN-LN": [
+    "辽宁"
+  ],
+  "CN-MO": [
+    "澳门",
+    "macao"
+  ],
+  "CN-NM": [
+    "内蒙古"
+  ],
+  "CN-NX": [
+    "宁夏"
+  ],
+  "CN-QH": [
+    "青海"
+  ],
+  "CN-SC": [
+    "四川"
+  ],
+  "CN-SD": [
+    "山东"
+  ],
+  "CN-SH": [
+    "上海"
+  ],
+  "CN-SN": [
+    "陕西"
+  ],
+  "CN-SX": [
+    "山西"
+  ],
+  "CN-TJ": [
+    "天津"
+  ],
+  "CN-TW": [
+    "台湾",
+    "formosa"
+  ],
+  "CN-XJ": [
+    "新疆"
+  ],
+  "CN-XZ": [
+    "西藏",
+    "xizang"
+  ],
+  "CN-YN": [
+    "云南"
+  ],
+  "CN-ZJ": [
+    "浙江"
+  ],
+  "CV": [
+    "cabo verde"
+  ],
+  "CW": [
+    "curaçao"
+  ],
+  "CY": [
+    "κύπρος",
+    "kıbrıs"
+  ],
+  "CZ": [
+    "czechia",
+    "česko"
+  ],
+  "DE": [
+    "deutschland",
+    "alemania",
+    "allemagne"
+  ],
+  "DE-BW": [
+    "baden-württemberg"
+  ],
+  "DE-BY": [
+    "bayern",
+    "baviera"
+  ],
+  "DE-HE": [
+    "hessen"
+  ],
+  "DE-NI": [
+    "niedersachsen"
+  ],
+  "DE-NW": [
+    "nordrhein-westfalen",
+    "nrw"
+  ],
+  "DE-RP": [
+    "rheinland-pfalz"
+  ],
+  "DE-SN": [
+    "sachsen"
+  ],
+  "DE-ST": [
+    "sachsen-anhalt"
+  ],
+  "DE-TH": [
+    "thüringen"
+  ],
+  "DK": [
+    "danmark"
+  ],
+  "DO": [
+    "república dominicana"
+  ],
+  "DZ": [
+    "algérie",
+    "الجزائر"
+  ],
+  "EE": [
+    "eesti"
+  ],
+  "EG": [
+    "مصر",
+    "misr"
+  ],
+  "EH": [
+    "الصحراء الغربية"
+  ],
+  "ES": [
+    "españa",
+    "espana",
+    "espagne"
+  ],
+  "ES-AN": [
+    "andalucía"
+  ],
+  "ES-AR": [
+    "aragón"
+  ],
+  "ES-CL": [
+    "castilla y león"
+  ],
+  "ES-CN": [
+    "islas canarias"
+  ],
+  "ES-CT": [
+    "cataluña",
+    "catalunya"
+  ],
+  "ES-IB": [
+    "islas baleares",
+    "illes balears"
+  ],
+  "ES-NC": [
+    "navarra"
+  ],
+  "ES-PV": [
+    "país vasco",
+    "euskadi"
+  ],
+  "ES-VC": [
+    "comunidad valenciana"
+  ],
+  "ET": [
+    "ኢትዮጵያ"
+  ],
+  "FI": [
+    "suomi"
+  ],
+  "FK": [
+    "malvinas",
+    "islas malvinas"
+  ],
+  "FO": [
+    "færøerne",
+    "føroyar"
+  ],
+  "FR": [
+    "francia",
+    "frankreich"
+  ],
+  "FR-BFC": [
+    "burgundy"
+  ],
+  "FR-BRE": [
+    "bretagne"
+  ],
+  "FR-GES": [
+    "alsace",
+    "lorraine"
+  ],
+  "FR-IDF": [
+    "paris"
+  ],
+  "FR-NOR": [
+    "normandie"
+  ],
+  "FR-PAC": [
+    "provence",
+    "paca"
+  ],
+  "GB": [
+    "uk",
+    "great britain",
+    "britain",
+    "england"
+  ],
+  "GB-ENG": [
+    "inglaterra"
+  ],
+  "GB-NIR": [
+    "tuaisceart éireann"
+  ],
+  "GB-SCT": [
+    "alba",
+    "escocia"
+  ],
+  "GB-WLS": [
+    "cymru",
+    "gales"
+  ],
+  "GE": [
+    "საქართველო",
+    "sakartvelo"
+  ],
+  "GF": [
+    "guyane"
+  ],
+  "GL": [
+    "grønland",
+    "kalaallit nunaat"
+  ],
+  "GN": [
+    "guinée"
+  ],
+  "GQ": [
+    "guinea ecuatorial"
+  ],
+  "GR": [
+    "ελλάδα",
+    "hellas",
+    "grecia"
+  ],
+  "HK": [
+    "香港"
+  ],
+  "HR": [
+    "hrvatska"
+  ],
+  "HT": [
+    "haïti"
+  ],
+  "HU": [
+    "magyarország"
+  ],
+  "IE": [
+    "éire",
+    "eire"
+  ],
+  "IL": [
+    "ישראל",
+    "إسرائيل"
+  ],
+  "IN": [
+    "भारत",
+    "bharat",
+    "hindustan"
+  ],
+  "IN-AN": [
+    "अंडमान और निकोबार द्वीपसमूह"
+  ],
+  "IN-AP": [
+    "ఆంధ్ర ప్రదేశ్"
+  ],
+  "IN-AR": [
+    "अरुणाचल प्रदेश"
+  ],
+  "IN-AS": [
+    "অসম",
+    "asom"
+  ],
+  "IN-BR": [
+    "बिहार"
+  ],
+  "IN-CH": [
+    "चंडीगढ़"
+  ],
+  "IN-DL": [
+    "दिल्ली",
+    "new delhi"
+  ],
+  "IN-GA": [
+    "गोवा"
+  ],
+  "IN-GJ": [
+    "ગુજરાત"
+  ],
+  "IN-HP": [
+    "हिमाचल प्रदेश"
+  ],
+  "IN-HR": [
+    "हरियाणा"
+  ],
+  "IN-JH": [
+    "झारखंड"
+  ],
+  "IN-JK": [
+    "جموں و کشمیر",
+    "जम्मू और कश्मीर"
+  ],
+  "IN-KA": [
+    "ಕರ್ನಾಟಕ",
+    "mysore"
+  ],
+  "IN-KL": [
+    "കേരളം"
+  ],
+  "IN-LA": [
+    "ལ་དྭགས"
+  ],
+  "IN-LD": [
+    "लक्षद्वीप"
+  ],
+  "IN-MH": [
+    "महाराष्ट्र"
+  ],
+  "IN-ML": [
+    "मेघालय"
+  ],
+  "IN-MN": [
+    "মণিপুর"
+  ],
+  "IN-MP": [
+    "मध्य प्रदेश"
+  ],
+  "IN-MZ": [
+    "मिजोरम"
+  ],
+  "IN-NL": [
+    "नागालैंड"
+  ],
+  "IN-PB": [
+    "ਪੰਜਾਬ",
+    "पंजाब"
+  ],
+  "IN-PY": [
+    "pondicherry",
+    "புதுச்சேரி"
+  ],
+  "IN-RJ": [
+    "राजस्थान"
+  ],
+  "IN-SK": [
+    "सिक्किम"
+  ],
+  "IN-TN": [
+    "தமிழ்நாடு",
+    "madras"
+  ],
+  "IN-TR": [
+    "ত্রিপুরা"
+  ],
+  "IN-UK": [
+    "उत्तराखंड",
+    "uttaranchal"
+  ],
+  "IN-UP": [
+    "उत्तर प्रदेश"
+  ],
+  "IN-WB": [
+    "পশ্চিমবঙ্গ",
+    "paschim banga"
+  ],
+  "IQ": [
+    "العراق"
+  ],
+  "IR": [
+    "ایران",
+    "persia"
+  ],
+  "IS": [
+    "ísland"
+  ],
+  "IT": [
+    "italia",
+    "italien"
+  ],
+  "IT-21": [
+    "piemonte"
+  ],
+  "IT-23": [
+    "valle d'aosta"
+  ],
+  "IT-25": [
+    "lombardia"
+  ],
+  "IT-32": [
+    "südtirol"
+  ],
+  "IT-52": [
+    "toscana"
+  ],
+  "IT-62": [
+    "latium"
+  ],
+  "IT-75": [
+    "puglia"
+  ],
+  "IT-82": [
+    "sicilia"
+  ],
+  "IT-88": [
+    "sardegna"
+  ],
+  "JO": [
+    "الأردن"
+  ],
+  "JP": [
+    "日本",
+    "nippon",
+    "nihon",
+    "japon"
+  ],
+  "JP-01": [
+    "北海道"
+  ],
+  "JP-02": [
+    "青森"
+  ],
+  "JP-03": [
+    "岩手"
+  ],
+  "JP-04": [
+    "宮城"
+  ],
+  "JP-05": [
+    "秋田"
+  ],
+  "JP-06": [
+    "山形"
+  ],
+  "JP-07": [
+    "福島"
+  ],
+  "JP-08": [
+    "茨城"
+  ],
+  "JP-09": [
+    "栃木"
+  ],
+  "JP-10": [
+    "群馬"
+  ],
+  "JP-11": [
+    "埼玉"
+  ],
+  "JP-12": [
+    "千葉"
+  ],
+  "JP-13": [
+    "東京",
+    "tokio"
+  ],
+  "JP-14": [
+    "神奈川"
+  ],
+  "JP-15": [
+    "新潟"
+  ],
+  "JP-16": [
+    "富山"
+  ],
+  "JP-17": [
+    "石川"
+  ],
+  "JP-18": [
+    "福井"
+  ],
+  "JP-19": [
+    "山梨"
+  ],
+  "JP-20": [
+    "長野"
+  ],
+  "JP-21": [
+    "岐阜"
+  ],
+  "JP-22": [
+    "静岡"
+  ],
+  "JP-23": [
+    "愛知"
+  ],
+  "JP-24": [
+    "三重"
+  ],
+  "JP-25": [
+    "滋賀"
+  ],
+  "JP-26": [
+    "京都"
+  ],
+  "JP-27": [
+    "大阪"
+  ],
+  "JP-28": [
+    "兵庫"
+  ],
+  "JP-29": [
+    "奈良"
+  ],
+  "JP-30": [
+    "和歌山"
+  ],
+  "JP-31": [
+    "鳥取"
+  ],
+  "JP-32": [
+    "島根"
+  ],
+  "JP-33": [
+    "岡山"
+  ],
+  "JP-34": [
+    "広島"
+  ],
+  "JP-35": [
+    "山口"
+  ],
+  "JP-36": [
+    "徳島"
+  ],
+  "JP-37": [
+    "香川"
+  ],
+  "JP-38": [
+    "愛媛"
+  ],
+  "JP-39": [
+    "高知"
+  ],
+  "JP-40": [
+    "福岡"
+  ],
+  "JP-41": [
+    "佐賀"
+  ],
+  "JP-42": [
+    "長崎"
+  ],
+  "JP-43": [
+    "熊本"
+  ],
+  "JP-44": [
+    "大分"
+  ],
+  "JP-45": [
+    "宮崎"
+  ],
+  "JP-46": [
+    "鹿児島"
+  ],
+  "JP-47": [
+    "沖縄"
+  ],
+  "KG": [
+    "кыргызстан"
+  ],
+  "KH": [
+    "កម្ពុជា",
+    "kampuchea"
+  ],
+  "KM": [
+    "comores"
+  ],
+  "KP": [
+    "dprk",
+    "조선민주주의인민공화국"
+  ],
+  "KR": [
+    "korea",
+    "대한민국",
+    "hanguk"
+  ],
+  "KW": [
+    "الكويت"
+  ],
+  "KZ": [
+    "қазақстан"
+  ],
+  "LA": [
+    "ລາວ"
+  ],
+  "LB": [
+    "لبنان",
+    "liban"
+  ],
+  "LK": [
+    "ceylon",
+    "ශ්‍රී ලංකාව"
+  ],
+  "LT": [
+    "lietuva"
+  ],
+  "LU": [
+    "luxemburg",
+    "lëtzebuerg"
+  ],
+  "LV": [
+    "latvija"
+  ],
+  "LY": [
+    "ليبيا"
+  ],
+  "MA": [
+    "maroc",
+    "المغرب"
+  ],
+  "ME": [
+    "crna gora"
+  ],
+  "MG": [
+    "madagasikara"
+  ],
+  "MK": [
+    "macedonia",
+    "северна македонија"
+  ],
+  "MM": [
+    "burma",
+    "မြန်မာ"
+  ],
+  "MN": [
+    "монгол"
+  ],
+  "MO": [
+    "macao",
+    "澳門"
+  ],
+  "MR": [
+    "موريتانيا"
+  ],
+  "MV": [
+    "ދިވެހިރާއްޖެ"
+  ],
+  "MX": [
+    "méxico",
+    "mejico"
+  ],
+  "MX-CMX": [
+    "cdmx",
+    "df",
+    "ciudad de mexico"
+  ],
+  "MX-MEX": [
+    "mexico state"
+  ],
+  "MX-MIC": [
+    "michoacán"
+  ],
+  "MX-NLE": [
+    "nuevo león"
+  ],
+  "MX-QUE": [
+    "querétaro"
+  ],
+  "MX-YUC": [
+    "yucatán"
+  ],
+  "MZ": [
+    "moçambique"
+  ],
+  "NC": [
+    "nouvelle-calédonie"
+  ],
+  "NL": [
+    "holland",
+    "nederland",
+    "pays-bas"
+  ],
+  "NO": [
+    "norge",
+    "noreg"
+  ],
+  "NP": [
+    "नेपाल"
+  ],
+  "NZ": [
+    "aotearoa"
+  ],
+  "OM": [
+    "عُمان"
+  ],
+  "PA": [
+    "panamá"
+  ],
+  "PE": [
+    "perú"
+  ],
+  "PF": [
+    "polynésie française",
+    "tahiti"
+  ],
+  "PH": [
+    "pilipinas",
+    "filipinas"
+  ],
+  "PK": [
+    "پاکستان"
+  ],
+  "PL": [
+    "polska",
+    "polen"
+  ],
+  "PS": [
+    "فلسطين",
+    "palestinian territories"
+  ],
+  "QA": [
+    "قطر"
+  ],
+  "RE": [
+    "réunion"
+  ],
+  "RO": [
+    "românia"
+  ],
+  "RS": [
+    "србија",
+    "srbija"
+  ],
+  "RU": [
+    "россия",
+    "russian federation",
+    "rossiya"
+  ],
+  "RU-BA": [
+    "башкортостан"
+  ],
+  "RU-CE": [
+    "чечня"
+  ],
+  "RU-DA": [
+    "дагестан"
+  ],
+  "RU-MOW": [
+    "москва"
+  ],
+  "RU-SPE": [
+    "санкт-петербург",
+    "st petersburg"
+  ],
+  "RU-TA": [
+    "татарстан"
+  ],
+  "SA": [
+    "السعودية",
+    "ksa"
+  ],
+  "SD": [
+    "السودان"
+  ],
+  "SE": [
+    "sverige"
+  ],
+  "SG": [
+    "新加坡",
+    "singapura"
+  ],
+  "SI": [
+    "slovenija"
+  ],
+  "SK": [
+    "slovensko"
+  ],
+  "SN": [
+    "sénégal"
+  ],
+  "SO": [
+    "soomaaliya"
+  ],
+  "ST": [
+    "são tomé e príncipe"
+  ],
+  "SY": [
+    "سوريا",
+    "syrian arab republic"
+  ],
+  "SZ": [
+    "swaziland"
+  ],
+  "TD": [
+    "tchad",
+    "تشاد"
+  ],
+  "TH": [
+    "ไทย",
+    "siam"
+  ],
+  "TJ": [
+    "тоҷикистон"
+  ],
+  "TL": [
+    "east timor"
+  ],
+  "TM": [
+    "türkmenistan"
+  ],
+  "TN": [
+    "tunisie",
+    "تونس"
+  ],
+  "TR": [
+    "türkiye",
+    "turkiye"
+  ],
+  "TW": [
+    "台灣",
+    "formosa",
+    "republic of china"
+  ],
+  "UA": [
+    "україна",
+    "ukraina"
+  ],
+  "US": [
+    "usa",
+    "america",
+    "united states of america",
+    "estados unidos"
+  ],
+  "US-AK": [
+    "the last frontier"
+  ],
+  "US-AL": [
+    "yellowhammer state",
+    "heart of dixie"
+  ],
+  "US-AR": [
+    "natural state"
+  ],
+  "US-AZ": [
+    "grand canyon state"
+  ],
+  "US-CA": [
+    "golden state",
+    "cali",
+    "califas"
+  ],
+  "US-CO": [
+    "centennial state"
+  ],
+  "US-CT": [
+    "constitution state",
+    "nutmeg state"
+  ],
+  "US-DC": [
+    "washington dc",
+    "dc"
+  ],
+  "US-DE": [
+    "first state",
+    "diamond state"
+  ],
+  "US-FL": [
+    "sunshine state"
+  ],
+  "US-GA": [
+    "peach state"
+  ],
+  "US-HI": [
+    "aloha state"
+  ],
+  "US-IA": [
+    "hawkeye state"
+  ],
+  "US-ID": [
+    "gem state"
+  ],
+  "US-IL": [
+    "prairie state",
+    "land of lincoln"
+  ],
+  "US-IN": [
+    "hoosier state"
+  ],
+  "US-KS": [
+    "sunflower state"
+  ],
+  "US-KY": [
+    "bluegrass state"
+  ],
+  "US-LA": [
+    "pelican state",
+    "bayou state"
+  ],
+  "US-MA": [
+    "bay state"
+  ],
+  "US-MD": [
+    "old line state"
+  ],
+  "US-ME": [
+    "pine tree state"
+  ],
+  "US-MI": [
+    "great lakes state",
+    "wolverine state"
+  ],
+  "US-MN": [
+    "north star state"
+  ],
+  "US-MO": [
+    "show me state"
+  ],
+  "US-MS": [
+    "magnolia state"
+  ],
+  "US-MT": [
+    "treasure state",
+    "big sky country"
+  ],
+  "US-NC": [
+    "tar heel state"
+  ],
+  "US-ND": [
+    "peace garden state"
+  ],
+  "US-NE": [
+    "cornhusker state"
+  ],
+  "US-NH": [
+    "granite state"
+  ],
+  "US-NJ": [
+    "garden state"
+  ],
+  "US-NM": [
+    "land of enchantment"
+  ],
+  "US-NV": [
+    "silver state"
+  ],
+  "US-NY": [
+    "empire state"
+  ],
+  "US-OH": [
+    "buckeye state"
+  ],
+  "US-OK": [
+    "sooner state"
+  ],
+  "US-OR": [
+    "beaver state"
+  ],
+  "US-PA": [
+    "keystone state"
+  ],
+  "US-PR": [
+    "isla del encanto"
+  ],
+  "US-RI": [
+    "ocean state"
+  ],
+  "US-SC": [
+    "palmetto state"
+  ],
+  "US-SD": [
+    "mount rushmore state"
+  ],
+  "US-TN": [
+    "volunteer state"
+  ],
+  "US-TX": [
+    "lone star state"
+  ],
+  "US-UT": [
+    "beehive state"
+  ],
+  "US-VA": [
+    "old dominion"
+  ],
+  "US-VT": [
+    "green mountain state"
+  ],
+  "US-WA": [
+    "evergreen state"
+  ],
+  "US-WI": [
+    "badger state"
+  ],
+  "US-WV": [
+    "mountain state"
+  ],
+  "US-WY": [
+    "equality state",
+    "cowboy state"
+  ],
+  "UZ": [
+    "o'zbekiston",
+    "узбекистан"
+  ],
+  "VA": [
+    "holy see",
+    "santa sede"
+  ],
+  "VN": [
+    "việt nam",
+    "viet nam"
+  ],
+  "YE": [
+    "اليمن"
+  ],
+  "ZA": [
+    "suid-afrika",
+    "rsa"
+  ]
+}
