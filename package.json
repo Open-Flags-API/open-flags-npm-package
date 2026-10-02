@@ -1,39 +1,96 @@
 {
   "name": "open-flags",
-  "version": "0.0.5",
-  "description": "A package for resolving flag SVGs",
-  "main": "dist/open-flags.umd.js",
-  "module": "dist/open-flags.es.js",
-  "types": "dist/index.d.ts",
+  "version": "0.1.0",
+  "description": "Flag and coat of arms SVGs keyed by ISO 3166 codes, as data URIs loaded per flag, with regional and national polyfills, en/es/zh name lookup and search",
+  "main": "./dist/index.mjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/types/src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/types/src/index.d.ts",
+      "import": "./dist/index.mjs",
+      "default": "./dist/index.mjs"
+    },
+    "./national": {
+      "types": "./dist/types/src/index.d.ts",
+      "import": "./dist/national.mjs",
+      "default": "./dist/national.mjs"
+    },
+    "./all": {
+      "types": "./dist/types/src/index.d.ts",
+      "import": "./dist/all.mjs",
+      "default": "./dist/all.mjs"
+    },
+    "./countries/*": {
+      "types": "./dist/types/src/countries.d.ts",
+      "import": "./dist/countries/*.mjs",
+      "default": "./dist/countries/*.mjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "typesVersions": {
+    "*": {
+      "national": [
+        "./dist/types/src/index.d.ts"
+      ],
+      "all": [
+        "./dist/types/src/index.d.ts"
+      ],
+      "countries/*": [
+        "./dist/types/src/countries.d.ts"
+      ]
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "sideEffects": [
+    "./dist/countries/*.mjs",
+    "./dist/national.mjs",
+    "./dist/all.mjs"
+  ],
+  "engines": {
+    "node": ">=20.19"
+  },
   "scripts": {
-    "build": "npm run gen:flags && vite build",
-    "dry": "ts-node src/index.ts",
-    "watch": "tsc -w",
+    "build": "npm run gen:flags && node --max-old-space-size=8192 node_modules/vite/bin/vite.js build && npm run build:types",
+    "build:types": "tsc -p tsconfig.build.json",
+    "build:api": "npm run build -w open-flags-api",
+    "dry": "tsc --noEmit",
+    "watch": "tsc --noEmit -w",
     "gen:flags": "ts-node scripts/generateFlagMap.ts",
-    "gen:convert-names": "ts-node scripts/convert-svg-names-to-iso.ts",
+    "test": "npm run test:unit && npm run test --workspaces --if-present",
     "test:unit": "jest",
     "data:iso": "ts-node scripts/update-iso-data.ts",
     "import:api-flags": "ts-node scripts/import-api-flags.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shyaboi/openflagsapi.git"
+    "url": "git+https://github.com/Open-Flags-API/open-flags-npm-package.git"
   },
   "keywords": [
     "flags",
     "svg",
-    "images"
+    "images",
+    "country-flags",
+    "coat-of-arms",
+    "iso-3166",
+    "iso-3166-1",
+    "iso-3166-2",
+    "i18n",
+    "data-uri",
+    "open-flags"
   ],
   "author": "shyaboi",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/shyaboi/openflagsapi/issues"
+    "url": "https://github.com/Open-Flags-API/open-flags-npm-package/issues"
   },
-  "homepage": "https://github.com/shyaboi/openflagsapi#readme",
+  "homepage": "https://docs.openflags.net/implementations/npm/",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "jest": "^29.7.0",
-    "jest-transform-stub": "^2.0.0",
     "svgo": "^4.1.0",
     "ts-jest": "^29.4.14",
     "ts-node": "^10.9.2",
