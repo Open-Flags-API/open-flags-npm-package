@@ -1,276 +1,199 @@
 # Open Flags
 
-`open-flags` is a lightweight JavaScript library for handling flag SVGs. It provides functions to fetch and display SVG flags based on country and region codes. This library is perfect for integrating into web applications built with frameworks like React, Vue, Angular, or standard JavaScript.
+Flags and coats of arms for every country and ISO 3166-2 subdivision, keyed by ISO codes, with polyfills for
+codes that have no artwork of their own and names in English, Spanish and Chinese.
 
-## Installation
+This repository publishes two packages that share one ISO core:
 
-Install the package via npm:
+| Package | Images come from | Install size | Use it when |
+|---|---|---|---|
+| [`open-flags`](#open-flags-local) | SVGs bundled in the package, as data URIs | ~149 MB tarball | you want everything local and offline, loading only the flags your code asks for |
+| [`open-flags-api`](packages/open-flags-api/README.md) | the [Open Flags API](https://api.openflags.net) | ~0.7 MB tarball | you want a tiny dependency and are happy to load images from the API |
+
+Both packages accept the same inputs (ISO codes, names in any supported locale, 0.0.5 names), apply the same
+polyfills and expose the same name lookup and search, so you can switch between them.
+
+Documentation: [docs.openflags.net](https://docs.openflags.net/implementations/npm/)
+
+## open-flags (local)
+
+### Installation
 
 ```sh
 npm install open-flags
 ```
-or yarn
-```
-yarn add open-flags
 
-```
+ESM only. Node 20.19 or newer (`require('open-flags')` works through `require(esm)`).
 
-## Documentation
-vist [Open Flags Docs](https://docs.openflags.net/implementations/npm/) for more documentation
-# Usage
+### Quick start
 
-## React
+```js
+import { loadFlagSvg, getFlagSvg } from 'open-flags';
 
-### Installation
-```
-npm install open-flags
-# or
-yarn add open-flags
-```
-Example React Usage
-```
-import React, { useState } from 'react';
-import { getAllFlags, getFlagsByCountry, getFlagSvg } from 'open-flags';
+const svg = await loadFlagSvg('US', 'CA'); // loads one chunk, returns a data:image/svg+xml URI
+img.src = svg;
 
-const FlagList: React.FC = () => {
-  const [country, setCountry] = useState('');
-
-  const handleCountryChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setCountry(event.target.value.toLowerCase());
-  };
-
-  const flagsToDisplay = country ? getFlagsByCountry(country) : getAllFlags();
-
-  return (
-    <div>
-      <h1>Flags</h1>
-      <input
-        type="text"
-        placeholder="Enter country code"
-        value={country}
-        onChange={handleCountryChange}
-      />
-      <div>
-        {flagsToDisplay.map(flag => {
-          const [country, region] = flag.split('/');
-          const svgContent = getFlagSvg(country, region);
-          return (
-            <div key={flag}>
-              <h2>{flag}</h2>
-              <img src={svgContent} alt='flag' />
-          );
-        })}
-      </div>
-    </div>
-  );
-};
-
-export default FlagList;
+getFlagSvg('US', 'CA'); // synchronous from now on
 ```
 
-Use the FlagList component in your App.tsx:
+### Choose how much gets bundled
 
-```
-import React from 'react';
-import FlagList from './FlagList';
+Every flag is its own lazily loaded chunk. The main entry bundles no artwork at all; import an extra entry when
+you want flags available synchronously.
 
-const App: React.FC = () => {
-  return (
-    <div className="App">
-      <FlagList />
-    </div>
-  );
-};
+| Import | `getFlagSvg()` works synchronously for | Loaded up front |
+|---|---|---|
+| `open-flags` | flags you already loaded with `loadFlagSvg()` | code and name data only (~1.6 MB) |
+| `open-flags/national` | every national flag (238) | ~5.6 MB |
+| `open-flags/countries/US` | one country: its flag, coat of arms, subdivisions, variants and extras | depends on the country (US ~20 MB) |
+| `open-flags/all` | all 3,804 flags | ~556 MB, not meant for browsers |
 
-export default App;
+```js
+import { getFlagSvg } from 'open-flags/national';
+getFlagSvg('JP'); // country flags without awaiting
 
-```
-
-## Vue
-
-
-### Installation
-
-```
-npm install open-flags
-# or
-yarn add open-flags
+import 'open-flags/countries/MX';
+getFlagSvg('MX', 'CHH'); // every Mexican flag, synchronously
 ```
 
-#### Example Component
+`getFlagSvg()` throws a message naming the entry to import, or `loadFlagSvg()`, when a flag exists but is not
+loaded yet. Bundlers emit one small chunk per flag into your build output (about 3,800 files); a browser only
+downloads the ones you load. `preloadCountry('FR')` loads one country on demand.
 
-Create a FlagList.vue component to display all flags or filter by country:
+### What you can pass
 
-```
-<template>
-  <div>
-    <h1>Flags</h1>
-    <input v-model="country" placeholder="Enter country code" />
-    <div v-for="flag in flagsToDisplay" :key="flag">
-      <h2>{{ flag }}</h2>
-      <div v-html="getFlagSvgContent(flag)"></div>
-    </div>
-  </div>
-</template>
-
-<script>
-import { ref, computed } from 'vue';
-import { getAllFlags, getFlagsByCountry, getFlagSvg } from 'open-flags';
-
-export default {
-  setup() {
-    const country = ref('');
-
-    const flagsToDisplay = computed(() =>
-      country.value ? getFlagsByCountry(country.value) : getAllFlags()
-    );
-
-    const getFlagSvgContent = (flag) => {
-      const [country, region] = flag.split('/');
-      return getFlagSvg(country, region);
-    };
-
-    return {
-      country,
-      flagsToDisplay,
-      getFlagSvgContent,
-    };
-  },
-};
-</script>
+```js
+getFlagSvg('US', 'CA');                                 // ISO 3166-1 + subdivision suffix
+getFlagSvg('US-CA');                                    // full ISO 3166-2 code
+getFlagSvg('US');                                       // national flag
+getFlagSvg('Estados Unidos', 'California');             // names in any supported locale
+getFlagSvg('美国', '加利福尼亚州', { locale: 'zh-CN' });
+getFlagSvg('usa', 'california');                        // 0.0.5 names still work
+getFlagSvg('CA-governor-general');                      // extras: flags with no ISO code of their own
+getFlagSvg('US', 'GA-Classic');                         // variants: alternate or superseded designs
 ```
 
+`getAllFlags()` lists every key (`'US/CA'`, `'DE-COA'`, `'KR/26-pre-2023'`, ...) and `getFlagsByCountry('MH')`
+returns `['MH', 'MH/L', 'MH/MAJ']`.
 
-## Angular
+### Polyfills
 
-### Installation
+5,394 ISO codes resolve to artwork. When a code has no flag of its own, the nearest parent subdivision with a
+flag is used (regional polyfill), then the country flag (national polyfill):
 
-```
-npm install open-flags
-# or
-yarn add open-flags
-```
+```js
+resolveFlag('FR-01');   // { key: 'FR/01', polyfill: null, ... }           own flag
+resolveFlag('AZ-BAB');  // { key: 'AZ/NX', polyfill: 'regional', ... }      Nakhchivan's flag
+resolveFlag('AD', '02');// { key: 'AD',    polyfill: 'national', ... }      Andorra's flag
 
-#### Example Component
-
-Create a flag-list.component.ts to display all flags or filter by country:
-
-
-```
-import { Component } from '@angular/core';
-import { getAllFlags, getFlagsByCountry, getFlagSvg } from 'open-flags';
-
-@Component({
-  selector: 'app-flag-list',
-  template: `
-    <div>
-      <h1>Flags</h1>
-      <input [(ngModel)]="country" placeholder="Enter country code" />
-      <div *ngFor="let flag of flagsToDisplay()">
-        <h2>{{ flag }}</h2>
-        <div [innerHTML]="getFlagSvgContent(flag)"></div>
-      </div>
-    </div>
-  `,
-})
-export class FlagListComponent {
-  country: string = '';
-
-  flagsToDisplay(): string[] {
-    return this.country ? getFlagsByCountry(this.country) : getAllFlags();
-  }
-
-  getFlagSvgContent(flag: string): string {
-    const [country, region] = flag.split('/');
-    return getFlagSvg(country, region);
-  }
-}
+getFlagSvg('AZ', 'BAB', { polyfill: false }); // throws instead of polyfilling
 ```
 
-Add FormsModule to your AppModule:
+Of the 5,394 codes, 2,048 have their own flag, 445 use a regional polyfill and 2,901 the national flag.
+Withdrawn and user-assigned codes the Open Flags API has artwork for are included and report
+`status: 'withdrawn'` or `'user-assigned'` (`BA-01`, `FR-B`, `XK`).
 
-```
-import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
-import { FormsModule } from '@angular/forms';
-import { AppComponent } from './app.component';
-import { FlagListComponent } from './flag-list.component';
+### Coats of arms
 
-@NgModule({
-  declarations: [AppComponent, FlagListComponent],
-  imports: [BrowserModule, FormsModule],
-  bootstrap: [AppComponent],
-})
-export class AppModule {}
+```js
+await loadCoatOfArmsSvg('DE', 'BY');
+getCoatOfArmsSvg('DE', 'BY');
+getFlagSvg('DE', 'BY', { variant: 'coat' }); // same thing
 ```
 
+1,717 codes have their own coat of arms; 293 more use a parent's.
 
-## Standard JavaScript
+### Names, locales and search
 
-### Installation
-```
-npm install open-flags
-# or
-yarn add open-flags
-```
+Supported locales: `en`, `es`, `zh-CN`, `zh-TW`. Switch with one key, per call or as the default:
 
-#### Example Usage
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Flags</title>
-</head>
-<body>
-  <div>
-    <h1>Flags</h1>
-    <input id="country-input" type="text" placeholder="Enter country code" />
-    <div id="flags-container"></div>
-  </div>
+```js
+getName('US-CA');            // 'California'
+getName('US-CA', 'zh-CN');   // '加利福尼亚州'
+getName('US-CA', 'zh-TW');   // '加利福尼亞州'
+getName('DE-BY', 'es');      // 'Baviera'
 
-  <script type="module">
-    import { getAllFlags, getFlagsByCountry, getFlagSvg } from 'open-flags';
+setDefaultLocale('es');
+getName('MX-CMX');           // 'Ciudad de México'
 
-    const countryInput = document.getElementById('country-input');
-    const flagsContainer = document.getElementById('flags-container');
+getIsoCode('Baviera');                           // 'DE-BY'
+getIsoCode('巴伐利亚', { locale: 'zh-CN' });       // 'DE-BY'
+getIsoCode('California', { country: 'US' });     // 'US-CA'
 
-    const renderFlags = (flags) => {
-      flagsContainer.innerHTML = '';
-      flags.forEach((flag) => {
-        const [country, region] = flag.split('/');
-        const svgContent = getFlagSvg(country, region);
-        const flagDiv = document.createElement('div');
-        flagDiv.innerHTML = `<h2>${flag}</h2><div>${svgContent}</div>`;
-        flagsContainer.appendChild(flagDiv);
-      });
-    };
-
-    countryInput.addEventListener('input', () => {
-      const country = countryInput.value.toLowerCase();
-      const flags = country ? getFlagsByCountry(country) : getAllFlags();
-      renderFlags(flags);
-    });
-
-    renderFlags(getAllFlags());
-  </script>
-</body>
-</html>
+searchFlags('calif', { limit: 3 });
+// [{ iso: 'US-CA', name: 'California', ... }, { iso: 'MX-BCN', ... }, { iso: 'MX-BCS', ... }]
+searchFlags('加利福', { locale: 'zh-CN' });
 ```
 
+Search works like the Open Flags API's search: case- and accent-insensitive, across ISO codes, names in every
+locale and aliases ("golden state"). A missing name falls back `zh-TW` -> `zh-CN` -> `en` and `es` -> `en`.
+Locale aliases such as `zh`, `zh-Hant` or `es-MX` are accepted.
 
-## API
+### Migrating from 0.0.5
 
-#### getFlagSvg(country: string, region: string): string
-Returns the SVG content for the specified country and region.
+- Keys are ISO codes: `'US/CA'` instead of `'usa/california'`. The 0.0.5 names still resolve, to the same
+  artwork as before, except where a subdivision now has a real flag instead of the coat of arms 0.0.5 served
+  (10 Mexican states), or a superseded design was replaced by the current one (5 South Korean provinces,
+  Papua, Penza). The old designs remain available as variants, e.g. `KR/26-pre-2023`.
+- `getFlagSvg()` is synchronous only for loaded flags: call `loadFlagSvg()` once, or import
+  `open-flags/national`, `open-flags/countries/<CC>` or `open-flags/all`.
+- ESM only (`dist/*.mjs`); the UMD build is gone. Node 20.19 or newer.
+- `getFlagsByCountry()` matches the exact country code (`'C'` no longer matches `'CA'` and `'CH'`).
+- Unknown input still throws `SVG not found for <country>-<region>`.
 
-#### getAllFlags(): string[]
-Returns an array of all available flags in the format country/region.
+## open-flags-api
 
-#### getFlagsByCountry(country: string): string[]
-Returns an array of flags for the specified country.
+```js
+import { getFlagUrl, getPngUrl, createClient } from 'open-flags-api';
 
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+getFlagUrl('US', 'CA');                  // https://api.openflags.net/flags/US/US-CA/flag.svg
+getFlagUrl('AD', '02');                  // polyfilled: https://api.openflags.net/flags/AD/flag.svg
+getPngUrl('FR-01', null, { size: 256 }); // .../api/v1/flags/FR-01/png?variant=flag&size=256
 
+const api = createClient();
+await api.search('california');
+```
+
+See [packages/open-flags-api/README.md](packages/open-flags-api/README.md).
+
+## Data and artwork
+
+- 3,804 keys: 238 national flags, 5 national coats of arms, 1,810 subdivision flags, 1,712 subdivision coats of
+  arms, 13 variants and 26 extras.
+- Artwork comes from the Open Flags API corpus (Wikimedia Commons, flagcdn) and the SVGs that were already in
+  this package. Imported SVGs are optimized with SVGO; files it could not shrink are kept as they were.
+- ISO 3166 codes, subdivision parents and translations come from
+  [Debian iso-codes](https://salsa.debian.org/iso-codes-team/iso-codes) (LGPL-2.1-or-later), with the Open Flags
+  API's own names preferred.
+
+File layout under `flags/` (a key is the path without `.svg`):
+
+| File | Key | Meaning |
+|---|---|---|
+| `flags/US.svg` | `US` | national flag |
+| `flags/DE-COA.svg` | `DE-COA` | national coat of arms |
+| `flags/US/CA.svg` | `US/CA` | flag of ISO 3166-2 `US-CA` |
+| `flags/US/CA-COA.svg` | `US/CA-COA` | its coat of arms |
+| `flags/US/GA-Classic.svg` | `US/GA-Classic` | a variant of a subdivision flag |
+| `flags/CA-governor-general.svg` | `CA-governor-general` | an extra with no ISO code |
+
+Cornwall is stored as `flags/GB/CON_.svg` because Windows reserves `CON` as a file name; its key is `GB/CON`.
+
+## Development
+
+Node 20.19 or newer; the full build needs about 6 GB of RAM.
+
+| Command | What it does |
+|---|---|
+| `npm run build` | regenerate, build `open-flags` with Vite, emit declarations |
+| `npm run build:api` | build `open-flags-api` |
+| `npm test` | tests for both packages |
+| `npm run gen:flags` | regenerate `flags/index.ts`, `src/generated/**`, the mappings and name tables from `flags/` and `data/` |
+| `npm run data:iso` | refresh `data/iso-codes.json` from Debian iso-codes and the API repo's names |
+| `npm run import:api-flags` | import new artwork from the API repo into `flags/` |
+
+See [TODO.md](TODO.md) for planned work.
+
+## License
+
+GPL-3.0-only. The artwork's own licenses vary by file (see TODO.md).
